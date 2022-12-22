@@ -46,17 +46,17 @@ export default {
   ],
   "themeConfig": {
     "navbar": {
-      "title": "My Site",
+      "title": "الرئيسية",
       "logo": {
         "alt": "My Site Logo",
-        "src": "img/logo.svg"
+        "src": "img/logo2.jpeg"
       },
       "items": [
         {
           "type": "doc",
           "docId": "intro",
           "position": "left",
-          "label": "Tutorial"
+          "label": "الفتاوى"
         }
       ],
       "hideOnScroll": false

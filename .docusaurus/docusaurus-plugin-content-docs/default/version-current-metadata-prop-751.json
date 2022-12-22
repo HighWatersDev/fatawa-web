@@ -11,131 +11,131 @@
     "tutorialSidebar": [
       {
         "type": "link",
-        "label": "Tutorial Intro",
+        "label": "فتاوى العلماء",
         "href": "/docs/intro",
         "docId": "intro"
       },
       {
         "type": "category",
-        "label": "Tutorial - Basics",
+        "label": "الشيخ سليمان الرحيلي",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "link",
-            "label": "Create a Page",
-            "href": "/docs/tutorial-basics/create-a-page",
-            "docId": "tutorial-basics/create-a-page"
+            "label": "الصلاة",
+            "href": "/docs/ruhayli/الصلاة",
+            "docId": "ruhayli/الصلاة"
           },
           {
             "type": "link",
-            "label": "Create a Document",
-            "href": "/docs/tutorial-basics/create-a-document",
-            "docId": "tutorial-basics/create-a-document"
+            "label": "الصيام",
+            "href": "/docs/ruhayli/الصيام",
+            "docId": "ruhayli/الصيام"
           },
           {
             "type": "link",
-            "label": "Create a Blog Post",
-            "href": "/docs/tutorial-basics/create-a-blog-post",
-            "docId": "tutorial-basics/create-a-blog-post"
+            "label": "القران",
+            "href": "/docs/ruhayli/القران",
+            "docId": "ruhayli/القران"
           },
           {
             "type": "link",
-            "label": "Markdown Features",
-            "href": "/docs/tutorial-basics/markdown-features",
-            "docId": "tutorial-basics/markdown-features"
-          },
-          {
-            "type": "link",
-            "label": "Deploy your site",
-            "href": "/docs/tutorial-basics/deploy-your-site",
-            "docId": "tutorial-basics/deploy-your-site"
-          },
-          {
-            "type": "link",
-            "label": "Congratulations!",
-            "href": "/docs/tutorial-basics/congratulations",
-            "docId": "tutorial-basics/congratulations"
+            "label": "فتاوى النساء",
+            "href": "/docs/ruhayli/النساء",
+            "docId": "ruhayli/النساء"
           }
         ],
-        "href": "/docs/category/tutorial---basics"
+        "href": "/docs/category/الشيخ-سليمان-الرحيلي"
       },
       {
         "type": "category",
-        "label": "Tutorial - Extras",
+        "label": "الشيخ عبد الرزاق البدر",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "link",
-            "label": "Manage Docs Versions",
-            "href": "/docs/tutorial-extras/manage-docs-versions",
-            "docId": "tutorial-extras/manage-docs-versions"
+            "label": "الصلاة",
+            "href": "/docs/albadr/الصلاة",
+            "docId": "albadr/الصلاة"
           },
           {
             "type": "link",
-            "label": "Translate your site",
-            "href": "/docs/tutorial-extras/translate-your-site",
-            "docId": "tutorial-extras/translate-your-site"
+            "label": "الصيام",
+            "href": "/docs/albadr/الصيام",
+            "docId": "albadr/الصيام"
+          },
+          {
+            "type": "link",
+            "label": "القران",
+            "href": "/docs/albadr/القران",
+            "docId": "albadr/القران"
+          },
+          {
+            "type": "link",
+            "label": "فتاوى النساء",
+            "href": "/docs/albadr/النساء",
+            "docId": "albadr/النساء"
           }
         ],
-        "href": "/docs/category/tutorial---extras"
+        "href": "/docs/category/الشيخ-عبد-الرزاق-البدر"
       }
     ]
   },
   "docs": {
+    "albadr/الصلاة": {
+      "id": "albadr/الصلاة",
+      "title": "الصلاة",
+      "description": "قصر الصلاة للمسافر",
+      "sidebar": "tutorialSidebar"
+    },
+    "albadr/الصيام": {
+      "id": "albadr/الصيام",
+      "title": "الصيام",
+      "description": "حكم الفطر في نهار رمضان اذا أراد السفر",
+      "sidebar": "tutorialSidebar"
+    },
+    "albadr/القران": {
+      "id": "albadr/القران",
+      "title": "القران",
+      "description": "حكم الفطر في نهار رمضان اذا أراد السفر",
+      "sidebar": "tutorialSidebar"
+    },
+    "albadr/النساء": {
+      "id": "albadr/النساء",
+      "title": "فتاوى النساء",
+      "description": "حكم حبوب منع الحمل والدم عند التناول",
+      "sidebar": "tutorialSidebar"
+    },
     "intro": {
       "id": "intro",
-      "title": "Tutorial Intro",
-      "description": "Let's discover Docusaurus in less than 5 minutes.",
+      "title": "فتاوى العلماء",
+      "description": "مرحبا بكم",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-basics/congratulations": {
-      "id": "tutorial-basics/congratulations",
-      "title": "Congratulations!",
-      "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+    "ruhayli/الصلاة": {
+      "id": "ruhayli/الصلاة",
+      "title": "الصلاة",
+      "description": "قصر الصلاة للمسافر 📃",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-basics/create-a-blog-post": {
-      "id": "tutorial-basics/create-a-blog-post",
-      "title": "Create a Blog Post",
-      "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+    "ruhayli/الصيام": {
+      "id": "ruhayli/الصيام",
+      "title": "الصيام",
+      "description": "حكم الفطر في نهار رمضان اذا أراد السفر 📃",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-basics/create-a-document": {
-      "id": "tutorial-basics/create-a-document",
-      "title": "Create a Document",
-      "description": "Documents are groups of pages connected through:",
+    "ruhayli/القران": {
+      "id": "ruhayli/القران",
+      "title": "القران",
+      "description": "حكم الفطر في نهار رمضان اذا أراد السفر",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-basics/create-a-page": {
-      "id": "tutorial-basics/create-a-page",
-      "title": "Create a Page",
-      "description": "Add Markdown or React files to src/pages to create a standalone page:",
-      "sidebar": "tutorialSidebar"
-    },
-    "tutorial-basics/deploy-your-site": {
-      "id": "tutorial-basics/deploy-your-site",
-      "title": "Deploy your site",
-      "description": "Docusaurus is a static-site-generator (also called Jamstack).",
-      "sidebar": "tutorialSidebar"
-    },
-    "tutorial-basics/markdown-features": {
-      "id": "tutorial-basics/markdown-features",
-      "title": "Markdown Features",
-      "description": "Docusaurus supports Markdown and a few additional features.",
-      "sidebar": "tutorialSidebar"
-    },
-    "tutorial-extras/manage-docs-versions": {
-      "id": "tutorial-extras/manage-docs-versions",
-      "title": "Manage Docs Versions",
-      "description": "Docusaurus can manage multiple versions of your docs.",
-      "sidebar": "tutorialSidebar"
-    },
-    "tutorial-extras/translate-your-site": {
-      "id": "tutorial-extras/translate-your-site",
-      "title": "Translate your site",
-      "description": "Let's translate docs/intro.md to French.",
+    "ruhayli/النساء": {
+      "id": "ruhayli/النساء",
+      "title": "فتاوى النساء",
+      "description": "حكم حبوب منع الحمل والدم عند التناول 📃",
       "sidebar": "tutorialSidebar"
     }
   }

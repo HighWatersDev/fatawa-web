@@ -1,0 +1,27 @@
+{
+  "unversionedId": "ruhayli/النساء",
+  "id": "ruhayli/النساء",
+  "title": "فتاوى النساء",
+  "description": "حكم حبوب منع الحمل والدم عند التناول 📃",
+  "source": "@site/docs/ruhayli/النساء.mdx",
+  "sourceDirName": "ruhayli",
+  "slug": "/ruhayli/النساء",
+  "permalink": "/docs/ruhayli/النساء",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ruhayli/النساء.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "القران",
+    "permalink": "/docs/ruhayli/القران"
+  },
+  "next": {
+    "title": "الشيخ عبد الرزاق البدر",
+    "permalink": "/docs/category/الشيخ-عبد-الرزاق-البدر"
+  }
+}

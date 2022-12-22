@@ -1,0 +1,27 @@
+{
+  "unversionedId": "ruhayli/congratulations",
+  "id": "ruhayli/congratulations",
+  "title": "Congratulations!",
+  "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+  "source": "@site/docs/ruhayli/congratulations.md",
+  "sourceDirName": "ruhayli",
+  "slug": "/ruhayli/congratulations",
+  "permalink": "/docs/ruhayli/congratulations",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ruhayli/congratulations.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Deploy your site",
+    "permalink": "/docs/ruhayli/deploy-your-site"
+  },
+  "next": {
+    "title": "Tutorial - Extras",
+    "permalink": "/docs/category/tutorial---extras"
+  }
+}

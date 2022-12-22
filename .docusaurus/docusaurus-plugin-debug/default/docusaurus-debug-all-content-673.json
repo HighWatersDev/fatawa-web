@@ -20,10 +20,114 @@
           "contentPathLocalized": "/home/luqmaan/projects/fatawa-web/i18n/ar/docusaurus-plugin-content-docs/current",
           "docs": [
             {
+              "unversionedId": "albadr/الصلاة",
+              "id": "albadr/الصلاة",
+              "title": "الصلاة",
+              "description": "قصر الصلاة للمسافر",
+              "source": "@site/docs/albadr/الصلاة.mdx",
+              "sourceDirName": "albadr",
+              "slug": "/albadr/الصلاة",
+              "permalink": "/docs/albadr/الصلاة",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/albadr/الصلاة.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "الشيخ عبد الرزاق البدر",
+                "permalink": "/docs/category/الشيخ-عبد-الرزاق-البدر"
+              },
+              "next": {
+                "title": "الصيام",
+                "permalink": "/docs/albadr/الصيام"
+              }
+            },
+            {
+              "unversionedId": "albadr/الصيام",
+              "id": "albadr/الصيام",
+              "title": "الصيام",
+              "description": "حكم الفطر في نهار رمضان اذا أراد السفر",
+              "source": "@site/docs/albadr/الصيام.mdx",
+              "sourceDirName": "albadr",
+              "slug": "/albadr/الصيام",
+              "permalink": "/docs/albadr/الصيام",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/albadr/الصيام.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "الصلاة",
+                "permalink": "/docs/albadr/الصلاة"
+              },
+              "next": {
+                "title": "القران",
+                "permalink": "/docs/albadr/القران"
+              }
+            },
+            {
+              "unversionedId": "albadr/القران",
+              "id": "albadr/القران",
+              "title": "القران",
+              "description": "حكم الفطر في نهار رمضان اذا أراد السفر",
+              "source": "@site/docs/albadr/القران.mdx",
+              "sourceDirName": "albadr",
+              "slug": "/albadr/القران",
+              "permalink": "/docs/albadr/القران",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/albadr/القران.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "الصيام",
+                "permalink": "/docs/albadr/الصيام"
+              },
+              "next": {
+                "title": "فتاوى النساء",
+                "permalink": "/docs/albadr/النساء"
+              }
+            },
+            {
+              "unversionedId": "albadr/النساء",
+              "id": "albadr/النساء",
+              "title": "فتاوى النساء",
+              "description": "حكم حبوب منع الحمل والدم عند التناول",
+              "source": "@site/docs/albadr/النساء.mdx",
+              "sourceDirName": "albadr",
+              "slug": "/albadr/النساء",
+              "permalink": "/docs/albadr/النساء",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/albadr/النساء.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "القران",
+                "permalink": "/docs/albadr/القران"
+              }
+            },
+            {
               "unversionedId": "intro",
               "id": "intro",
-              "title": "Tutorial Intro",
-              "description": "Let's discover Docusaurus in less than 5 minutes.",
+              "title": "فتاوى العلماء",
+              "description": "مرحبا بكم",
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
               "slug": "/intro",
@@ -38,48 +142,75 @@
               },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "Tutorial - Basics",
-                "permalink": "/docs/category/tutorial---basics"
+                "title": "الشيخ سليمان الرحيلي",
+                "permalink": "/docs/category/الشيخ-سليمان-الرحيلي"
               }
             },
             {
-              "unversionedId": "tutorial-basics/congratulations",
-              "id": "tutorial-basics/congratulations",
-              "title": "Congratulations!",
-              "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
-              "source": "@site/docs/tutorial-basics/congratulations.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/congratulations",
-              "permalink": "/docs/tutorial-basics/congratulations",
+              "unversionedId": "ruhayli/الصلاة",
+              "id": "ruhayli/الصلاة",
+              "title": "الصلاة",
+              "description": "قصر الصلاة للمسافر 📃",
+              "source": "@site/docs/ruhayli/الصلاة.mdx",
+              "sourceDirName": "ruhayli",
+              "slug": "/ruhayli/الصلاة",
+              "permalink": "/docs/ruhayli/الصلاة",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/congratulations.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ruhayli/الصلاة.mdx",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 6,
+              "sidebarPosition": 1,
               "frontMatter": {
-                "sidebar_position": 6
+                "sidebar_position": 1
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Deploy your site",
-                "permalink": "/docs/tutorial-basics/deploy-your-site"
+                "title": "الشيخ سليمان الرحيلي",
+                "permalink": "/docs/category/الشيخ-سليمان-الرحيلي"
               },
               "next": {
-                "title": "Tutorial - Extras",
-                "permalink": "/docs/category/tutorial---extras"
+                "title": "الصيام",
+                "permalink": "/docs/ruhayli/الصيام"
               }
             },
             {
-              "unversionedId": "tutorial-basics/create-a-blog-post",
-              "id": "tutorial-basics/create-a-blog-post",
-              "title": "Create a Blog Post",
-              "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
-              "source": "@site/docs/tutorial-basics/create-a-blog-post.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/create-a-blog-post",
-              "permalink": "/docs/tutorial-basics/create-a-blog-post",
+              "unversionedId": "ruhayli/الصيام",
+              "id": "ruhayli/الصيام",
+              "title": "الصيام",
+              "description": "حكم الفطر في نهار رمضان اذا أراد السفر 📃",
+              "source": "@site/docs/ruhayli/الصيام.mdx",
+              "sourceDirName": "ruhayli",
+              "slug": "/ruhayli/الصيام",
+              "permalink": "/docs/ruhayli/الصيام",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/create-a-blog-post.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ruhayli/الصيام.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "الصلاة",
+                "permalink": "/docs/ruhayli/الصلاة"
+              },
+              "next": {
+                "title": "القران",
+                "permalink": "/docs/ruhayli/القران"
+              }
+            },
+            {
+              "unversionedId": "ruhayli/القران",
+              "id": "ruhayli/القران",
+              "title": "القران",
+              "description": "حكم الفطر في نهار رمضان اذا أراد السفر",
+              "source": "@site/docs/ruhayli/القران.mdx",
+              "sourceDirName": "ruhayli",
+              "slug": "/ruhayli/القران",
+              "permalink": "/docs/ruhayli/القران",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ruhayli/القران.mdx",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
@@ -88,106 +219,25 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Create a Document",
-                "permalink": "/docs/tutorial-basics/create-a-document"
+                "title": "الصيام",
+                "permalink": "/docs/ruhayli/الصيام"
               },
               "next": {
-                "title": "Markdown Features",
-                "permalink": "/docs/tutorial-basics/markdown-features"
+                "title": "فتاوى النساء",
+                "permalink": "/docs/ruhayli/النساء"
               }
             },
             {
-              "unversionedId": "tutorial-basics/create-a-document",
-              "id": "tutorial-basics/create-a-document",
-              "title": "Create a Document",
-              "description": "Documents are groups of pages connected through:",
-              "source": "@site/docs/tutorial-basics/create-a-document.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/create-a-document",
-              "permalink": "/docs/tutorial-basics/create-a-document",
+              "unversionedId": "ruhayli/النساء",
+              "id": "ruhayli/النساء",
+              "title": "فتاوى النساء",
+              "description": "حكم حبوب منع الحمل والدم عند التناول 📃",
+              "source": "@site/docs/ruhayli/النساء.mdx",
+              "sourceDirName": "ruhayli",
+              "slug": "/ruhayli/النساء",
+              "permalink": "/docs/ruhayli/النساء",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/create-a-document.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Create a Page",
-                "permalink": "/docs/tutorial-basics/create-a-page"
-              },
-              "next": {
-                "title": "Create a Blog Post",
-                "permalink": "/docs/tutorial-basics/create-a-blog-post"
-              }
-            },
-            {
-              "unversionedId": "tutorial-basics/create-a-page",
-              "id": "tutorial-basics/create-a-page",
-              "title": "Create a Page",
-              "description": "Add Markdown or React files to src/pages to create a standalone page:",
-              "source": "@site/docs/tutorial-basics/create-a-page.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/create-a-page",
-              "permalink": "/docs/tutorial-basics/create-a-page",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/create-a-page.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Tutorial - Basics",
-                "permalink": "/docs/category/tutorial---basics"
-              },
-              "next": {
-                "title": "Create a Document",
-                "permalink": "/docs/tutorial-basics/create-a-document"
-              }
-            },
-            {
-              "unversionedId": "tutorial-basics/deploy-your-site",
-              "id": "tutorial-basics/deploy-your-site",
-              "title": "Deploy your site",
-              "description": "Docusaurus is a static-site-generator (also called Jamstack).",
-              "source": "@site/docs/tutorial-basics/deploy-your-site.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/deploy-your-site",
-              "permalink": "/docs/tutorial-basics/deploy-your-site",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/deploy-your-site.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 5,
-              "frontMatter": {
-                "sidebar_position": 5
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Markdown Features",
-                "permalink": "/docs/tutorial-basics/markdown-features"
-              },
-              "next": {
-                "title": "Congratulations!",
-                "permalink": "/docs/tutorial-basics/congratulations"
-              }
-            },
-            {
-              "unversionedId": "tutorial-basics/markdown-features",
-              "id": "tutorial-basics/markdown-features",
-              "title": "Markdown Features",
-              "description": "Docusaurus supports Markdown and a few additional features.",
-              "source": "@site/docs/tutorial-basics/markdown-features.mdx",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/markdown-features",
-              "permalink": "/docs/tutorial-basics/markdown-features",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/markdown-features.mdx",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ruhayli/النساء.mdx",
               "tags": [],
               "version": "current",
               "sidebarPosition": 4,
@@ -196,62 +246,12 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Create a Blog Post",
-                "permalink": "/docs/tutorial-basics/create-a-blog-post"
+                "title": "القران",
+                "permalink": "/docs/ruhayli/القران"
               },
               "next": {
-                "title": "Deploy your site",
-                "permalink": "/docs/tutorial-basics/deploy-your-site"
-              }
-            },
-            {
-              "unversionedId": "tutorial-extras/manage-docs-versions",
-              "id": "tutorial-extras/manage-docs-versions",
-              "title": "Manage Docs Versions",
-              "description": "Docusaurus can manage multiple versions of your docs.",
-              "source": "@site/docs/tutorial-extras/manage-docs-versions.md",
-              "sourceDirName": "tutorial-extras",
-              "slug": "/tutorial-extras/manage-docs-versions",
-              "permalink": "/docs/tutorial-extras/manage-docs-versions",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-extras/manage-docs-versions.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Tutorial - Extras",
-                "permalink": "/docs/category/tutorial---extras"
-              },
-              "next": {
-                "title": "Translate your site",
-                "permalink": "/docs/tutorial-extras/translate-your-site"
-              }
-            },
-            {
-              "unversionedId": "tutorial-extras/translate-your-site",
-              "id": "tutorial-extras/translate-your-site",
-              "title": "Translate your site",
-              "description": "Let's translate docs/intro.md to French.",
-              "source": "@site/docs/tutorial-extras/translate-your-site.md",
-              "sourceDirName": "tutorial-extras",
-              "slug": "/tutorial-extras/translate-your-site",
-              "permalink": "/docs/tutorial-extras/translate-your-site",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-extras/translate-your-site.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Manage Docs Versions",
-                "permalink": "/docs/tutorial-extras/manage-docs-versions"
+                "title": "الشيخ عبد الرزاق البدر",
+                "permalink": "/docs/category/الشيخ-عبد-الرزاق-البدر"
               }
             }
           ],
@@ -264,61 +264,62 @@
               },
               {
                 "type": "category",
-                "label": "Tutorial - Basics",
+                "label": "الشيخ سليمان الرحيلي",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
                   {
                     "type": "doc",
-                    "id": "tutorial-basics/create-a-page"
+                    "id": "ruhayli/الصلاة"
                   },
                   {
                     "type": "doc",
-                    "id": "tutorial-basics/create-a-document"
+                    "id": "ruhayli/الصيام"
                   },
                   {
                     "type": "doc",
-                    "id": "tutorial-basics/create-a-blog-post"
+                    "id": "ruhayli/القران"
                   },
                   {
                     "type": "doc",
-                    "id": "tutorial-basics/markdown-features"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorial-basics/deploy-your-site"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorial-basics/congratulations"
+                    "id": "ruhayli/النساء"
                   }
                 ],
                 "link": {
                   "type": "generated-index",
-                  "description": "5 minutes to learn the most important Docusaurus concepts.",
-                  "slug": "/category/tutorial---basics",
-                  "permalink": "/docs/category/tutorial---basics"
+                  "description": "فتاوى الشيخ سليمان الرحيلي",
+                  "slug": "/category/الشيخ-سليمان-الرحيلي",
+                  "permalink": "/docs/category/الشيخ-سليمان-الرحيلي"
                 }
               },
               {
                 "type": "category",
-                "label": "Tutorial - Extras",
+                "label": "الشيخ عبد الرزاق البدر",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
                   {
                     "type": "doc",
-                    "id": "tutorial-extras/manage-docs-versions"
+                    "id": "albadr/الصلاة"
                   },
                   {
                     "type": "doc",
-                    "id": "tutorial-extras/translate-your-site"
+                    "id": "albadr/الصيام"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "albadr/القران"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "albadr/النساء"
                   }
                 ],
                 "link": {
                   "type": "generated-index",
-                  "slug": "/category/tutorial---extras",
-                  "permalink": "/docs/category/tutorial---extras"
+                  "description": "فتاوى الشيخ عبد الرزاق البدر",
+                  "slug": "/category/الشيخ-عبد-الرزاق-البدر",
+                  "permalink": "/docs/category/الشيخ-عبد-الرزاق-البدر"
                 }
               }
             ]
