@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'فتاوى علماء أهل السنة',
+  tagline: '',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -16,8 +16,6 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -33,6 +31,18 @@ const config = {
     direction: 'rtl',},
    },
   },
+  plugins: [[require.resolve("@cmfcmf/docusaurus-search-local"),
+  {
+  indexDocs: true,
+  indexBlog: false,
+  indexPages: false,
+  language: ["ar", "en"],
+  lunr: {
+  tokenizerSeparator: /[\s\-]+/,
+  },
+  },
+  ],
+  ],
 
   presets: [
     [
@@ -41,12 +51,14 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
+          routeBasePath: '/',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/HighWatersDev/fatawa-web',
         },
-//        blog: {
+        blog: false,
+//        pages: true,
 //          showReadingTime: true,
 //          // Please change this to your repo.
 //          // Remove this to remove the "edit this page" links.
@@ -76,8 +88,15 @@ const config = {
             position: 'left',
             label: 'الفتاوى',
           },
+          {
+          type: 'localeDropdown',
+          position: 'left',
+          },
         ],
       },
+      docs: {
+      sidebar: {
+      autoCollapseCategories: true,}},
       footer: {
         style: 'dark',
         links: [
@@ -86,7 +105,7 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: '/docs/intro',
+                to: '/intro',
               },
             ],
           },
@@ -111,8 +130,8 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Docs',
+                to: '/intro',
               },
               {
                 label: 'GitHub',
@@ -121,7 +140,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Salafi Fatawa`,
       },
       prism: {
         theme: lightCodeTheme,

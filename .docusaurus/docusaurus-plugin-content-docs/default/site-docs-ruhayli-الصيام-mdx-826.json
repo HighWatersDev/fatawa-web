@@ -6,9 +6,9 @@
   "source": "@site/docs/ruhayli/الصيام.mdx",
   "sourceDirName": "ruhayli",
   "slug": "/ruhayli/الصيام",
-  "permalink": "/docs/ruhayli/الصيام",
+  "permalink": "/ruhayli/الصيام",
   "draft": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ruhayli/الصيام.mdx",
+  "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/ruhayli/الصيام.mdx",
   "tags": [],
   "version": "current",
   "sidebarPosition": 2,
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "الصلاة",
-    "permalink": "/docs/ruhayli/الصلاة"
+    "permalink": "/ruhayli/الصلاة"
   },
   "next": {
     "title": "القران",
-    "permalink": "/docs/ruhayli/القران"
+    "permalink": "/ruhayli/القران"
   }
 }

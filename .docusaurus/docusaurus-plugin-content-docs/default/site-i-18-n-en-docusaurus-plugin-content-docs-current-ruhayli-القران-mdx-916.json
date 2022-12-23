@@ -1,0 +1,27 @@
+{
+  "unversionedId": "ruhayli/القران",
+  "id": "ruhayli/القران",
+  "title": "Qur'an",
+  "description": "حكم الفطر في نهار رمضان اذا أراد السفر",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/ruhayli/القران.mdx",
+  "sourceDirName": "ruhayli",
+  "slug": "/ruhayli/القران",
+  "permalink": "/en/ruhayli/القران",
+  "draft": false,
+  "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/ruhayli/القران.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Fasting",
+    "permalink": "/en/ruhayli/الصيام"
+  },
+  "next": {
+    "title": "Fatawa for Women",
+    "permalink": "/en/ruhayli/النساء"
+  }
+}

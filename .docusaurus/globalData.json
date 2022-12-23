@@ -1,68 +1,78 @@
 {
+  "@cmfcmf/docusaurus-search-local": {
+    "default": {
+      "titleBoost": 5,
+      "contentBoost": 1,
+      "tagsBoost": 3,
+      "parentCategoriesBoost": 2,
+      "indexDocSidebarParentCategories": 0,
+      "maxSearchResults": 8
+    }
+  },
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/docs",
+      "path": "/en/",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/docs",
+          "path": "/en/",
           "mainDocId": "intro",
           "docs": [
             {
               "id": "albadr/الصلاة",
-              "path": "/docs/albadr/الصلاة",
+              "path": "/en/albadr/الصلاة",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "albadr/الصيام",
-              "path": "/docs/albadr/الصيام",
+              "path": "/en/albadr/الصيام",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "albadr/القران",
-              "path": "/docs/albadr/القران",
+              "path": "/en/albadr/القران",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "albadr/النساء",
-              "path": "/docs/albadr/النساء",
+              "path": "/en/albadr/النساء",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "intro",
-              "path": "/docs/intro",
+              "path": "/en/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "ruhayli/الصلاة",
-              "path": "/docs/ruhayli/الصلاة",
+              "path": "/en/ruhayli/الصلاة",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "ruhayli/الصيام",
-              "path": "/docs/ruhayli/الصيام",
+              "path": "/en/ruhayli/الصيام",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "ruhayli/القران",
-              "path": "/docs/ruhayli/القران",
+              "path": "/en/ruhayli/القران",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "ruhayli/النساء",
-              "path": "/docs/ruhayli/النساء",
+              "path": "/en/ruhayli/النساء",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/الشيخ-سليمان-الرحيلي",
-              "path": "/docs/category/الشيخ-سليمان-الرحيلي",
+              "path": "/en/category/الشيخ-سليمان-الرحيلي",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/الشيخ-عبد-الرزاق-البدر",
-              "path": "/docs/category/الشيخ-عبد-الرزاق-البدر",
+              "path": "/en/category/الشيخ-عبد-الرزاق-البدر",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -70,7 +80,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/intro",
+                "path": "/en/intro",
                 "label": "intro"
               }
             }

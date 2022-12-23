@@ -4,15 +4,13 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "My Site",
-  "tagline": "Dinosaurs are cool",
+  "title": "فتاوى علماء أهل السنة",
+  "tagline": "",
   "url": "https://your-docusaurus-test-site.com",
-  "baseUrl": "/",
+  "baseUrl": "/en/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
   "i18n": {
     "defaultLocale": "ar",
     "locales": [
@@ -30,14 +28,33 @@ export default {
     },
     "path": "i18n"
   },
+  "plugins": [
+    [
+      "/home/luqmaan/projects/fatawa-web/node_modules/@cmfcmf/docusaurus-search-local/lib/server/index.js",
+      {
+        "indexDocs": true,
+        "indexBlog": false,
+        "indexPages": false,
+        "language": [
+          "ar",
+          "en"
+        ],
+        "lunr": {
+          "tokenizerSeparator": {}
+        }
+      }
+    ]
+  ],
   "presets": [
     [
       "classic",
       {
         "docs": {
           "sidebarPath": "/home/luqmaan/projects/fatawa-web/sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "routeBasePath": "/",
+          "editUrl": "https://github.com/HighWatersDev/fatawa-web"
         },
+        "blog": false,
         "theme": {
           "customCss": "/home/luqmaan/projects/fatawa-web/src/css/custom.css"
         }
@@ -57,9 +74,22 @@ export default {
           "docId": "intro",
           "position": "left",
           "label": "الفتاوى"
+        },
+        {
+          "type": "localeDropdown",
+          "position": "left",
+          "dropdownItemsBefore": [],
+          "dropdownItemsAfter": []
         }
       ],
       "hideOnScroll": false
+    },
+    "docs": {
+      "sidebar": {
+        "autoCollapseCategories": true,
+        "hideable": false
+      },
+      "versionPersistence": "localStorage"
     },
     "footer": {
       "style": "dark",
@@ -69,7 +99,7 @@ export default {
           "items": [
             {
               "label": "Tutorial",
-              "to": "/docs/intro"
+              "to": "/intro"
             }
           ]
         },
@@ -94,8 +124,8 @@ export default {
           "title": "More",
           "items": [
             {
-              "label": "Blog",
-              "to": "/blog"
+              "label": "Docs",
+              "to": "/intro"
             },
             {
               "label": "GitHub",
@@ -104,7 +134,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2022 My Project, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2022 Salafi Fatawa"
     },
     "prism": {
       "theme": {
@@ -315,13 +345,6 @@ export default {
       "disableSwitch": false,
       "respectPrefersColorScheme": false
     },
-    "docs": {
-      "versionPersistence": "localStorage",
-      "sidebar": {
-        "hideable": false,
-        "autoCollapseCategories": false
-      }
-    },
     "metadata": [],
     "tableOfContents": {
       "minHeadingLevel": 2,
@@ -334,7 +357,6 @@ export default {
     "static"
   ],
   "customFields": {},
-  "plugins": [],
   "themes": [],
   "scripts": [],
   "headTags": [],

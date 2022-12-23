@@ -3,121 +3,86 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '8a4'),
+    path: '/en/markdown-page',
+    component: ComponentCreator('/en/markdown-page', '334'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', 'c94'),
+    path: '/en/',
+    component: ComponentCreator('/en/', 'eb1'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', 'd66'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', 'a7d'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', 'dd3'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '557'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', 'd5f'),
-    exact: true
-  },
-  {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', '810'),
-    exact: true
-  },
-  {
-    path: '/docs',
-    component: ComponentCreator('/docs', '3e3'),
+    path: '/en/',
+    component: ComponentCreator('/en/', 'b17'),
     routes: [
       {
-        path: '/docs/albadr/الصلاة',
-        component: ComponentCreator('/docs/albadr/الصلاة', '982'),
+        path: '/en/albadr/الصلاة',
+        component: ComponentCreator('/en/albadr/الصلاة', '10c'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/albadr/الصيام',
-        component: ComponentCreator('/docs/albadr/الصيام', 'ce6'),
+        path: '/en/albadr/الصيام',
+        component: ComponentCreator('/en/albadr/الصيام', 'b8e'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/albadr/القران',
-        component: ComponentCreator('/docs/albadr/القران', 'a4d'),
+        path: '/en/albadr/القران',
+        component: ComponentCreator('/en/albadr/القران', '18c'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/albadr/النساء',
-        component: ComponentCreator('/docs/albadr/النساء', 'e6d'),
+        path: '/en/albadr/النساء',
+        component: ComponentCreator('/en/albadr/النساء', '4cf'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/category/الشيخ-سليمان-الرحيلي',
-        component: ComponentCreator('/docs/category/الشيخ-سليمان-الرحيلي', '54e'),
+        path: '/en/category/الشيخ-سليمان-الرحيلي',
+        component: ComponentCreator('/en/category/الشيخ-سليمان-الرحيلي', '649'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/category/الشيخ-عبد-الرزاق-البدر',
-        component: ComponentCreator('/docs/category/الشيخ-عبد-الرزاق-البدر', '6a5'),
+        path: '/en/category/الشيخ-عبد-الرزاق-البدر',
+        component: ComponentCreator('/en/category/الشيخ-عبد-الرزاق-البدر', '2a4'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/intro',
-        component: ComponentCreator('/docs/intro', 'aed'),
+        path: '/en/intro',
+        component: ComponentCreator('/en/intro', '5f2'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/ruhayli/الصلاة',
-        component: ComponentCreator('/docs/ruhayli/الصلاة', '370'),
+        path: '/en/ruhayli/الصلاة',
+        component: ComponentCreator('/en/ruhayli/الصلاة', 'c35'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/ruhayli/الصيام',
-        component: ComponentCreator('/docs/ruhayli/الصيام', '482'),
+        path: '/en/ruhayli/الصيام',
+        component: ComponentCreator('/en/ruhayli/الصيام', '259'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/ruhayli/القران',
-        component: ComponentCreator('/docs/ruhayli/القران', '2c4'),
+        path: '/en/ruhayli/القران',
+        component: ComponentCreator('/en/ruhayli/القران', 'dcf'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/ruhayli/النساء',
-        component: ComponentCreator('/docs/ruhayli/النساء', '8a3'),
+        path: '/en/ruhayli/النساء',
+        component: ComponentCreator('/en/ruhayli/النساء', '585'),
         exact: true,
         sidebar: "tutorialSidebar"
       }
     ]
-  },
-  {
-    path: '/',
-    component: ComponentCreator('/', '554'),
-    exact: true
   },
   {
     path: '*',

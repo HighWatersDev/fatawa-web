@@ -1,0 +1,27 @@
+{
+  "unversionedId": "ruhayli/الصلاة",
+  "id": "ruhayli/الصلاة",
+  "title": "Prayer",
+  "description": "Shortening the prayer for the traveler 📃",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/ruhayli/الصلاة.mdx",
+  "sourceDirName": "ruhayli",
+  "slug": "/ruhayli/الصلاة",
+  "permalink": "/en/ruhayli/الصلاة",
+  "draft": false,
+  "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/ruhayli/الصلاة.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "الشيخ سليمان الرحيلي",
+    "permalink": "/en/category/الشيخ-سليمان-الرحيلي"
+  },
+  "next": {
+    "title": "Fasting",
+    "permalink": "/en/ruhayli/الصيام"
+  }
+}

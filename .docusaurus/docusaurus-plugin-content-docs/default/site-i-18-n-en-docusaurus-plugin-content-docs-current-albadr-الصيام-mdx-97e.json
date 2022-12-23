@@ -1,0 +1,27 @@
+{
+  "unversionedId": "albadr/الصيام",
+  "id": "albadr/الصيام",
+  "title": "الصيام",
+  "description": "حكم الفطر في نهار رمضان اذا أراد السفر",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/albadr/الصيام.mdx",
+  "sourceDirName": "albadr",
+  "slug": "/albadr/الصيام",
+  "permalink": "/en/albadr/الصيام",
+  "draft": false,
+  "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/albadr/الصيام.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "الصلاة",
+    "permalink": "/en/albadr/الصلاة"
+  },
+  "next": {
+    "title": "القران",
+    "permalink": "/en/albadr/القران"
+  }
+}

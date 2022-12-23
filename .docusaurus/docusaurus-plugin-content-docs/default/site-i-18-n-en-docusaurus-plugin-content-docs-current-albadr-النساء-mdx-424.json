@@ -1,0 +1,23 @@
+{
+  "unversionedId": "albadr/النساء",
+  "id": "albadr/النساء",
+  "title": "فتاوى النساء",
+  "description": "حكم حبوب منع الحمل والدم عند التناول",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/albadr/النساء.mdx",
+  "sourceDirName": "albadr",
+  "slug": "/albadr/النساء",
+  "permalink": "/en/albadr/النساء",
+  "draft": false,
+  "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/albadr/النساء.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "القران",
+    "permalink": "/en/albadr/القران"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "ruhayli/الصيام",
+  "id": "ruhayli/الصيام",
+  "title": "Fasting",
+  "description": "Ruling on breaking fast in daytime of Ramadan when traveling 📃",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/ruhayli/الصيام.mdx",
+  "sourceDirName": "ruhayli",
+  "slug": "/ruhayli/الصيام",
+  "permalink": "/en/ruhayli/الصيام",
+  "draft": false,
+  "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/ruhayli/الصيام.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Prayer",
+    "permalink": "/en/ruhayli/الصلاة"
+  },
+  "next": {
+    "title": "Qur'an",
+    "permalink": "/en/ruhayli/القران"
+  }
+}

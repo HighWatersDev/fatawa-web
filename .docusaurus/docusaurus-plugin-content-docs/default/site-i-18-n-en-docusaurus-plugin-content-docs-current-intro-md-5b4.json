@@ -1,0 +1,23 @@
+{
+  "unversionedId": "intro",
+  "id": "intro",
+  "title": "Islamic verdicts of the scholars",
+  "description": "Welcome",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/en/intro",
+  "draft": false,
+  "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "الشيخ سليمان الرحيلي",
+    "permalink": "/en/category/الشيخ-سليمان-الرحيلي"
+  }
+}

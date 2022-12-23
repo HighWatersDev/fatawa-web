@@ -1,110 +1,67 @@
 {
-  "/__docusaurus/debug-8a4": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
+  "/en/markdown-page-334": {
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-1-ae-91e"
-    }
-  },
-  "/__docusaurus/debug/config-c94": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-1-ae-91e"
-    }
-  },
-  "/__docusaurus/debug/content-d66": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-1-ae-91e"
+      "plugin": "0a77e08f"
     },
-    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+    "content": "393be207"
   },
-  "/__docusaurus/debug/globalData-a7d": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
+  "/en/-eb1": {
+    "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-1-ae-91e"
-    }
-  },
-  "/__docusaurus/debug/metadata-dd3": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-1-ae-91e"
-    }
-  },
-  "/__docusaurus/debug/registry-557": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-1-ae-91e"
-    }
-  },
-  "/__docusaurus/debug/routes-d5f": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-1-ae-91e"
-    }
-  },
-  "/markdown-page-810": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
-    "__context": {
-      "plugin": "plugin---markdown-page-0-a-7-ab7"
+      "plugin": "0a77e08f"
     },
-    "content": "content---markdown-page-393-028"
+    "config": "5e9f5e1a"
   },
-  "/docs-3e3": {
-    "__comp": "__comp---theme-doc-page-1-be-9be",
+  "/en/-b17": {
+    "__comp": "1be78505",
     "__context": {
-      "plugin": "plugin---docsb-10-b12"
+      "plugin": "b10ab8f4"
     },
-    "versionMetadata": "versionMetadata---docs-935-398"
+    "versionMetadata": "935f2afb"
   },
-  "/docs/albadr/الصلاة-982": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-albadr-الصلاةaf-3-fd9"
+  "/en/albadr/الصلاة-10c": {
+    "__comp": "17896441",
+    "content": "98c02b9e"
   },
-  "/docs/albadr/الصيام-ce6": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-albadr-الصيامa-1-e-187"
+  "/en/albadr/الصيام-b8e": {
+    "__comp": "17896441",
+    "content": "97e8c33c"
   },
-  "/docs/albadr/القران-a4d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-albadr-القرانcd-5-82c"
+  "/en/albadr/القران-18c": {
+    "__comp": "17896441",
+    "content": "a08880c6"
   },
-  "/docs/albadr/النساء-e6d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-albadr-النساءb-67-429"
+  "/en/albadr/النساء-4cf": {
+    "__comp": "17896441",
+    "content": "4243c987"
   },
-  "/docs/category/الشيخ-سليمان-الرحيلي-54e": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-الشيخ-سليمان-الرحيلي-982-a47"
+  "/en/category/الشيخ-سليمان-الرحيلي-649": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "b50b4e4b"
   },
-  "/docs/category/الشيخ-عبد-الرزاق-البدر-6a5": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-الشيخ-عبد-الرزاق-البدر-90-b-f94"
+  "/en/category/الشيخ-عبد-الرزاق-البدر-2a4": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "225fcf8c"
   },
-  "/docs/intro-aed": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-intro-0-e-3-be1"
+  "/en/intro-5f2": {
+    "__comp": "17896441",
+    "content": "5b44acae"
   },
-  "/docs/ruhayli/الصلاة-370": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-ruhayli-الصلاةdef-be8"
+  "/en/ruhayli/الصلاة-c35": {
+    "__comp": "17896441",
+    "content": "dfb6bfb7"
   },
-  "/docs/ruhayli/الصيام-482": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-ruhayli-الصيام-826-dee"
+  "/en/ruhayli/الصيام-259": {
+    "__comp": "17896441",
+    "content": "c7cb855f"
   },
-  "/docs/ruhayli/القران-2c4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-ruhayli-القرانfb-1-42f"
+  "/en/ruhayli/القران-dcf": {
+    "__comp": "17896441",
+    "content": "9161f066"
   },
-  "/docs/ruhayli/النساء-8a3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-ruhayli-النساء-1-f-4-cea"
-  },
-  "/-554": {
-    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
-    "__context": {
-      "plugin": "plugin---markdown-page-0-a-7-ab7"
-    },
-    "config": "config---5-e-9-4f3"
+  "/en/ruhayli/النساء-585": {
+    "__comp": "17896441",
+    "content": "f3757272"
   }
 }

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "ruhayli/النساء",
+  "id": "ruhayli/النساء",
+  "title": "Fatawa for Women",
+  "description": "Ruling on menses when taking birth control pills 📃",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/ruhayli/النساء.mdx",
+  "sourceDirName": "ruhayli",
+  "slug": "/ruhayli/النساء",
+  "permalink": "/en/ruhayli/النساء",
+  "draft": false,
+  "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/ruhayli/النساء.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Qur'an",
+    "permalink": "/en/ruhayli/القران"
+  },
+  "next": {
+    "title": "الشيخ عبد الرزاق البدر",
+    "permalink": "/en/category/الشيخ-عبد-الرزاق-البدر"
+  }
+}

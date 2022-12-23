@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfatawa_docusaurus=self.webpackChunkfatawa_docusaurus||[]).push([[48],{5745:a=>{a.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);

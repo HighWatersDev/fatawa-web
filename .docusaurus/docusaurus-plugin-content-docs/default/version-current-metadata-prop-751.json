@@ -11,8 +11,8 @@
     "tutorialSidebar": [
       {
         "type": "link",
-        "label": "فتاوى العلماء",
-        "href": "/docs/intro",
+        "label": "Islamic verdicts of the scholars",
+        "href": "/en/intro",
         "docId": "intro"
       },
       {
@@ -23,30 +23,30 @@
         "items": [
           {
             "type": "link",
-            "label": "الصلاة",
-            "href": "/docs/ruhayli/الصلاة",
+            "label": "Prayer",
+            "href": "/en/ruhayli/الصلاة",
             "docId": "ruhayli/الصلاة"
           },
           {
             "type": "link",
-            "label": "الصيام",
-            "href": "/docs/ruhayli/الصيام",
+            "label": "Fasting",
+            "href": "/en/ruhayli/الصيام",
             "docId": "ruhayli/الصيام"
           },
           {
             "type": "link",
-            "label": "القران",
-            "href": "/docs/ruhayli/القران",
+            "label": "Qur'an",
+            "href": "/en/ruhayli/القران",
             "docId": "ruhayli/القران"
           },
           {
             "type": "link",
-            "label": "فتاوى النساء",
-            "href": "/docs/ruhayli/النساء",
+            "label": "Fatawa for Women",
+            "href": "/en/ruhayli/النساء",
             "docId": "ruhayli/النساء"
           }
         ],
-        "href": "/docs/category/الشيخ-سليمان-الرحيلي"
+        "href": "/en/category/الشيخ-سليمان-الرحيلي"
       },
       {
         "type": "category",
@@ -57,29 +57,29 @@
           {
             "type": "link",
             "label": "الصلاة",
-            "href": "/docs/albadr/الصلاة",
+            "href": "/en/albadr/الصلاة",
             "docId": "albadr/الصلاة"
           },
           {
             "type": "link",
             "label": "الصيام",
-            "href": "/docs/albadr/الصيام",
+            "href": "/en/albadr/الصيام",
             "docId": "albadr/الصيام"
           },
           {
             "type": "link",
             "label": "القران",
-            "href": "/docs/albadr/القران",
+            "href": "/en/albadr/القران",
             "docId": "albadr/القران"
           },
           {
             "type": "link",
             "label": "فتاوى النساء",
-            "href": "/docs/albadr/النساء",
+            "href": "/en/albadr/النساء",
             "docId": "albadr/النساء"
           }
         ],
-        "href": "/docs/category/الشيخ-عبد-الرزاق-البدر"
+        "href": "/en/category/الشيخ-عبد-الرزاق-البدر"
       }
     ]
   },
@@ -110,32 +110,32 @@
     },
     "intro": {
       "id": "intro",
-      "title": "فتاوى العلماء",
-      "description": "مرحبا بكم",
+      "title": "Islamic verdicts of the scholars",
+      "description": "Welcome",
       "sidebar": "tutorialSidebar"
     },
     "ruhayli/الصلاة": {
       "id": "ruhayli/الصلاة",
-      "title": "الصلاة",
-      "description": "قصر الصلاة للمسافر 📃",
+      "title": "Prayer",
+      "description": "Shortening the prayer for the traveler 📃",
       "sidebar": "tutorialSidebar"
     },
     "ruhayli/الصيام": {
       "id": "ruhayli/الصيام",
-      "title": "الصيام",
-      "description": "حكم الفطر في نهار رمضان اذا أراد السفر 📃",
+      "title": "Fasting",
+      "description": "Ruling on breaking fast in daytime of Ramadan when traveling 📃",
       "sidebar": "tutorialSidebar"
     },
     "ruhayli/القران": {
       "id": "ruhayli/القران",
-      "title": "القران",
+      "title": "Qur'an",
       "description": "حكم الفطر في نهار رمضان اذا أراد السفر",
       "sidebar": "tutorialSidebar"
     },
     "ruhayli/النساء": {
       "id": "ruhayli/النساء",
-      "title": "فتاوى النساء",
-      "description": "حكم حبوب منع الحمل والدم عند التناول 📃",
+      "title": "Fatawa for Women",
+      "description": "Ruling on menses when taking birth control pills 📃",
       "sidebar": "tutorialSidebar"
     }
   }
