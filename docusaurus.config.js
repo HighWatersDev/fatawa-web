@@ -16,10 +16,6 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-
-  // Even if you don't use internalization, you can use this field to set useful
-  // metadata like html lang. For example, if your site is Chinese, you may want
-  // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'ar',
     locales: ['ar', 'en'],
@@ -33,15 +29,17 @@ const config = {
   },
   plugins: [[require.resolve("@cmfcmf/docusaurus-search-local"),
   {
-  indexDocs: true,
-  indexBlog: false,
-  indexPages: false,
-  language: ["ar", "en"],
-  lunr: {
-  tokenizerSeparator: /[\s\-]+/,
-  },
-  },
-  ],
+    indexDocs: true,
+    indexBlog: false,
+    indexPages: false,
+    language: ["ar", "en"],
+    lunr: {
+      tokenizerSeparator: /[\s\-]+/,
+      b: 0.75,
+      k1: 1.2,
+          },
+    },
+   ],
   ],
 
   presets: [
@@ -101,11 +99,23 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'مواقع العلماء',
             items: [
               {
-                label: 'Tutorial',
-                to: '/intro',
+                label: 'الشيخ سليمان الرحيلي',
+                href: 'https://www.sualruhaily.com/index.php',
+              },
+              {
+                label: 'الشيخ عبد الرزاق البدر',
+                href: 'https://al-badr.net/',
+              },
+              {
+                label: 'الشيخ عبد العزيز ابن باز',
+                href: 'https://binbaz.org.sa/',
+              },
+              {
+                label: 'الشيخ صالح الفوزان',
+                href: 'https://alfawzan.af.org.sa/',
               },
             ],
           },

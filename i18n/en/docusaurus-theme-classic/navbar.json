@@ -1,0 +1,10 @@
+{
+  "title": {
+    "message": "Homepage",
+    "description": "The title in the navbar"
+  },
+  "item.label.الفتاوى": {
+    "message": "Fatawa",
+    "description": "Navbar item with label الفتاوى"
+  }
+}

@@ -9,25 +9,25 @@
           "badge": false,
           "noIndex": false,
           "className": "docs-version-current",
-          "path": "/en/",
-          "tagsPath": "/en/tags",
+          "path": "/",
+          "tagsPath": "/tags",
           "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs",
-          "editUrlLocalized": "https://github.com/HighWatersDev/fatawa-web/i18n/en/docusaurus-plugin-content-docs/current",
+          "editUrlLocalized": "https://github.com/HighWatersDev/fatawa-web/i18n/ar/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
           "sidebarFilePath": "/home/luqmaan/projects/fatawa-web/sidebars.js",
           "contentPath": "/home/luqmaan/projects/fatawa-web/docs",
-          "contentPathLocalized": "/home/luqmaan/projects/fatawa-web/i18n/en/docusaurus-plugin-content-docs/current",
+          "contentPathLocalized": "/home/luqmaan/projects/fatawa-web/i18n/ar/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "unversionedId": "albadr/الصلاة",
               "id": "albadr/الصلاة",
               "title": "الصلاة",
               "description": "قصر الصلاة للمسافر",
-              "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/albadr/الصلاة.mdx",
+              "source": "@site/docs/albadr/الصلاة.mdx",
               "sourceDirName": "albadr",
               "slug": "/albadr/الصلاة",
-              "permalink": "/en/albadr/الصلاة",
+              "permalink": "/albadr/الصلاة",
               "draft": false,
               "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/albadr/الصلاة.mdx",
               "tags": [],
@@ -39,11 +39,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "الشيخ عبد الرزاق البدر",
-                "permalink": "/en/category/الشيخ-عبد-الرزاق-البدر"
+                "permalink": "/category/الشيخ-عبد-الرزاق-البدر"
               },
               "next": {
                 "title": "الصيام",
-                "permalink": "/en/albadr/الصيام"
+                "permalink": "/albadr/الصيام"
               }
             },
             {
@@ -51,10 +51,10 @@
               "id": "albadr/الصيام",
               "title": "الصيام",
               "description": "حكم الفطر في نهار رمضان اذا أراد السفر",
-              "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/albadr/الصيام.mdx",
+              "source": "@site/docs/albadr/الصيام.mdx",
               "sourceDirName": "albadr",
               "slug": "/albadr/الصيام",
-              "permalink": "/en/albadr/الصيام",
+              "permalink": "/albadr/الصيام",
               "draft": false,
               "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/albadr/الصيام.mdx",
               "tags": [],
@@ -66,11 +66,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "الصلاة",
-                "permalink": "/en/albadr/الصلاة"
+                "permalink": "/albadr/الصلاة"
               },
               "next": {
                 "title": "القران",
-                "permalink": "/en/albadr/القران"
+                "permalink": "/albadr/القران"
               }
             },
             {
@@ -78,10 +78,10 @@
               "id": "albadr/القران",
               "title": "القران",
               "description": "حكم الفطر في نهار رمضان اذا أراد السفر",
-              "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/albadr/القران.mdx",
+              "source": "@site/docs/albadr/القران.mdx",
               "sourceDirName": "albadr",
               "slug": "/albadr/القران",
-              "permalink": "/en/albadr/القران",
+              "permalink": "/albadr/القران",
               "draft": false,
               "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/albadr/القران.mdx",
               "tags": [],
@@ -93,11 +93,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "الصيام",
-                "permalink": "/en/albadr/الصيام"
+                "permalink": "/albadr/الصيام"
               },
               "next": {
                 "title": "فتاوى النساء",
-                "permalink": "/en/albadr/النساء"
+                "permalink": "/albadr/النساء"
               }
             },
             {
@@ -105,10 +105,10 @@
               "id": "albadr/النساء",
               "title": "فتاوى النساء",
               "description": "حكم حبوب منع الحمل والدم عند التناول",
-              "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/albadr/النساء.mdx",
+              "source": "@site/docs/albadr/النساء.mdx",
               "sourceDirName": "albadr",
               "slug": "/albadr/النساء",
-              "permalink": "/en/albadr/النساء",
+              "permalink": "/albadr/النساء",
               "draft": false,
               "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/albadr/النساء.mdx",
               "tags": [],
@@ -120,18 +120,18 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "القران",
-                "permalink": "/en/albadr/القران"
+                "permalink": "/albadr/القران"
               }
             },
             {
               "unversionedId": "intro",
               "id": "intro",
-              "title": "Islamic verdicts of the scholars",
-              "description": "Welcome",
-              "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/intro.md",
+              "title": "فتاوى العلماء",
+              "description": "مرحبا بكم",
+              "source": "@site/docs/intro.md",
               "sourceDirName": ".",
               "slug": "/intro",
-              "permalink": "/en/intro",
+              "permalink": "/intro",
               "draft": false,
               "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/intro.md",
               "tags": [],
@@ -143,18 +143,18 @@
               "sidebar": "tutorialSidebar",
               "next": {
                 "title": "الشيخ سليمان الرحيلي",
-                "permalink": "/en/category/الشيخ-سليمان-الرحيلي"
+                "permalink": "/category/الشيخ-سليمان-الرحيلي"
               }
             },
             {
               "unversionedId": "ruhayli/الصلاة",
               "id": "ruhayli/الصلاة",
-              "title": "Prayer",
-              "description": "Shortening the prayer for the traveler 📃",
-              "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/ruhayli/الصلاة.mdx",
+              "title": "الصلاة",
+              "description": "قصر الصلاة للمسافر 📃",
+              "source": "@site/docs/ruhayli/الصلاة.mdx",
               "sourceDirName": "ruhayli",
               "slug": "/ruhayli/الصلاة",
-              "permalink": "/en/ruhayli/الصلاة",
+              "permalink": "/ruhayli/الصلاة",
               "draft": false,
               "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/ruhayli/الصلاة.mdx",
               "tags": [],
@@ -166,22 +166,22 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "الشيخ سليمان الرحيلي",
-                "permalink": "/en/category/الشيخ-سليمان-الرحيلي"
+                "permalink": "/category/الشيخ-سليمان-الرحيلي"
               },
               "next": {
-                "title": "Fasting",
-                "permalink": "/en/ruhayli/الصيام"
+                "title": "الصيام",
+                "permalink": "/ruhayli/الصيام"
               }
             },
             {
               "unversionedId": "ruhayli/الصيام",
               "id": "ruhayli/الصيام",
-              "title": "Fasting",
-              "description": "Ruling on breaking fast in daytime of Ramadan when traveling 📃",
-              "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/ruhayli/الصيام.mdx",
+              "title": "الصيام",
+              "description": "حكم الفطر في نهار رمضان اذا أراد السفر 📃",
+              "source": "@site/docs/ruhayli/الصيام.mdx",
               "sourceDirName": "ruhayli",
               "slug": "/ruhayli/الصيام",
-              "permalink": "/en/ruhayli/الصيام",
+              "permalink": "/ruhayli/الصيام",
               "draft": false,
               "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/ruhayli/الصيام.mdx",
               "tags": [],
@@ -192,12 +192,12 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Prayer",
-                "permalink": "/en/ruhayli/الصلاة"
+                "title": "الصلاة",
+                "permalink": "/ruhayli/الصلاة"
               },
               "next": {
                 "title": "القران",
-                "permalink": "/en/ruhayli/القران"
+                "permalink": "/ruhayli/القران"
               }
             },
             {
@@ -205,10 +205,10 @@
               "id": "ruhayli/القران",
               "title": "القران",
               "description": "حكم الفطر في نهار رمضان اذا أراد السفر",
-              "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/ruhayli/القران.mdx",
+              "source": "@site/docs/ruhayli/القران.mdx",
               "sourceDirName": "ruhayli",
               "slug": "/ruhayli/القران",
-              "permalink": "/en/ruhayli/القران",
+              "permalink": "/ruhayli/القران",
               "draft": false,
               "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/ruhayli/القران.mdx",
               "tags": [],
@@ -219,23 +219,23 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Fasting",
-                "permalink": "/en/ruhayli/الصيام"
+                "title": "الصيام",
+                "permalink": "/ruhayli/الصيام"
               },
               "next": {
-                "title": "Fatawa for Women",
-                "permalink": "/en/ruhayli/النساء"
+                "title": "فتاوى النساء",
+                "permalink": "/ruhayli/النساء"
               }
             },
             {
               "unversionedId": "ruhayli/النساء",
               "id": "ruhayli/النساء",
-              "title": "Fatawa for Women",
-              "description": "Ruling on menses when taking birth control pills 📃",
-              "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/ruhayli/النساء.mdx",
+              "title": "فتاوى النساء",
+              "description": "حكم حبوب منع الحمل والدم عند التناول 📃",
+              "source": "@site/docs/ruhayli/النساء.mdx",
               "sourceDirName": "ruhayli",
               "slug": "/ruhayli/النساء",
-              "permalink": "/en/ruhayli/النساء",
+              "permalink": "/ruhayli/النساء",
               "draft": false,
               "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/ruhayli/النساء.mdx",
               "tags": [],
@@ -247,11 +247,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "القران",
-                "permalink": "/en/ruhayli/القران"
+                "permalink": "/ruhayli/القران"
               },
               "next": {
                 "title": "الشيخ عبد الرزاق البدر",
-                "permalink": "/en/category/الشيخ-عبد-الرزاق-البدر"
+                "permalink": "/category/الشيخ-عبد-الرزاق-البدر"
               }
             }
           ],
@@ -289,7 +289,7 @@
                   "type": "generated-index",
                   "description": "فتاوى الشيخ سليمان الرحيلي",
                   "slug": "/category/الشيخ-سليمان-الرحيلي",
-                  "permalink": "/en/category/الشيخ-سليمان-الرحيلي"
+                  "permalink": "/category/الشيخ-سليمان-الرحيلي"
                 }
               },
               {
@@ -319,7 +319,7 @@
                   "type": "generated-index",
                   "description": "فتاوى الشيخ عبد الرزاق البدر",
                   "slug": "/category/الشيخ-عبد-الرزاق-البدر",
-                  "permalink": "/en/category/الشيخ-عبد-الرزاق-البدر"
+                  "permalink": "/category/الشيخ-عبد-الرزاق-البدر"
                 }
               }
             ]
@@ -332,12 +332,12 @@
     "default": [
       {
         "type": "jsx",
-        "permalink": "/en/",
+        "permalink": "/",
         "source": "@site/src/pages/index.js"
       },
       {
         "type": "mdx",
-        "permalink": "/en/markdown-page",
+        "permalink": "/markdown-page",
         "source": "@site/src/pages/markdown-page.md",
         "title": "Markdown page example",
         "description": "You don't need React to write simple standalone pages.",
