@@ -14,7 +14,7 @@ export default [
   },
   {
     path: '/en/',
-    component: ComponentCreator('/en/', 'b17'),
+    component: ComponentCreator('/en/', '0d8'),
     routes: [
       {
         path: '/en/albadr/الصلاة',
@@ -79,6 +79,12 @@ export default [
       {
         path: '/en/ruhayli/النساء',
         component: ComponentCreator('/en/ruhayli/النساء', '585'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/en/ruhayli/متنوعة',
+        component: ComponentCreator('/en/ruhayli/متنوعة', 'e07'),
         exact: true,
         sidebar: "tutorialSidebar"
       }

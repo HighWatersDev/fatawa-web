@@ -13,7 +13,7 @@
     },
     "config": "5e9f5e1a"
   },
-  "/en/-b17": {
+  "/en/-0d8": {
     "__comp": "1be78505",
     "__context": {
       "plugin": "b10ab8f4"
@@ -63,5 +63,9 @@
   "/en/ruhayli/النساء-585": {
     "__comp": "17896441",
     "content": "f3757272"
+  },
+  "/en/ruhayli/متنوعة-e07": {
+    "__comp": "17896441",
+    "content": "8bc05840"
   }
 }

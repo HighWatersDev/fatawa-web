@@ -29,6 +29,12 @@
           },
           {
             "type": "link",
+            "label": "Various topics",
+            "href": "/en/ruhayli/متنوعة",
+            "docId": "ruhayli/متنوعة"
+          },
+          {
+            "type": "link",
             "label": "Fasting",
             "href": "/en/ruhayli/الصيام",
             "docId": "ruhayli/الصيام"
@@ -136,6 +142,12 @@
       "id": "ruhayli/النساء",
       "title": "Fatawa for Women",
       "description": "Ruling on menses when taking birth control pills 📃",
+      "sidebar": "tutorialSidebar"
+    },
+    "ruhayli/متنوعة": {
+      "id": "ruhayli/متنوعة",
+      "title": "Various topics",
+      "description": "Placing hands on the chest when greeting the Messenger of Allaah ﷺ 📃",
       "sidebar": "tutorialSidebar"
     }
   }

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "ruhayli/متنوعة",
+  "id": "ruhayli/متنوعة",
+  "title": "الفتاوى المتنوعة",
+  "description": "📃 حكم وضع اليدين على الصدر والانحناء عند السلام على رسول الله ﷺ",
+  "source": "@site/docs/ruhayli/متنوعة.mdx",
+  "sourceDirName": "ruhayli",
+  "slug": "/ruhayli/متنوعة",
+  "permalink": "/ruhayli/متنوعة",
+  "draft": false,
+  "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/ruhayli/متنوعة.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "فتاوى النساء",
+    "permalink": "/ruhayli/النساء"
+  },
+  "next": {
+    "title": "الشيخ عبد الرزاق البدر",
+    "permalink": "/category/الشيخ-عبد-الرزاق-البدر"
+  }
+}
