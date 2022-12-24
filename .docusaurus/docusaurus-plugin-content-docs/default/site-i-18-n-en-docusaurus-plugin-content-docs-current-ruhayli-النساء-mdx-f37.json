@@ -6,7 +6,7 @@
   "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/ruhayli/النساء.mdx",
   "sourceDirName": "ruhayli",
   "slug": "/ruhayli/النساء",
-  "permalink": "/fatawa-web/en/ruhayli/النساء",
+  "permalink": "/en/ruhayli/النساء",
   "draft": false,
   "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/ruhayli/النساء.mdx",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Qur'an",
-    "permalink": "/fatawa-web/en/ruhayli/القران"
+    "permalink": "/en/ruhayli/القران"
   },
   "next": {
     "title": "الشيخ عبد الرزاق البدر",
-    "permalink": "/fatawa-web/en/category/الشيخ-عبد-الرزاق-البدر"
+    "permalink": "/en/category/الشيخ-عبد-الرزاق-البدر"
   }
 }

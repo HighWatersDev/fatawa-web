@@ -6,7 +6,7 @@
   "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/ruhayli/الصلاة.mdx",
   "sourceDirName": "ruhayli",
   "slug": "/ruhayli/الصلاة",
-  "permalink": "/fatawa-web/en/ruhayli/الصلاة",
+  "permalink": "/en/ruhayli/الصلاة",
   "draft": false,
   "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/ruhayli/الصلاة.mdx",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "الشيخ سليمان الرحيلي",
-    "permalink": "/fatawa-web/en/category/الشيخ-سليمان-الرحيلي"
+    "permalink": "/en/category/الشيخ-سليمان-الرحيلي"
   },
   "next": {
     "title": "Various topics",
-    "permalink": "/fatawa-web/en/ruhayli/متنوعة"
+    "permalink": "/en/ruhayli/متنوعة"
   }
 }

@@ -6,7 +6,7 @@
   "source": "@site/docs/albadr/الصلاة.mdx",
   "sourceDirName": "albadr",
   "slug": "/albadr/الصلاة",
-  "permalink": "/fatawa-web/albadr/الصلاة",
+  "permalink": "/albadr/الصلاة",
   "draft": false,
   "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/albadr/الصلاة.mdx",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "الشيخ عبد الرزاق البدر",
-    "permalink": "/fatawa-web/category/الشيخ-عبد-الرزاق-البدر"
+    "permalink": "/category/الشيخ-عبد-الرزاق-البدر"
   },
   "next": {
     "title": "الصيام",
-    "permalink": "/fatawa-web/albadr/الصيام"
+    "permalink": "/albadr/الصيام"
   }
 }

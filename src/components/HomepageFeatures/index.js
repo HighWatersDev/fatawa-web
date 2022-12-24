@@ -4,10 +4,11 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: '',
-    Svg: require('@site/static/img/library.svg').default,
+    title: 'فسئلوا أهل الذكر إن كنتم لا تعلمون',
+    Svg: require('@site/static/img/window.svg').default,
     description: (
       <>
+      موقع فتاوى علماء أهل السنة
       </>
     ),
   },

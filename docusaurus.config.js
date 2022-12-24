@@ -8,15 +8,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'فتاوى علماء أهل السنة',
   tagline: '',
-  url: 'https://highwatersdev.github.io',
-  baseUrl: '/fatawa-web/',
-  projectName: 'highwatersdev.github.io',
-  organizationName: 'highwatersdev',
-  trailingSlash: false,
-  deploymentBranch: 'main',
+  url: 'https://salafifatawa.azurewebsites.net',
+  baseUrl: '/',
+//  projectName: 'highwatersdev.github.io',
+//  organizationName: 'highwatersdev',
+//  trailingSlash: false,
+//  deploymentBranch: 'main',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/fav2.ico',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.

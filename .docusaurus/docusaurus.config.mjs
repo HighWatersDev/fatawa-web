@@ -6,15 +6,11 @@
 export default {
   "title": "فتاوى علماء أهل السنة",
   "tagline": "",
-  "url": "https://highwatersdev.github.io",
-  "baseUrl": "/fatawa-web/en/",
-  "projectName": "highwatersdev.github.io",
-  "organizationName": "highwatersdev",
-  "trailingSlash": false,
-  "deploymentBranch": "main",
+  "url": "https://salafifatawa.azurewebsites.net",
+  "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
-  "favicon": "img/favicon.ico",
+  "favicon": "img/fav2.ico",
   "i18n": {
     "defaultLocale": "ar",
     "locales": [
@@ -69,7 +65,7 @@ export default {
   ],
   "themeConfig": {
     "navbar": {
-      "title": "Homepage",
+      "title": "الرئيسية",
       "logo": {
         "alt": "My Site Logo",
         "src": "img/logo2.jpeg"
@@ -79,7 +75,7 @@ export default {
           "type": "doc",
           "docId": "intro",
           "position": "left",
-          "label": "Fatawa"
+          "label": "الفتاوى"
         },
         {
           "type": "localeDropdown",
