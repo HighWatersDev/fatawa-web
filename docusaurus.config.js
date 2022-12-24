@@ -9,7 +9,7 @@ const config = {
   title: 'فتاوى علماء أهل السنة',
   tagline: '',
   url: 'https://highwatersdev.github.io',
-  baseUrl: '/fatawa-web',
+  baseUrl: '/fatawa-web/',
   projectName: 'highwatersdev.github.io',
   organizationName: 'highwatersdev',
   trailingSlash: false,
