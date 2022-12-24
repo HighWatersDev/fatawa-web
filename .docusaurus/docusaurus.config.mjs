@@ -6,8 +6,12 @@
 export default {
   "title": "فتاوى علماء أهل السنة",
   "tagline": "",
-  "url": "https://your-docusaurus-test-site.com",
-  "baseUrl": "/",
+  "url": "https://highwatersdev.github.io",
+  "baseUrl": "/fatawa-web/en/",
+  "projectName": "highwatersdev.github.io",
+  "organizationName": "highwatersdev",
+  "trailingSlash": false,
+  "deploymentBranch": "main",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
@@ -65,7 +69,7 @@ export default {
   ],
   "themeConfig": {
     "navbar": {
-      "title": "الرئيسية",
+      "title": "Homepage",
       "logo": {
         "alt": "My Site Logo",
         "src": "img/logo2.jpeg"
@@ -75,7 +79,7 @@ export default {
           "type": "doc",
           "docId": "intro",
           "position": "left",
-          "label": "الفتاوى"
+          "label": "Fatawa"
         },
         {
           "type": "localeDropdown",

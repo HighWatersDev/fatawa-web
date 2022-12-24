@@ -6,7 +6,7 @@
   "source": "@site/docs/ruhayli/القران.mdx",
   "sourceDirName": "ruhayli",
   "slug": "/ruhayli/القران",
-  "permalink": "/ruhayli/القران",
+  "permalink": "/fatawa-web/ruhayli/القران",
   "draft": false,
   "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/ruhayli/القران.mdx",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "الصيام",
-    "permalink": "/ruhayli/الصيام"
+    "permalink": "/fatawa-web/ruhayli/الصيام"
   },
   "next": {
     "title": "فتاوى النساء",
-    "permalink": "/ruhayli/النساء"
+    "permalink": "/fatawa-web/ruhayli/النساء"
   }
 }

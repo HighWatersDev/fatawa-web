@@ -6,7 +6,7 @@
   "source": "@site/docs/ruhayli/الصيام.mdx",
   "sourceDirName": "ruhayli",
   "slug": "/ruhayli/الصيام",
-  "permalink": "/ruhayli/الصيام",
+  "permalink": "/fatawa-web/ruhayli/الصيام",
   "draft": false,
   "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/ruhayli/الصيام.mdx",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "الصلاة",
-    "permalink": "/ruhayli/الصلاة"
+    "permalink": "/fatawa-web/ruhayli/الصلاة"
   },
   "next": {
     "title": "القران",
-    "permalink": "/ruhayli/القران"
+    "permalink": "/fatawa-web/ruhayli/القران"
   }
 }

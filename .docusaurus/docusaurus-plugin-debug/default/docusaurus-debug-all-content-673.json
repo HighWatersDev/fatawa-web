@@ -9,8 +9,8 @@
           "badge": false,
           "noIndex": false,
           "className": "docs-version-current",
-          "path": "/",
-          "tagsPath": "/tags",
+          "path": "/fatawa-web/",
+          "tagsPath": "/fatawa-web/tags",
           "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs",
           "editUrlLocalized": "https://github.com/HighWatersDev/fatawa-web/i18n/ar/docusaurus-plugin-content-docs/current",
           "isLast": true,
@@ -27,7 +27,7 @@
               "source": "@site/docs/albadr/الصلاة.mdx",
               "sourceDirName": "albadr",
               "slug": "/albadr/الصلاة",
-              "permalink": "/albadr/الصلاة",
+              "permalink": "/fatawa-web/albadr/الصلاة",
               "draft": false,
               "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/albadr/الصلاة.mdx",
               "tags": [],
@@ -39,11 +39,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "الشيخ عبد الرزاق البدر",
-                "permalink": "/category/الشيخ-عبد-الرزاق-البدر"
+                "permalink": "/fatawa-web/category/الشيخ-عبد-الرزاق-البدر"
               },
               "next": {
                 "title": "الصيام",
-                "permalink": "/albadr/الصيام"
+                "permalink": "/fatawa-web/albadr/الصيام"
               }
             },
             {
@@ -54,7 +54,7 @@
               "source": "@site/docs/albadr/الصيام.mdx",
               "sourceDirName": "albadr",
               "slug": "/albadr/الصيام",
-              "permalink": "/albadr/الصيام",
+              "permalink": "/fatawa-web/albadr/الصيام",
               "draft": false,
               "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/albadr/الصيام.mdx",
               "tags": [],
@@ -66,11 +66,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "الصلاة",
-                "permalink": "/albadr/الصلاة"
+                "permalink": "/fatawa-web/albadr/الصلاة"
               },
               "next": {
                 "title": "القران",
-                "permalink": "/albadr/القران"
+                "permalink": "/fatawa-web/albadr/القران"
               }
             },
             {
@@ -81,7 +81,7 @@
               "source": "@site/docs/albadr/القران.mdx",
               "sourceDirName": "albadr",
               "slug": "/albadr/القران",
-              "permalink": "/albadr/القران",
+              "permalink": "/fatawa-web/albadr/القران",
               "draft": false,
               "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/albadr/القران.mdx",
               "tags": [],
@@ -93,11 +93,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "الصيام",
-                "permalink": "/albadr/الصيام"
+                "permalink": "/fatawa-web/albadr/الصيام"
               },
               "next": {
                 "title": "فتاوى النساء",
-                "permalink": "/albadr/النساء"
+                "permalink": "/fatawa-web/albadr/النساء"
               }
             },
             {
@@ -108,7 +108,7 @@
               "source": "@site/docs/albadr/النساء.mdx",
               "sourceDirName": "albadr",
               "slug": "/albadr/النساء",
-              "permalink": "/albadr/النساء",
+              "permalink": "/fatawa-web/albadr/النساء",
               "draft": false,
               "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/albadr/النساء.mdx",
               "tags": [],
@@ -120,7 +120,7 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "القران",
-                "permalink": "/albadr/القران"
+                "permalink": "/fatawa-web/albadr/القران"
               }
             },
             {
@@ -131,7 +131,7 @@
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
               "slug": "/intro",
-              "permalink": "/intro",
+              "permalink": "/fatawa-web/intro",
               "draft": false,
               "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/intro.md",
               "tags": [],
@@ -143,7 +143,7 @@
               "sidebar": "tutorialSidebar",
               "next": {
                 "title": "الشيخ سليمان الرحيلي",
-                "permalink": "/category/الشيخ-سليمان-الرحيلي"
+                "permalink": "/fatawa-web/category/الشيخ-سليمان-الرحيلي"
               }
             },
             {
@@ -154,7 +154,7 @@
               "source": "@site/docs/ruhayli/الصلاة.mdx",
               "sourceDirName": "ruhayli",
               "slug": "/ruhayli/الصلاة",
-              "permalink": "/ruhayli/الصلاة",
+              "permalink": "/fatawa-web/ruhayli/الصلاة",
               "draft": false,
               "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/ruhayli/الصلاة.mdx",
               "tags": [],
@@ -166,11 +166,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "الشيخ سليمان الرحيلي",
-                "permalink": "/category/الشيخ-سليمان-الرحيلي"
+                "permalink": "/fatawa-web/category/الشيخ-سليمان-الرحيلي"
               },
               "next": {
                 "title": "الصيام",
-                "permalink": "/ruhayli/الصيام"
+                "permalink": "/fatawa-web/ruhayli/الصيام"
               }
             },
             {
@@ -181,7 +181,7 @@
               "source": "@site/docs/ruhayli/الصيام.mdx",
               "sourceDirName": "ruhayli",
               "slug": "/ruhayli/الصيام",
-              "permalink": "/ruhayli/الصيام",
+              "permalink": "/fatawa-web/ruhayli/الصيام",
               "draft": false,
               "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/ruhayli/الصيام.mdx",
               "tags": [],
@@ -193,11 +193,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "الصلاة",
-                "permalink": "/ruhayli/الصلاة"
+                "permalink": "/fatawa-web/ruhayli/الصلاة"
               },
               "next": {
                 "title": "القران",
-                "permalink": "/ruhayli/القران"
+                "permalink": "/fatawa-web/ruhayli/القران"
               }
             },
             {
@@ -208,7 +208,7 @@
               "source": "@site/docs/ruhayli/القران.mdx",
               "sourceDirName": "ruhayli",
               "slug": "/ruhayli/القران",
-              "permalink": "/ruhayli/القران",
+              "permalink": "/fatawa-web/ruhayli/القران",
               "draft": false,
               "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/ruhayli/القران.mdx",
               "tags": [],
@@ -220,11 +220,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "الصيام",
-                "permalink": "/ruhayli/الصيام"
+                "permalink": "/fatawa-web/ruhayli/الصيام"
               },
               "next": {
                 "title": "فتاوى النساء",
-                "permalink": "/ruhayli/النساء"
+                "permalink": "/fatawa-web/ruhayli/النساء"
               }
             },
             {
@@ -235,7 +235,7 @@
               "source": "@site/docs/ruhayli/النساء.mdx",
               "sourceDirName": "ruhayli",
               "slug": "/ruhayli/النساء",
-              "permalink": "/ruhayli/النساء",
+              "permalink": "/fatawa-web/ruhayli/النساء",
               "draft": false,
               "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/ruhayli/النساء.mdx",
               "tags": [],
@@ -247,11 +247,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "القران",
-                "permalink": "/ruhayli/القران"
+                "permalink": "/fatawa-web/ruhayli/القران"
               },
               "next": {
                 "title": "الفتاوى المتنوعة",
-                "permalink": "/ruhayli/متنوعة"
+                "permalink": "/fatawa-web/ruhayli/متنوعة"
               }
             },
             {
@@ -262,7 +262,7 @@
               "source": "@site/docs/ruhayli/متنوعة.mdx",
               "sourceDirName": "ruhayli",
               "slug": "/ruhayli/متنوعة",
-              "permalink": "/ruhayli/متنوعة",
+              "permalink": "/fatawa-web/ruhayli/متنوعة",
               "draft": false,
               "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/ruhayli/متنوعة.mdx",
               "tags": [],
@@ -274,11 +274,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "فتاوى النساء",
-                "permalink": "/ruhayli/النساء"
+                "permalink": "/fatawa-web/ruhayli/النساء"
               },
               "next": {
                 "title": "الشيخ عبد الرزاق البدر",
-                "permalink": "/category/الشيخ-عبد-الرزاق-البدر"
+                "permalink": "/fatawa-web/category/الشيخ-عبد-الرزاق-البدر"
               }
             }
           ],
@@ -320,7 +320,7 @@
                   "type": "generated-index",
                   "description": "فتاوى الشيخ سليمان الرحيلي",
                   "slug": "/category/الشيخ-سليمان-الرحيلي",
-                  "permalink": "/category/الشيخ-سليمان-الرحيلي"
+                  "permalink": "/fatawa-web/category/الشيخ-سليمان-الرحيلي"
                 }
               },
               {
@@ -350,7 +350,7 @@
                   "type": "generated-index",
                   "description": "فتاوى الشيخ عبد الرزاق البدر",
                   "slug": "/category/الشيخ-عبد-الرزاق-البدر",
-                  "permalink": "/category/الشيخ-عبد-الرزاق-البدر"
+                  "permalink": "/fatawa-web/category/الشيخ-عبد-الرزاق-البدر"
                 }
               }
             ]
@@ -363,12 +363,12 @@
     "default": [
       {
         "type": "jsx",
-        "permalink": "/",
+        "permalink": "/fatawa-web/",
         "source": "@site/src/pages/index.js"
       },
       {
         "type": "mdx",
-        "permalink": "/markdown-page",
+        "permalink": "/fatawa-web/markdown-page",
         "source": "@site/src/pages/markdown-page.md",
         "title": "Markdown page example",
         "description": "You don't need React to write simple standalone pages.",

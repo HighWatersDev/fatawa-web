@@ -6,7 +6,7 @@
   "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/ruhayli/القران.mdx",
   "sourceDirName": "ruhayli",
   "slug": "/ruhayli/القران",
-  "permalink": "/en/ruhayli/القران",
+  "permalink": "/fatawa-web/en/ruhayli/القران",
   "draft": false,
   "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/ruhayli/القران.mdx",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Fasting",
-    "permalink": "/en/ruhayli/الصيام"
+    "permalink": "/fatawa-web/en/ruhayli/الصيام"
   },
   "next": {
     "title": "Fatawa for Women",
-    "permalink": "/en/ruhayli/النساء"
+    "permalink": "/fatawa-web/en/ruhayli/النساء"
   }
 }

@@ -6,7 +6,7 @@
   "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/albadr/النساء.mdx",
   "sourceDirName": "albadr",
   "slug": "/albadr/النساء",
-  "permalink": "/en/albadr/النساء",
+  "permalink": "/fatawa-web/en/albadr/النساء",
   "draft": false,
   "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/albadr/النساء.mdx",
   "tags": [],
@@ -18,6 +18,6 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "القران",
-    "permalink": "/en/albadr/القران"
+    "permalink": "/fatawa-web/en/albadr/القران"
   }
 }

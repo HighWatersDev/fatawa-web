@@ -1,114 +1,71 @@
 {
-  "/__docusaurus/debug-8a4": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
+  "/fatawa-web/en/markdown-page-e0e": {
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-1-ae-91e"
-    }
-  },
-  "/__docusaurus/debug/config-c94": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-1-ae-91e"
-    }
-  },
-  "/__docusaurus/debug/content-d66": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-1-ae-91e"
+      "plugin": "0a77e08f"
     },
-    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+    "content": "393be207"
   },
-  "/__docusaurus/debug/globalData-a7d": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
+  "/fatawa-web/en/-039": {
+    "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-1-ae-91e"
-    }
-  },
-  "/__docusaurus/debug/metadata-dd3": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-1-ae-91e"
-    }
-  },
-  "/__docusaurus/debug/registry-557": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-1-ae-91e"
-    }
-  },
-  "/__docusaurus/debug/routes-d5f": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-1-ae-91e"
-    }
-  },
-  "/markdown-page-810": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
-    "__context": {
-      "plugin": "plugin---markdown-page-0-a-7-ab7"
+      "plugin": "0a77e08f"
     },
-    "content": "content---markdown-page-393-028"
+    "config": "5e9f5e1a"
   },
-  "/-554": {
-    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+  "/fatawa-web/en/-d1f": {
+    "__comp": "1be78505",
     "__context": {
-      "plugin": "plugin---markdown-page-0-a-7-ab7"
+      "plugin": "b10ab8f4"
     },
-    "config": "config---5-e-9-4f3"
+    "versionMetadata": "935f2afb"
   },
-  "/-6a3": {
-    "__comp": "__comp---theme-doc-page-1-be-9be",
-    "__context": {
-      "plugin": "plugin---b-10-abc"
-    },
-    "versionMetadata": "versionMetadata---935-fcf"
+  "/fatawa-web/en/albadr/الصلاة-50c": {
+    "__comp": "17896441",
+    "content": "98c02b9e"
   },
-  "/albadr/الصلاة-b00": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---albadr-الصلاةaf-3-bed"
+  "/fatawa-web/en/albadr/الصيام-33b": {
+    "__comp": "17896441",
+    "content": "97e8c33c"
   },
-  "/albadr/الصيام-4eb": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---albadr-الصيامa-1-e-a2f"
+  "/fatawa-web/en/albadr/القران-417": {
+    "__comp": "17896441",
+    "content": "a08880c6"
   },
-  "/albadr/القران-83c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---albadr-القرانcd-5-473"
+  "/fatawa-web/en/albadr/النساء-51d": {
+    "__comp": "17896441",
+    "content": "4243c987"
   },
-  "/albadr/النساء-b9e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---albadr-النساءb-67-1cf"
+  "/fatawa-web/en/category/الشيخ-سليمان-الرحيلي-1c7": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "acecb4cc"
   },
-  "/category/الشيخ-سليمان-الرحيلي-012": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---category-الشيخ-سليمان-الرحيليac-9-472"
+  "/fatawa-web/en/category/الشيخ-عبد-الرزاق-البدر-0dc": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "98c55763"
   },
-  "/category/الشيخ-عبد-الرزاق-البدر-759": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---category-الشيخ-عبد-الرزاق-البدرaec-56c"
+  "/fatawa-web/en/intro-19e": {
+    "__comp": "17896441",
+    "content": "5b44acae"
   },
-  "/intro-283": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---intro-0-e-3-7b8"
+  "/fatawa-web/en/ruhayli/الصلاة-59d": {
+    "__comp": "17896441",
+    "content": "dfb6bfb7"
   },
-  "/ruhayli/الصلاة-7f1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ruhayli-الصلاةdef-c5a"
+  "/fatawa-web/en/ruhayli/الصيام-d21": {
+    "__comp": "17896441",
+    "content": "c7cb855f"
   },
-  "/ruhayli/الصيام-9ef": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ruhayli-الصيام-826-978"
+  "/fatawa-web/en/ruhayli/القران-49a": {
+    "__comp": "17896441",
+    "content": "9161f066"
   },
-  "/ruhayli/القران-f1f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ruhayli-القرانfb-1-5ab"
+  "/fatawa-web/en/ruhayli/النساء-ba5": {
+    "__comp": "17896441",
+    "content": "f3757272"
   },
-  "/ruhayli/النساء-8da": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ruhayli-النساء-1-f-4-d18"
-  },
-  "/ruhayli/متنوعة-030": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ruhayli-متنوعةf-5-a-9ee"
+  "/fatawa-web/en/ruhayli/متنوعة-bfb": {
+    "__comp": "17896441",
+    "content": "8bc05840"
   }
 }

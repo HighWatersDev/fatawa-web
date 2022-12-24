@@ -6,7 +6,7 @@
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
-  "permalink": "/intro",
+  "permalink": "/fatawa-web/intro",
   "draft": false,
   "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/intro.md",
   "tags": [],
@@ -18,6 +18,6 @@
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "الشيخ سليمان الرحيلي",
-    "permalink": "/category/الشيخ-سليمان-الرحيلي"
+    "permalink": "/fatawa-web/category/الشيخ-سليمان-الرحيلي"
   }
 }

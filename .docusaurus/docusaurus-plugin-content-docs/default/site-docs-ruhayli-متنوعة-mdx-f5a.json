@@ -6,7 +6,7 @@
   "source": "@site/docs/ruhayli/متنوعة.mdx",
   "sourceDirName": "ruhayli",
   "slug": "/ruhayli/متنوعة",
-  "permalink": "/ruhayli/متنوعة",
+  "permalink": "/fatawa-web/ruhayli/متنوعة",
   "draft": false,
   "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/ruhayli/متنوعة.mdx",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "فتاوى النساء",
-    "permalink": "/ruhayli/النساء"
+    "permalink": "/fatawa-web/ruhayli/النساء"
   },
   "next": {
     "title": "الشيخ عبد الرزاق البدر",
-    "permalink": "/category/الشيخ-عبد-الرزاق-البدر"
+    "permalink": "/fatawa-web/category/الشيخ-عبد-الرزاق-البدر"
   }
 }

@@ -6,7 +6,7 @@
   "source": "@site/docs/albadr/الصيام.mdx",
   "sourceDirName": "albadr",
   "slug": "/albadr/الصيام",
-  "permalink": "/albadr/الصيام",
+  "permalink": "/fatawa-web/albadr/الصيام",
   "draft": false,
   "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/albadr/الصيام.mdx",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "الصلاة",
-    "permalink": "/albadr/الصلاة"
+    "permalink": "/fatawa-web/albadr/الصلاة"
   },
   "next": {
     "title": "القران",
-    "permalink": "/albadr/القران"
+    "permalink": "/fatawa-web/albadr/القران"
   }
 }

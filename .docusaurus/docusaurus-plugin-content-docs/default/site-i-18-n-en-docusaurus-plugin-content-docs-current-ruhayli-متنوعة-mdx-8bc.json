@@ -6,7 +6,7 @@
   "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/ruhayli/متنوعة.mdx",
   "sourceDirName": "ruhayli",
   "slug": "/ruhayli/متنوعة",
-  "permalink": "/en/ruhayli/متنوعة",
+  "permalink": "/fatawa-web/en/ruhayli/متنوعة",
   "draft": false,
   "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/ruhayli/متنوعة.mdx",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Prayer",
-    "permalink": "/en/ruhayli/الصلاة"
+    "permalink": "/fatawa-web/en/ruhayli/الصلاة"
   },
   "next": {
     "title": "Fasting",
-    "permalink": "/en/ruhayli/الصيام"
+    "permalink": "/fatawa-web/en/ruhayli/الصيام"
   }
 }

@@ -6,7 +6,7 @@
   "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/albadr/القران.mdx",
   "sourceDirName": "albadr",
   "slug": "/albadr/القران",
-  "permalink": "/en/albadr/القران",
+  "permalink": "/fatawa-web/en/albadr/القران",
   "draft": false,
   "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/albadr/القران.mdx",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "الصيام",
-    "permalink": "/en/albadr/الصيام"
+    "permalink": "/fatawa-web/en/albadr/الصيام"
   },
   "next": {
     "title": "فتاوى النساء",
-    "permalink": "/en/albadr/النساء"
+    "permalink": "/fatawa-web/en/albadr/النساء"
   }
 }

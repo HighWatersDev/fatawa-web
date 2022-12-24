@@ -6,7 +6,7 @@
   "source": "@site/docs/ruhayli/النساء.mdx",
   "sourceDirName": "ruhayli",
   "slug": "/ruhayli/النساء",
-  "permalink": "/ruhayli/النساء",
+  "permalink": "/fatawa-web/ruhayli/النساء",
   "draft": false,
   "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/ruhayli/النساء.mdx",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "القران",
-    "permalink": "/ruhayli/القران"
+    "permalink": "/fatawa-web/ruhayli/القران"
   },
   "next": {
     "title": "الفتاوى المتنوعة",
-    "permalink": "/ruhayli/متنوعة"
+    "permalink": "/fatawa-web/ruhayli/متنوعة"
   }
 }
