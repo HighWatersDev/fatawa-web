@@ -8,8 +8,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'فتاوى علماء أهل السنة',
   tagline: '',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://highwatersdev.github.io/fatawa-web/',
   baseUrl: '/',
+  projectName: 'highwatersdev.github.io',
+  organizationName: 'highwatersdev',
+  trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
