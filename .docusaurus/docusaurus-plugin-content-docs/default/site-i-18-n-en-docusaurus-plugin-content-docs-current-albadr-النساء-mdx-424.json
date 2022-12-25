@@ -1,7 +1,7 @@
 {
   "unversionedId": "albadr/النساء",
   "id": "albadr/النساء",
-  "title": "Rulings related to women's issues",
+  "title": "Rulings related to women",
   "description": "Kissing elderly woman who is not mahram (forbidden for marriage) 📃",
   "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/albadr/النساء.mdx",
   "sourceDirName": "albadr",
@@ -11,17 +11,13 @@
   "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/albadr/النساء.mdx",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 4,
+  "sidebarPosition": 6,
   "frontMatter": {
-    "sidebar_position": 4
+    "sidebar_position": 6
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "القران",
-    "permalink": "/en/albadr/القران"
-  },
-  "next": {
-    "title": "Ruling related to Hajj and Umrah",
-    "permalink": "/en/albadr/المناسك"
+    "title": "Islamic manners and etiquette",
+    "permalink": "/en/albadr/أدب"
   }
 }

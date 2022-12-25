@@ -11,13 +11,17 @@
   "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/albadr/أدب.mdx",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 6,
+  "sidebarPosition": 5,
   "frontMatter": {
-    "sidebar_position": 6
+    "sidebar_position": 5
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Ruling related to Hajj and Umrah",
-    "permalink": "/en/albadr/المناسك"
+    "title": "Qur'an",
+    "permalink": "/en/albadr/القران"
+  },
+  "next": {
+    "title": "Rulings related to women",
+    "permalink": "/en/albadr/النساء"
   }
 }

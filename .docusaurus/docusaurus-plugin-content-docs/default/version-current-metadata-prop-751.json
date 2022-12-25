@@ -30,8 +30,8 @@
           {
             "type": "link",
             "label": "Various topics",
-            "href": "/en/ruhayli/متنوعة",
-            "docId": "ruhayli/متنوعة"
+            "href": "/en/ruhayli/المتنوعة",
+            "docId": "ruhayli/المتنوعة"
           },
           {
             "type": "link",
@@ -74,27 +74,27 @@
           },
           {
             "type": "link",
-            "label": "القران",
-            "href": "/en/albadr/القران",
-            "docId": "albadr/القران"
-          },
-          {
-            "type": "link",
-            "label": "Rulings related to women's issues",
-            "href": "/en/albadr/النساء",
-            "docId": "albadr/النساء"
-          },
-          {
-            "type": "link",
-            "label": "Ruling related to Hajj and Umrah",
+            "label": "Rulings related to Hajj and Umrah",
             "href": "/en/albadr/المناسك",
             "docId": "albadr/المناسك"
+          },
+          {
+            "type": "link",
+            "label": "Qur'an",
+            "href": "/en/albadr/القران",
+            "docId": "albadr/القران"
           },
           {
             "type": "link",
             "label": "Islamic manners and etiquette",
             "href": "/en/albadr/أدب",
             "docId": "albadr/أدب"
+          },
+          {
+            "type": "link",
+            "label": "Rulings related to women",
+            "href": "/en/albadr/النساء",
+            "docId": "albadr/النساء"
           }
         ],
         "href": "/en/category/الشيخ-عبد-الرزاق-البدر"
@@ -111,7 +111,7 @@
     "albadr/الصلاة": {
       "id": "albadr/الصلاة",
       "title": "Prayer",
-      "description": "قصر الصلاة للمسافر",
+      "description": "---",
       "sidebar": "tutorialSidebar"
     },
     "albadr/الصيام": {
@@ -122,19 +122,19 @@
     },
     "albadr/القران": {
       "id": "albadr/القران",
-      "title": "القران",
-      "description": "حكم الفطر في نهار رمضان اذا أراد السفر",
+      "title": "Qur'an",
+      "description": "---",
       "sidebar": "tutorialSidebar"
     },
     "albadr/المناسك": {
       "id": "albadr/المناسك",
-      "title": "Ruling related to Hajj and Umrah",
+      "title": "Rulings related to Hajj and Umrah",
       "description": "Completing rituals of Umrah while on menses 📃",
       "sidebar": "tutorialSidebar"
     },
     "albadr/النساء": {
       "id": "albadr/النساء",
-      "title": "Rulings related to women's issues",
+      "title": "Rulings related to women",
       "description": "Kissing elderly woman who is not mahram (forbidden for marriage) 📃",
       "sidebar": "tutorialSidebar"
     },
@@ -162,16 +162,16 @@
       "description": "حكم الفطر في نهار رمضان اذا أراد السفر",
       "sidebar": "tutorialSidebar"
     },
+    "ruhayli/المتنوعة": {
+      "id": "ruhayli/المتنوعة",
+      "title": "Various topics",
+      "description": "Placing hands on the chest when greeting the Messenger of Allaah ﷺ 📃",
+      "sidebar": "tutorialSidebar"
+    },
     "ruhayli/النساء": {
       "id": "ruhayli/النساء",
       "title": "Fatawa for Women",
       "description": "Ruling on menses when taking birth control pills 📃",
-      "sidebar": "tutorialSidebar"
-    },
-    "ruhayli/متنوعة": {
-      "id": "ruhayli/متنوعة",
-      "title": "Various topics",
-      "description": "Placing hands on the chest when greeting the Messenger of Allaah ﷺ 📃",
       "sidebar": "tutorialSidebar"
     }
   }

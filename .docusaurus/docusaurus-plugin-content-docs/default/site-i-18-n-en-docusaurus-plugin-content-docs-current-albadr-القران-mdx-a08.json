@@ -1,8 +1,8 @@
 {
   "unversionedId": "albadr/القران",
   "id": "albadr/القران",
-  "title": "القران",
-  "description": "حكم الفطر في نهار رمضان اذا أراد السفر",
+  "title": "Qur'an",
+  "description": "---",
   "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/albadr/القران.mdx",
   "sourceDirName": "albadr",
   "slug": "/albadr/القران",
@@ -11,17 +11,17 @@
   "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/albadr/القران.mdx",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 3,
+  "sidebarPosition": 4,
   "frontMatter": {
-    "sidebar_position": 3
+    "sidebar_position": 4
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Fasting",
-    "permalink": "/en/albadr/الصيام"
+    "title": "Rulings related to Hajj and Umrah",
+    "permalink": "/en/albadr/المناسك"
   },
   "next": {
-    "title": "Rulings related to women's issues",
-    "permalink": "/en/albadr/النساء"
+    "title": "Islamic manners and etiquette",
+    "permalink": "/en/albadr/أدب"
   }
 }

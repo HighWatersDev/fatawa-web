@@ -1,7 +1,7 @@
 {
   "unversionedId": "albadr/المناسك",
   "id": "albadr/المناسك",
-  "title": "Ruling related to Hajj and Umrah",
+  "title": "Rulings related to Hajj and Umrah",
   "description": "Completing rituals of Umrah while on menses 📃",
   "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/albadr/المناسك.mdx",
   "sourceDirName": "albadr",
@@ -11,17 +11,17 @@
   "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/albadr/المناسك.mdx",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 5,
+  "sidebarPosition": 3,
   "frontMatter": {
-    "sidebar_position": 5
+    "sidebar_position": 3
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Rulings related to women's issues",
-    "permalink": "/en/albadr/النساء"
+    "title": "Fasting",
+    "permalink": "/en/albadr/الصيام"
   },
   "next": {
-    "title": "Islamic manners and etiquette",
-    "permalink": "/en/albadr/أدب"
+    "title": "Qur'an",
+    "permalink": "/en/albadr/القران"
   }
 }

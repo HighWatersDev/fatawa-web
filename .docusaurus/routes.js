@@ -14,7 +14,7 @@ export default [
   },
   {
     path: '/en/',
-    component: ComponentCreator('/en/', '59f'),
+    component: ComponentCreator('/en/', '897'),
     routes: [
       {
         path: '/en/albadr/أدب',
@@ -89,14 +89,14 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/en/ruhayli/النساء',
-        component: ComponentCreator('/en/ruhayli/النساء', '585'),
+        path: '/en/ruhayli/المتنوعة',
+        component: ComponentCreator('/en/ruhayli/المتنوعة', 'e3d'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/en/ruhayli/متنوعة',
-        component: ComponentCreator('/en/ruhayli/متنوعة', 'e07'),
+        path: '/en/ruhayli/النساء',
+        component: ComponentCreator('/en/ruhayli/النساء', '585'),
         exact: true,
         sidebar: "tutorialSidebar"
       }
