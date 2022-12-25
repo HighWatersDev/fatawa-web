@@ -1,8 +1,8 @@
 {
   "unversionedId": "albadr/النساء",
   "id": "albadr/النساء",
-  "title": "فتاوى النساء",
-  "description": "حكم حبوب منع الحمل والدم عند التناول",
+  "title": "Rulings related to women's issues",
+  "description": "Kissing elderly woman who is not mahram (forbidden for marriage) 📃",
   "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/albadr/النساء.mdx",
   "sourceDirName": "albadr",
   "slug": "/albadr/النساء",
@@ -19,5 +19,9 @@
   "previous": {
     "title": "القران",
     "permalink": "/en/albadr/القران"
+  },
+  "next": {
+    "title": "Ruling related to Hajj and Umrah",
+    "permalink": "/en/albadr/المناسك"
   }
 }

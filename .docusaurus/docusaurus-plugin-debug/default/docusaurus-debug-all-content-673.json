@@ -20,6 +20,29 @@
           "contentPathLocalized": "/home/luqmaan/projects/fatawa-web/i18n/ar/docusaurus-plugin-content-docs/current",
           "docs": [
             {
+              "unversionedId": "albadr/أدب",
+              "id": "albadr/أدب",
+              "title": "الآداب الإسلامية",
+              "description": "هل يقوم الطلاب للمدرس 📃",
+              "source": "@site/docs/albadr/أدب.mdx",
+              "sourceDirName": "albadr",
+              "slug": "/albadr/أدب",
+              "permalink": "/albadr/أدب",
+              "draft": false,
+              "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/albadr/أدب.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "فتاوى الحج والعمرة",
+                "permalink": "/albadr/المناسك"
+              }
+            },
+            {
               "unversionedId": "albadr/الصلاة",
               "id": "albadr/الصلاة",
               "title": "الصلاة",
@@ -50,7 +73,7 @@
               "unversionedId": "albadr/الصيام",
               "id": "albadr/الصيام",
               "title": "الصيام",
-              "description": "حكم الفطر في نهار رمضان اذا أراد السفر",
+              "description": "حكم صيام في السفر 📃",
               "source": "@site/docs/albadr/الصيام.mdx",
               "sourceDirName": "albadr",
               "slug": "/albadr/الصيام",
@@ -101,10 +124,37 @@
               }
             },
             {
+              "unversionedId": "albadr/المناسك",
+              "id": "albadr/المناسك",
+              "title": "فتاوى الحج والعمرة",
+              "description": "أداء مناسك العمرة عند الحيض 📃",
+              "source": "@site/docs/albadr/المناسك.mdx",
+              "sourceDirName": "albadr",
+              "slug": "/albadr/المناسك",
+              "permalink": "/albadr/المناسك",
+              "draft": false,
+              "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/albadr/المناسك.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "فتاوى النساء",
+                "permalink": "/albadr/النساء"
+              },
+              "next": {
+                "title": "الآداب الإسلامية",
+                "permalink": "/albadr/أدب"
+              }
+            },
+            {
               "unversionedId": "albadr/النساء",
               "id": "albadr/النساء",
               "title": "فتاوى النساء",
-              "description": "حكم حبوب منع الحمل والدم عند التناول",
+              "description": "هل يقبل رأس العجوز من غير المحارم 📃",
               "source": "@site/docs/albadr/النساء.mdx",
               "sourceDirName": "albadr",
               "slug": "/albadr/النساء",
@@ -121,6 +171,10 @@
               "previous": {
                 "title": "القران",
                 "permalink": "/albadr/القران"
+              },
+              "next": {
+                "title": "فتاوى الحج والعمرة",
+                "permalink": "/albadr/المناسك"
               }
             },
             {
@@ -344,6 +398,14 @@
                   {
                     "type": "doc",
                     "id": "albadr/النساء"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "albadr/المناسك"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "albadr/أدب"
                   }
                 ],
                 "link": {

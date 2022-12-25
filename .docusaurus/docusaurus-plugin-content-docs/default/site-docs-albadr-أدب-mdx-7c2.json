@@ -1,0 +1,23 @@
+{
+  "unversionedId": "albadr/أدب",
+  "id": "albadr/أدب",
+  "title": "الآداب الإسلامية",
+  "description": "هل يقوم الطلاب للمدرس 📃",
+  "source": "@site/docs/albadr/أدب.mdx",
+  "sourceDirName": "albadr",
+  "slug": "/albadr/أدب",
+  "permalink": "/albadr/أدب",
+  "draft": false,
+  "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/albadr/أدب.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "فتاوى الحج والعمرة",
+    "permalink": "/albadr/المناسك"
+  }
+}

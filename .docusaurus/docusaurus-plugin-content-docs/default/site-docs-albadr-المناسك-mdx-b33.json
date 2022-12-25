@@ -1,0 +1,27 @@
+{
+  "unversionedId": "albadr/المناسك",
+  "id": "albadr/المناسك",
+  "title": "فتاوى الحج والعمرة",
+  "description": "أداء مناسك العمرة عند الحيض 📃",
+  "source": "@site/docs/albadr/المناسك.mdx",
+  "sourceDirName": "albadr",
+  "slug": "/albadr/المناسك",
+  "permalink": "/albadr/المناسك",
+  "draft": false,
+  "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/albadr/المناسك.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "فتاوى النساء",
+    "permalink": "/albadr/النساء"
+  },
+  "next": {
+    "title": "الآداب الإسلامية",
+    "permalink": "/albadr/أدب"
+  }
+}
