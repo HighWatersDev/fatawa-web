@@ -7,7 +7,7 @@ export default {
   "title": "فتاوى علماء أهل السنة",
   "tagline": "",
   "url": "https://salafifatawa.azurewebsites.net",
-  "baseUrl": "/en/",
+  "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/fav2.ico",
@@ -65,7 +65,7 @@ export default {
   ],
   "themeConfig": {
     "navbar": {
-      "title": "Homepage",
+      "title": "الرئيسية",
       "logo": {
         "alt": "My Site Logo",
         "src": "img/logo2.jpeg"
@@ -75,7 +75,7 @@ export default {
           "type": "doc",
           "docId": "intro",
           "position": "left",
-          "label": "Fatawa"
+          "label": "الفتاوى"
         },
         {
           "type": "localeDropdown",
