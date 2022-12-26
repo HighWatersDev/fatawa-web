@@ -119,31 +119,18 @@ export default {
         },
         {
           "title": "Community",
-          "items": [
-            {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
-            },
-            {
-              "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
-            },
-            {
-              "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
-            }
-          ]
+          "items": []
         },
         {
           "title": "More",
           "items": [
             {
-              "label": "Docs",
+              "label": "فتاوى",
               "to": "/intro"
             },
             {
-              "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "label": "Source code",
+              "href": "https://github.com/HighWatersDev/fatawa-web"
             }
           ]
         }
