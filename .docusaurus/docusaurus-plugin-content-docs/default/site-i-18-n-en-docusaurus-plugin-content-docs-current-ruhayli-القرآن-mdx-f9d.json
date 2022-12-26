@@ -1,0 +1,27 @@
+{
+  "unversionedId": "ruhayli/القرآن",
+  "id": "ruhayli/القرآن",
+  "title": "Qur'an",
+  "description": "---",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/ruhayli/القرآن.mdx",
+  "sourceDirName": "ruhayli",
+  "slug": "/ruhayli/القرآن",
+  "permalink": "/en/ruhayli/القرآن",
+  "draft": false,
+  "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/ruhayli/القرآن.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Fasting",
+    "permalink": "/en/ruhayli/الصيام"
+  },
+  "next": {
+    "title": "Fatawa for Women",
+    "permalink": "/en/ruhayli/النساء"
+  }
+}

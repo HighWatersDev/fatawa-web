@@ -1,0 +1,27 @@
+{
+  "unversionedId": "ruhayli/القرآن",
+  "id": "ruhayli/القرآن",
+  "title": "القران",
+  "description": "حكم الفطر في نهار رمضان اذا أراد السفر",
+  "source": "@site/docs/ruhayli/القرآن.mdx",
+  "sourceDirName": "ruhayli",
+  "slug": "/ruhayli/القرآن",
+  "permalink": "/ruhayli/القرآن",
+  "draft": false,
+  "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/ruhayli/القرآن.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "الصيام",
+    "permalink": "/ruhayli/الصيام"
+  },
+  "next": {
+    "title": "فتاوى النساء",
+    "permalink": "/ruhayli/النساء"
+  }
+}

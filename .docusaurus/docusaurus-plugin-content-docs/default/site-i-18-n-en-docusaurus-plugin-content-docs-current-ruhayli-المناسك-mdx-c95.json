@@ -1,0 +1,27 @@
+{
+  "unversionedId": "ruhayli/المناسك",
+  "id": "ruhayli/المناسك",
+  "title": "Ruling of Hajj and Umrah",
+  "description": "Ruling on selling Hajj lottery 📃",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/ruhayli/المناسك.mdx",
+  "sourceDirName": "ruhayli",
+  "slug": "/ruhayli/المناسك",
+  "permalink": "/en/ruhayli/المناسك",
+  "draft": false,
+  "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/ruhayli/المناسك.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Fatawa for Women",
+    "permalink": "/en/ruhayli/النساء"
+  },
+  "next": {
+    "title": "الشيخ عبد الرزاق البدر",
+    "permalink": "/en/category/الشيخ-عبد-الرزاق-البدر"
+  }
+}

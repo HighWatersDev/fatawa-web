@@ -1,0 +1,27 @@
+{
+  "unversionedId": "albadr/القرآن",
+  "id": "albadr/القرآن",
+  "title": "القرآن",
+  "description": "---",
+  "source": "@site/docs/albadr/القرآن.mdx",
+  "sourceDirName": "albadr",
+  "slug": "/albadr/القرآن",
+  "permalink": "/albadr/القرآن",
+  "draft": false,
+  "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/albadr/القرآن.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "الصيام",
+    "permalink": "/albadr/الصيام"
+  },
+  "next": {
+    "title": "فتاوى النساء",
+    "permalink": "/albadr/النساء"
+  }
+}

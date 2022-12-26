@@ -1,0 +1,27 @@
+{
+  "unversionedId": "albadr/القرآن",
+  "id": "albadr/القرآن",
+  "title": "Qur'an",
+  "description": "---",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/albadr/القرآن.mdx",
+  "sourceDirName": "albadr",
+  "slug": "/albadr/القرآن",
+  "permalink": "/en/albadr/القرآن",
+  "draft": false,
+  "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/albadr/القرآن.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rulings related to Hajj and Umrah",
+    "permalink": "/en/albadr/المناسك"
+  },
+  "next": {
+    "title": "Islamic manners and etiquette",
+    "permalink": "/en/albadr/أدب"
+  }
+}
