@@ -30,7 +30,7 @@ export default {
   },
   "scripts": [
     {
-      "src": "static/scripts/posthog.js",
+      "src": "scripts/posthog.js",
       "defer": true
     }
   ],
