@@ -36,7 +36,7 @@
               "frontMatter": {
                 "sidebar_position": 6
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "fatawaSidebar",
               "previous": {
                 "title": "فتاوى الحج والعمرة",
                 "permalink": "/albadr/المناسك"
@@ -59,7 +59,7 @@
               "frontMatter": {
                 "sidebar_position": 1
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "fatawaSidebar",
               "previous": {
                 "title": "الشيخ عبد الرزاق البدر",
                 "permalink": "/category/الشيخ-عبد-الرزاق-البدر"
@@ -86,34 +86,34 @@
               "frontMatter": {
                 "sidebar_position": 2
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "fatawaSidebar",
               "previous": {
                 "title": "الصلاة",
                 "permalink": "/albadr/الصلاة"
               },
               "next": {
-                "title": "القران",
-                "permalink": "/albadr/القران"
+                "title": "القرآن",
+                "permalink": "/albadr/القرآن"
               }
             },
             {
-              "unversionedId": "albadr/القران",
-              "id": "albadr/القران",
-              "title": "القران",
-              "description": "حكم الفطر في نهار رمضان اذا أراد السفر",
-              "source": "@site/docs/albadr/القران.mdx",
+              "unversionedId": "albadr/القرآن",
+              "id": "albadr/القرآن",
+              "title": "القرآن",
+              "description": "---",
+              "source": "@site/docs/albadr/القرآن.mdx",
               "sourceDirName": "albadr",
-              "slug": "/albadr/القران",
-              "permalink": "/albadr/القران",
+              "slug": "/albadr/القرآن",
+              "permalink": "/albadr/القرآن",
               "draft": false,
-              "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/albadr/القران.mdx",
+              "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/albadr/القرآن.mdx",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
               "frontMatter": {
                 "sidebar_position": 3
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "fatawaSidebar",
               "previous": {
                 "title": "الصيام",
                 "permalink": "/albadr/الصيام"
@@ -140,7 +140,7 @@
               "frontMatter": {
                 "sidebar_position": 5
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "fatawaSidebar",
               "previous": {
                 "title": "فتاوى النساء",
                 "permalink": "/albadr/النساء"
@@ -167,10 +167,10 @@
               "frontMatter": {
                 "sidebar_position": 4
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "fatawaSidebar",
               "previous": {
-                "title": "القران",
-                "permalink": "/albadr/القران"
+                "title": "القرآن",
+                "permalink": "/albadr/القرآن"
               },
               "next": {
                 "title": "فتاوى الحج والعمرة",
@@ -194,7 +194,7 @@
               "frontMatter": {
                 "sidebar_position": 1
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "fatawaSidebar",
               "next": {
                 "title": "الشيخ سليمان الرحيلي",
                 "permalink": "/category/الشيخ-سليمان-الرحيلي"
@@ -217,7 +217,7 @@
               "frontMatter": {
                 "sidebar_position": 1
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "fatawaSidebar",
               "previous": {
                 "title": "الشيخ سليمان الرحيلي",
                 "permalink": "/category/الشيخ-سليمان-الرحيلي"
@@ -244,34 +244,34 @@
               "frontMatter": {
                 "sidebar_position": 2
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "fatawaSidebar",
               "previous": {
                 "title": "الصلاة",
                 "permalink": "/ruhayli/الصلاة"
               },
               "next": {
-                "title": "القران",
-                "permalink": "/ruhayli/القران"
+                "title": "القرآن",
+                "permalink": "/ruhayli/القرآن"
               }
             },
             {
-              "unversionedId": "ruhayli/القران",
-              "id": "ruhayli/القران",
-              "title": "القران",
+              "unversionedId": "ruhayli/القرآن",
+              "id": "ruhayli/القرآن",
+              "title": "القرآن",
               "description": "حكم الفطر في نهار رمضان اذا أراد السفر",
-              "source": "@site/docs/ruhayli/القران.mdx",
+              "source": "@site/docs/ruhayli/القرآن.mdx",
               "sourceDirName": "ruhayli",
-              "slug": "/ruhayli/القران",
-              "permalink": "/ruhayli/القران",
+              "slug": "/ruhayli/القرآن",
+              "permalink": "/ruhayli/القرآن",
               "draft": false,
-              "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/ruhayli/القران.mdx",
+              "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/ruhayli/القرآن.mdx",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
               "frontMatter": {
                 "sidebar_position": 3
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "fatawaSidebar",
               "previous": {
                 "title": "الصيام",
                 "permalink": "/ruhayli/الصيام"
@@ -298,10 +298,37 @@
               "frontMatter": {
                 "sidebar_position": 5
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "fatawaSidebar",
               "previous": {
                 "title": "فتاوى النساء",
                 "permalink": "/ruhayli/النساء"
+              },
+              "next": {
+                "title": "أحكام الحج والعمرة",
+                "permalink": "/ruhayli/المناسك"
+              }
+            },
+            {
+              "unversionedId": "ruhayli/المناسك",
+              "id": "ruhayli/المناسك",
+              "title": "أحكام الحج والعمرة",
+              "description": "حكم بيع قرعة الحج 📃",
+              "source": "@site/docs/ruhayli/المناسك.mdx",
+              "sourceDirName": "ruhayli",
+              "slug": "/ruhayli/المناسك",
+              "permalink": "/ruhayli/المناسك",
+              "draft": false,
+              "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/ruhayli/المناسك.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7
+              },
+              "sidebar": "fatawaSidebar",
+              "previous": {
+                "title": "الفتاوى المتنوعة",
+                "permalink": "/ruhayli/المتنوعة"
               },
               "next": {
                 "title": "الشيخ عبد الرزاق البدر",
@@ -325,10 +352,10 @@
               "frontMatter": {
                 "sidebar_position": 4
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "fatawaSidebar",
               "previous": {
-                "title": "القران",
-                "permalink": "/ruhayli/القران"
+                "title": "القرآن",
+                "permalink": "/ruhayli/القرآن"
               },
               "next": {
                 "title": "الفتاوى المتنوعة",
@@ -338,7 +365,7 @@
           ],
           "drafts": [],
           "sidebars": {
-            "tutorialSidebar": [
+            "fatawaSidebar": [
               {
                 "type": "doc",
                 "id": "intro"
@@ -359,7 +386,7 @@
                   },
                   {
                     "type": "doc",
-                    "id": "ruhayli/القران"
+                    "id": "ruhayli/القرآن"
                   },
                   {
                     "type": "doc",
@@ -368,6 +395,10 @@
                   {
                     "type": "doc",
                     "id": "ruhayli/المتنوعة"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "ruhayli/المناسك"
                   }
                 ],
                 "link": {
@@ -393,7 +424,7 @@
                   },
                   {
                     "type": "doc",
-                    "id": "albadr/القران"
+                    "id": "albadr/القرآن"
                   },
                   {
                     "type": "doc",

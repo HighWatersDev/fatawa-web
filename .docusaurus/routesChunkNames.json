@@ -1,83 +1,126 @@
 {
-  "/en/markdown-page-334": {
-    "__comp": "1f391b9e",
+  "/__docusaurus/debug-8a4": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "0a77e08f"
-    },
-    "content": "393be207"
+      "plugin": "plugin---docusaurus-debug-1-ae-91e"
+    }
   },
-  "/en/-eb1": {
-    "__comp": "c4f5d8e4",
+  "/__docusaurus/debug/config-c94": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "0a77e08f"
-    },
-    "config": "5e9f5e1a"
+      "plugin": "plugin---docusaurus-debug-1-ae-91e"
+    }
   },
-  "/en/-d79": {
-    "__comp": "1be78505",
+  "/__docusaurus/debug/content-d66": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
-      "plugin": "b10ab8f4"
+      "plugin": "plugin---docusaurus-debug-1-ae-91e"
     },
-    "versionMetadata": "935f2afb"
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
   },
-  "/en/albadr/أدب-acb": {
-    "__comp": "17896441",
-    "content": "4b2f32ee"
+  "/__docusaurus/debug/globalData-a7d": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-1-ae-91e"
+    }
   },
-  "/en/albadr/الصلاة-941": {
-    "__comp": "17896441",
-    "content": "98c02b9e"
+  "/__docusaurus/debug/metadata-dd3": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-1-ae-91e"
+    }
   },
-  "/en/albadr/الصيام-2a0": {
-    "__comp": "17896441",
-    "content": "97e8c33c"
+  "/__docusaurus/debug/registry-557": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-1-ae-91e"
+    }
   },
-  "/en/albadr/القرآن-2f5": {
-    "__comp": "17896441",
-    "content": "42e1d2bb"
+  "/__docusaurus/debug/routes-d5f": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-1-ae-91e"
+    }
   },
-  "/en/albadr/المناسك-46b": {
-    "__comp": "17896441",
-    "content": "bd30cc5f"
+  "/markdown-page-810": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---markdown-page-0-a-7-ab7"
+    },
+    "content": "content---markdown-page-393-028"
   },
-  "/en/albadr/النساء-fa0": {
-    "__comp": "17896441",
-    "content": "4243c987"
+  "/-554": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---markdown-page-0-a-7-ab7"
+    },
+    "config": "config---5-e-9-4f3"
   },
-  "/en/category/الشيخ-سليمان-الرحيلي-63d": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "b44f5773"
+  "/-360": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__context": {
+      "plugin": "plugin---b-10-abc"
+    },
+    "versionMetadata": "versionMetadata---935-fcf"
   },
-  "/en/category/الشيخ-عبد-الرزاق-البدر-ffd": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "623521fe"
+  "/albadr/أدب-223": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---albadr-أدب-7-c-2-7ad"
   },
-  "/en/intro-bed": {
-    "__comp": "17896441",
-    "content": "5b44acae"
+  "/albadr/الصلاة-fcb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---albadr-الصلاةaf-3-bed"
   },
-  "/en/ruhayli/الصلاة-0e3": {
-    "__comp": "17896441",
-    "content": "dfb6bfb7"
+  "/albadr/الصيام-7bc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---albadr-الصيامa-1-e-a2f"
   },
-  "/en/ruhayli/الصيام-aa4": {
-    "__comp": "17896441",
-    "content": "c7cb855f"
+  "/albadr/القرآن-18e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---albadr-القرآن-383-e5c"
   },
-  "/en/ruhayli/القرآن-5c4": {
-    "__comp": "17896441",
-    "content": "f9d6dadc"
+  "/albadr/المناسك-97d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---albadr-المناسكb-33-c2c"
   },
-  "/en/ruhayli/المتنوعة-e9a": {
-    "__comp": "17896441",
-    "content": "399b9758"
+  "/albadr/النساء-cfd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---albadr-النساءb-67-1cf"
   },
-  "/en/ruhayli/المناسك-52d": {
-    "__comp": "17896441",
-    "content": "c95ed4d7"
+  "/category/الشيخ-سليمان-الرحيلي-928": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---category-الشيخ-سليمان-الرحيلي-945-78c"
   },
-  "/en/ruhayli/النساء-0e8": {
-    "__comp": "17896441",
-    "content": "f3757272"
+  "/category/الشيخ-عبد-الرزاق-البدر-a5e": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---category-الشيخ-عبد-الرزاق-البدر-18-f-55a"
+  },
+  "/intro-798": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---intro-0-e-3-7b8"
+  },
+  "/ruhayli/الصلاة-dee": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ruhayli-الصلاةdef-c5a"
+  },
+  "/ruhayli/الصيام-619": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ruhayli-الصيام-826-978"
+  },
+  "/ruhayli/القرآن-95a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ruhayli-القرآن-0-c-0-a5b"
+  },
+  "/ruhayli/المتنوعة-fb0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ruhayli-المتنوعة-5-b-7-106"
+  },
+  "/ruhayli/المناسك-6be": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ruhayli-المناسكec-8-b25"
+  },
+  "/ruhayli/النساء-12c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ruhayli-النساء-1-f-4-d18"
   }
 }

@@ -7,7 +7,7 @@ export default {
   "title": "فتاوى علماء أهل السنة",
   "tagline": "",
   "url": "https://salafifatawa.azurewebsites.net",
-  "baseUrl": "/en/",
+  "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/fav2.ico",
@@ -28,6 +28,12 @@ export default {
     },
     "path": "i18n"
   },
+  "scripts": [
+    {
+      "src": "static/scripts/posthog.js",
+      "defer": true
+    }
+  ],
   "plugins": [
     [
       "/home/luqmaan/projects/fatawa-web/node_modules/@cmfcmf/docusaurus-search-local/lib/server/index.js",
@@ -65,7 +71,7 @@ export default {
   ],
   "themeConfig": {
     "navbar": {
-      "title": "Homepage",
+      "title": "الرئيسية",
       "logo": {
         "alt": "My Site Logo",
         "src": "img/logo2.jpeg"
@@ -75,7 +81,7 @@ export default {
           "type": "doc",
           "docId": "intro",
           "position": "left",
-          "label": "Fatawa"
+          "label": "الفتاوى"
         },
         {
           "type": "localeDropdown",
@@ -359,7 +365,6 @@ export default {
   ],
   "customFields": {},
   "themes": [],
-  "scripts": [],
   "headTags": [],
   "stylesheets": [],
   "clientModules": [],

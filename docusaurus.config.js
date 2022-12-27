@@ -31,6 +31,7 @@ const config = {
     direction: 'rtl',},
    },
   },
+  scripts: [{src: "static/scripts/posthog.js", defer: true}],
   plugins: [[require.resolve("@cmfcmf/docusaurus-search-local"),
   {
     indexDocs: true,
