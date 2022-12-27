@@ -38,5 +38,33 @@
   "copyright": {
     "message": "Copyright © 2022 Salafi Fatawa",
     "description": "The footer copyright"
+  },
+  "link.title.مواقع العلماء": {
+    "message": "مواقع العلماء",
+    "description": "The title of the footer links column with title=مواقع العلماء in the footer"
+  },
+  "link.item.label.الشيخ سليمان الرحيلي": {
+    "message": "الشيخ سليمان الرحيلي",
+    "description": "The label of footer link with label=الشيخ سليمان الرحيلي linking to https://www.sualruhaily.com/index.php"
+  },
+  "link.item.label.الشيخ عبد الرزاق البدر": {
+    "message": "الشيخ عبد الرزاق البدر",
+    "description": "The label of footer link with label=الشيخ عبد الرزاق البدر linking to https://al-badr.net/"
+  },
+  "link.item.label.الشيخ عبد العزيز ابن باز": {
+    "message": "الشيخ عبد العزيز ابن باز",
+    "description": "The label of footer link with label=الشيخ عبد العزيز ابن باز linking to https://binbaz.org.sa/"
+  },
+  "link.item.label.الشيخ صالح الفوزان": {
+    "message": "الشيخ صالح الفوزان",
+    "description": "The label of footer link with label=الشيخ صالح الفوزان linking to https://alfawzan.af.org.sa/"
+  },
+  "link.item.label.فتاوى": {
+    "message": "فتاوى",
+    "description": "The label of footer link with label=فتاوى linking to /intro"
+  },
+  "link.item.label.Source code": {
+    "message": "Source code",
+    "description": "The label of footer link with label=Source code linking to https://github.com/HighWatersDev/fatawa-web"
   }
 }

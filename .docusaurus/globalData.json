@@ -23,82 +23,82 @@
             {
               "id": "albadr/أدب",
               "path": "/en/albadr/أدب",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "fatawaSidebar"
             },
             {
               "id": "albadr/الصلاة",
               "path": "/en/albadr/الصلاة",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "fatawaSidebar"
             },
             {
               "id": "albadr/الصيام",
               "path": "/en/albadr/الصيام",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "fatawaSidebar"
             },
             {
               "id": "albadr/القرآن",
               "path": "/en/albadr/القرآن",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "fatawaSidebar"
             },
             {
               "id": "albadr/المناسك",
               "path": "/en/albadr/المناسك",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "fatawaSidebar"
             },
             {
               "id": "albadr/النساء",
               "path": "/en/albadr/النساء",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "fatawaSidebar"
             },
             {
               "id": "intro",
               "path": "/en/intro",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "fatawaSidebar"
             },
             {
               "id": "ruhayli/الصلاة",
               "path": "/en/ruhayli/الصلاة",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "fatawaSidebar"
             },
             {
               "id": "ruhayli/الصيام",
               "path": "/en/ruhayli/الصيام",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "fatawaSidebar"
             },
             {
               "id": "ruhayli/القرآن",
               "path": "/en/ruhayli/القرآن",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "fatawaSidebar"
             },
             {
               "id": "ruhayli/المتنوعة",
               "path": "/en/ruhayli/المتنوعة",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "fatawaSidebar"
             },
             {
               "id": "ruhayli/المناسك",
               "path": "/en/ruhayli/المناسك",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "fatawaSidebar"
             },
             {
               "id": "ruhayli/النساء",
               "path": "/en/ruhayli/النساء",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "fatawaSidebar"
             },
             {
               "id": "/category/الشيخ-سليمان-الرحيلي",
               "path": "/en/category/الشيخ-سليمان-الرحيلي",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "fatawaSidebar"
             },
             {
               "id": "/category/الشيخ-عبد-الرزاق-البدر",
               "path": "/en/category/الشيخ-عبد-الرزاق-البدر",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "fatawaSidebar"
             }
           ],
           "draftIds": [],
           "sidebars": {
-            "tutorialSidebar": {
+            "fatawaSidebar": {
               "link": {
                 "path": "/en/intro",
                 "label": "intro"

@@ -3,20 +3,20 @@
     "message": "Next",
     "description": "The label for version current"
   },
-  "sidebar.tutorialSidebar.category.Sheykh Sulayman Ar-Ruhayli": {
+  "sidebar.fatawaSidebar.category.الشيخ سليمان الرحيلي": {
     "message": "Sheykh Sulayman Ar-Ruhayli",
-    "description": "The label for category الشيخ سليمان الرحيلي in sidebar tutorialSidebar"
+    "description": "The label for category الشيخ سليمان الرحيلي in sidebar fatawaSidebar"
   },
-  "sidebar.tutorialSidebar.category.Sheykh Sulayman Ar-Ruhayli.link.generated-index.description": {
-    "message": "Fatawa of Sheykh Sulaiman Ar-Ruhayli",
-    "description": "The generated-index page description for category الشيخ سليمان الرحيلي in sidebar tutorialSidebar"
+  "sidebar.fatawaSidebar.category.الشيخ سليمان الرحيلي.link.generated-index.description": {
+    "message": "Sheykh Sulayman Ar-Ruhayli",
+    "description": "The generated-index page description for category الشيخ سليمان الرحيلي in sidebar fatawaSidebar"
   },
-  "sidebar.tutorialSidebar.category.Sheykh Abdur Ar-Razzaaq Al-Badr": {
+  "sidebar.fatawaSidebar.category.الشيخ عبد الرزاق البدر": {
     "message": "Sheykh Abdur Ar-Razzaaq Al-Badr",
-    "description": "The label for category الشيخ عبد الرزاق البدر in sidebar tutorialSidebar"
+    "description": "The label for category الشيخ عبد الرزاق البدر in sidebar fatawaSidebar"
   },
-  "sidebar.tutorialSidebar.category.الشيخ عبد الرزاق البدر.link.generated-index.description": {
-    "message": "Fatawa of Sheykh Abdur Ar-Razzaaq Al-Badr",
-    "description": "The generated-index page description for category الشيخ عبد الرزاق البدر in sidebar tutorialSidebar"
+  "sidebar.fatawaSidebar.category.الشيخ عبد الرزاق البدر.link.generated-index.description": {
+    "message": "Sheykh Abdur Ar-Razzaaq Al-Badr",
+    "description": "The generated-index page description for category الشيخ عبد الرزاق البدر in sidebar fatawaSidebar"
   }
 }
