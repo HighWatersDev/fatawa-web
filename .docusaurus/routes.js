@@ -14,7 +14,7 @@ export default [
   },
   {
     path: '/en/',
-    component: ComponentCreator('/en/', 'bbc'),
+    component: ComponentCreator('/en/', 'd79'),
     routes: [
       {
         path: '/en/albadr/أدب',
@@ -54,13 +54,13 @@ export default [
       },
       {
         path: '/en/category/الشيخ-سليمان-الرحيلي',
-        component: ComponentCreator('/en/category/الشيخ-سليمان-الرحيلي', '46b'),
+        component: ComponentCreator('/en/category/الشيخ-سليمان-الرحيلي', '63d'),
         exact: true,
         sidebar: "fatawaSidebar"
       },
       {
         path: '/en/category/الشيخ-عبد-الرزاق-البدر',
-        component: ComponentCreator('/en/category/الشيخ-عبد-الرزاق-البدر', '1d9'),
+        component: ComponentCreator('/en/category/الشيخ-عبد-الرزاق-البدر', 'ffd'),
         exact: true,
         sidebar: "fatawaSidebar"
       },
