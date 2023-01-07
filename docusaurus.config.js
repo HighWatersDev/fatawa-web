@@ -77,7 +77,8 @@ const config = {
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-        algolia: {
+    ({
+      algolia: {
       // The application ID provided by Algolia
       appId: '2CH1MK9AGZ',
 
@@ -97,7 +98,6 @@ const config = {
 
       //... other Algolia params
     },
-    ({
       navbar: {
         title: 'الرئيسية',
         logo: {
