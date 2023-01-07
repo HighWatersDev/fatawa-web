@@ -77,6 +77,26 @@ const config = {
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
+        algolia: {
+      // The application ID provided by Algolia
+      appId: '2CH1MK9AGZ',
+
+      // Public API key: it is safe to commit it
+      apiKey: '497a5e1cf39ece0e6d3548011598f4ad',
+
+      indexName: 'fatawa',
+
+      // Optional: see doc section below
+      contextualSearch: true,
+
+      // Optional: Algolia search parameters
+      searchParameters: {},
+
+      // Optional: path for search page that enabled by default (`false` to disable it)
+      searchPagePath: 'search',
+
+      //... other Algolia params
+    },
     ({
       navbar: {
         title: 'الرئيسية',
