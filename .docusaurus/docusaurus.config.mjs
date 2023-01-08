@@ -96,36 +96,40 @@ export default {
           "title": "مواقع العلماء",
           "items": [
             {
-              "label": "الشيخ سليمان الرحيلي",
+              "label": "⚪ الشيخ سليمان الرحيلي",
               "href": "https://www.sualruhaily.com/index.php"
             },
             {
-              "label": "الشيخ عبد الرزاق البدر",
+              "label": "⚪ الشيخ عبد الرزاق البدر",
               "href": "https://al-badr.net/"
             },
             {
-              "label": "الشيخ عبد العزيز ابن باز",
-              "href": "https://binbaz.org.sa/"
+              "label": "⚪ الشيخ عبد العزيز ابن باز",
+              "href": "https://binbaz.org.sa/fatwas/kind/1"
             },
             {
-              "label": "الشيخ صالح الفوزان",
-              "href": "https://alfawzan.af.org.sa/"
+              "label": "⚪ الشيخ صالح الفوزان",
+              "href": "https://alfawzan.af.org.sa/ar/ftawa/all"
+            },
+            {
+              "label": "⚪ الشيخ محمد بن صالح العثيمين",
+              "href": "https://binothaimeen.net/content/Menu/ftawa"
+            },
+            {
+              "label": "⚪ الشيخ عبد المحسن العباد",
+              "href": "https://al-abbaad.com/"
             }
           ]
         },
         {
-          "title": "Community",
-          "items": []
-        },
-        {
-          "title": "More",
+          "title": "حول الموقع",
           "items": [
             {
               "label": "فتاوى",
               "to": "/intro"
             },
             {
-              "label": "Source code",
+              "label": "مصدر الكود",
               "href": "https://github.com/HighWatersDev/fatawa-web"
             }
           ]
