@@ -123,17 +123,21 @@ const config = {
               },
               {
                 label: 'الشيخ عبد العزيز ابن باز',
-                href: 'https://binbaz.org.sa/',
+                href: 'https://binbaz.org.sa/fatwas/kind/1',
               },
               {
                 label: 'الشيخ صالح الفوزان',
-                href: 'https://alfawzan.af.org.sa/',
+                href: 'https://alfawzan.af.org.sa/ar/ftawa/all',
               },
+              {
+                label: 'الشيخ محمد بن صالح العثيمين',
+                href: 'https://binothaimeen.net/content/Menu/ftawa',
+              },
+              {
+                label: 'الشيخ عبد المحسن العباد',
+                href: 'https://al-abbaad.com/'
+              }
             ],
-          },
-          {
-            title: 'Community',
-            items: [],
           },
           {
             title: 'More',
