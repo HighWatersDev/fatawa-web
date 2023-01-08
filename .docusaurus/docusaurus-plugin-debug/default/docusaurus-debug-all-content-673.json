@@ -201,6 +201,33 @@
               }
             },
             {
+              "unversionedId": "ruhayli/الزكاة",
+              "id": "ruhayli/الزكاة",
+              "title": "الزكاة",
+              "description": "هل يجوز أن أشترط على من أعطيهم الزكاة أن يصرفوها في سداد ديونهم - ١؟ 📃",
+              "source": "@site/docs/ruhayli/الزكاة.mdx",
+              "sourceDirName": "ruhayli",
+              "slug": "/ruhayli/الزكاة",
+              "permalink": "/ruhayli/الزكاة",
+              "draft": false,
+              "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/ruhayli/الزكاة.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "fatawaSidebar",
+              "previous": {
+                "title": "الصيام",
+                "permalink": "/ruhayli/الصيام"
+              },
+              "next": {
+                "title": "القرآن",
+                "permalink": "/ruhayli/القرآن"
+              }
+            },
+            {
               "unversionedId": "ruhayli/الصلاة",
               "id": "ruhayli/الصلاة",
               "title": "الصلاة",
@@ -250,15 +277,15 @@
                 "permalink": "/ruhayli/الصلاة"
               },
               "next": {
-                "title": "القرآن",
-                "permalink": "/ruhayli/القرآن"
+                "title": "الزكاة",
+                "permalink": "/ruhayli/الزكاة"
               }
             },
             {
               "unversionedId": "ruhayli/القرآن",
               "id": "ruhayli/القرآن",
               "title": "القرآن",
-              "description": "حكم الفطر في نهار رمضان اذا أراد السفر",
+              "description": "حكم الاهتزاز عند قراءة القرآن 📃",
               "source": "@site/docs/ruhayli/القرآن.mdx",
               "sourceDirName": "ruhayli",
               "slug": "/ruhayli/القرآن",
@@ -273,8 +300,8 @@
               },
               "sidebar": "fatawaSidebar",
               "previous": {
-                "title": "الصيام",
-                "permalink": "/ruhayli/الصيام"
+                "title": "الزكاة",
+                "permalink": "/ruhayli/الزكاة"
               },
               "next": {
                 "title": "فتاوى النساء",
@@ -386,6 +413,10 @@
                   },
                   {
                     "type": "doc",
+                    "id": "ruhayli/الزكاة"
+                  },
+                  {
+                    "type": "doc",
                     "id": "ruhayli/القرآن"
                   },
                   {
@@ -473,7 +504,7 @@
   },
   "docusaurus-plugin-debug": {},
   "docusaurus-theme-classic": {},
-  "@cmfcmf/docusaurus-search-local": {},
+  "docusaurus-theme-search-algolia": {},
   "docusaurus-bootstrap-plugin": {},
   "docusaurus-mdx-fallback-plugin": {}
 }

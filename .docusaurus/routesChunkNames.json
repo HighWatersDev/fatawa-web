@@ -49,6 +49,12 @@
     },
     "content": "content---markdown-page-393-028"
   },
+  "/search-2f6": {
+    "__comp": "__comp---theme-search-page-1-a-4-d6f",
+    "__context": {
+      "plugin": "plugin---searchc-6-c-6f1"
+    }
+  },
   "/-554": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
@@ -56,7 +62,7 @@
     },
     "config": "config---5-e-9-4f3"
   },
-  "/-360": {
+  "/-062": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---b-10-abc"
@@ -98,6 +104,10 @@
   "/intro-798": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---intro-0-e-3-7b8"
+  },
+  "/ruhayli/الزكاة-28e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ruhayli-الزكاةa-90-301"
   },
   "/ruhayli/الصلاة-dee": {
     "__comp": "__comp---theme-doc-item-178-a40",

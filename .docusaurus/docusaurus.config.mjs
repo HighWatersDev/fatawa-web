@@ -34,25 +34,7 @@ export default {
       "defer": true
     }
   ],
-  "plugins": [
-    [
-      "/home/luqmaan/projects/fatawa-web/node_modules/@cmfcmf/docusaurus-search-local/lib/server/index.js",
-      {
-        "indexDocs": true,
-        "indexBlog": false,
-        "indexPages": false,
-        "language": [
-          "ar",
-          "en"
-        ],
-        "lunr": {
-          "tokenizerSeparator": {},
-          "b": 0.75,
-          "k1": 1.2
-        }
-      }
-    ]
-  ],
+  "plugins": [],
   "presets": [
     [
       "classic",
@@ -70,6 +52,14 @@ export default {
     ]
   ],
   "themeConfig": {
+    "algolia": {
+      "appId": "2CH1MK9AGZ",
+      "apiKey": "497a5e1cf39ece0e6d3548011598f4ad",
+      "indexName": "fatawa",
+      "contextualSearch": true,
+      "searchParameters": {},
+      "searchPagePath": "search"
+    },
     "navbar": {
       "title": "الرئيسية",
       "logo": {
@@ -141,7 +131,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2022 Salafi Fatawa"
+      "copyright": "Copyright © 2023 Salafi Fatawa"
     },
     "prism": {
       "theme": {

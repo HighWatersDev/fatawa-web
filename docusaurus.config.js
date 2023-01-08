@@ -32,20 +32,7 @@ const config = {
    },
   },
   scripts: [{src: "scripts/posthog.js", defer: true}],
-  plugins: [[require.resolve("@cmfcmf/docusaurus-search-local"),
-  {
-    indexDocs: true,
-    indexBlog: false,
-    indexPages: false,
-    language: ["ar", "en"],
-    lunr: {
-      tokenizerSeparator: /[\s\-]+/,
-      b: 0.75,
-      k1: 1.2,
-          },
-    },
-   ],
-  ],
+  plugins: [],
 
   presets: [
     [

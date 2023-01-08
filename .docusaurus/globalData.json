@@ -1,14 +1,4 @@
 {
-  "@cmfcmf/docusaurus-search-local": {
-    "default": {
-      "titleBoost": 5,
-      "contentBoost": 1,
-      "tagsBoost": 3,
-      "parentCategoriesBoost": 2,
-      "indexDocSidebarParentCategories": 0,
-      "maxSearchResults": 8
-    }
-  },
   "docusaurus-plugin-content-docs": {
     "default": {
       "path": "/",
@@ -53,6 +43,11 @@
             {
               "id": "intro",
               "path": "/intro",
+              "sidebar": "fatawaSidebar"
+            },
+            {
+              "id": "ruhayli/الزكاة",
+              "path": "/ruhayli/الزكاة",
               "sidebar": "fatawaSidebar"
             },
             {

@@ -43,13 +43,18 @@ export default [
     exact: true
   },
   {
+    path: '/search',
+    component: ComponentCreator('/search', '2f6'),
+    exact: true
+  },
+  {
     path: '/',
     component: ComponentCreator('/', '554'),
     exact: true
   },
   {
     path: '/',
-    component: ComponentCreator('/', '360'),
+    component: ComponentCreator('/', '062'),
     routes: [
       {
         path: '/albadr/أدب',
@@ -102,6 +107,12 @@ export default [
       {
         path: '/intro',
         component: ComponentCreator('/intro', '798'),
+        exact: true,
+        sidebar: "fatawaSidebar"
+      },
+      {
+        path: '/ruhayli/الزكاة',
+        component: ComponentCreator('/ruhayli/الزكاة', '28e'),
         exact: true,
         sidebar: "fatawaSidebar"
       },

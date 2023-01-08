@@ -2,7 +2,7 @@
   "unversionedId": "ruhayli/القرآن",
   "id": "ruhayli/القرآن",
   "title": "القرآن",
-  "description": "حكم الفطر في نهار رمضان اذا أراد السفر",
+  "description": "حكم الاهتزاز عند قراءة القرآن 📃",
   "source": "@site/docs/ruhayli/القرآن.mdx",
   "sourceDirName": "ruhayli",
   "slug": "/ruhayli/القرآن",
@@ -17,8 +17,8 @@
   },
   "sidebar": "fatawaSidebar",
   "previous": {
-    "title": "الصيام",
-    "permalink": "/ruhayli/الصيام"
+    "title": "الزكاة",
+    "permalink": "/ruhayli/الزكاة"
   },
   "next": {
     "title": "فتاوى النساء",
