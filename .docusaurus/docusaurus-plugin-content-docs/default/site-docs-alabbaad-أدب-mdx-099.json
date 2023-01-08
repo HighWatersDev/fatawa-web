@@ -1,0 +1,27 @@
+{
+  "unversionedId": "alabbaad/أدب",
+  "id": "alabbaad/أدب",
+  "title": "الآداب الإسلامية",
+  "description": "الإصلاح بين الإخوة 📃",
+  "source": "@site/docs/alabbaad/أدب.mdx",
+  "sourceDirName": "alabbaad",
+  "slug": "/alabbaad/أدب",
+  "permalink": "/alabbaad/أدب",
+  "draft": false,
+  "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/alabbaad/أدب.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "fatawaSidebar",
+  "previous": {
+    "title": "فتاوى الحج والعمرة",
+    "permalink": "/alabbaad/المناسك"
+  },
+  "next": {
+    "title": "الفتاوى المتناوعة",
+    "permalink": "/alabbaad/المتناوعة"
+  }
+}

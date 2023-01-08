@@ -1,0 +1,27 @@
+{
+  "unversionedId": "alabbaad/المتناوعة",
+  "id": "alabbaad/المتناوعة",
+  "title": "الفتاوى المتناوعة",
+  "description": "شروط العقيقة 📃",
+  "source": "@site/docs/alabbaad/المتناوعة.mdx",
+  "sourceDirName": "alabbaad",
+  "slug": "/alabbaad/المتناوعة",
+  "permalink": "/alabbaad/المتناوعة",
+  "draft": false,
+  "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/alabbaad/المتناوعة.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "fatawaSidebar",
+  "previous": {
+    "title": "الآداب الإسلامية",
+    "permalink": "/alabbaad/أدب"
+  },
+  "next": {
+    "title": "الشيخ عبد الرزاق البدر",
+    "permalink": "/category/الشيخ-عبد-الرزاق-البدر"
+  }
+}

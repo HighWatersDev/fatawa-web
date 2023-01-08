@@ -68,6 +68,57 @@
       },
       {
         "type": "category",
+        "label": "الشيخ عبد المحسن العباد",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "الصلاة",
+            "href": "/alabbaad/الصلاة",
+            "docId": "alabbaad/الصلاة"
+          },
+          {
+            "type": "link",
+            "label": "الصيام",
+            "href": "/alabbaad/الصيام",
+            "docId": "alabbaad/الصيام"
+          },
+          {
+            "type": "link",
+            "label": "القرآن",
+            "href": "/alabbaad/القرآن",
+            "docId": "alabbaad/القرآن"
+          },
+          {
+            "type": "link",
+            "label": "فتاوى النساء",
+            "href": "/alabbaad/النساء",
+            "docId": "alabbaad/النساء"
+          },
+          {
+            "type": "link",
+            "label": "فتاوى الحج والعمرة",
+            "href": "/alabbaad/المناسك",
+            "docId": "alabbaad/المناسك"
+          },
+          {
+            "type": "link",
+            "label": "الآداب الإسلامية",
+            "href": "/alabbaad/أدب",
+            "docId": "alabbaad/أدب"
+          },
+          {
+            "type": "link",
+            "label": "الفتاوى المتناوعة",
+            "href": "/alabbaad/المتناوعة",
+            "docId": "alabbaad/المتناوعة"
+          }
+        ],
+        "href": "/category/الشيخ-عبد-المحسن-العباد"
+      },
+      {
+        "type": "category",
         "label": "الشيخ عبد الرزاق البدر",
         "collapsible": true,
         "collapsed": true,
@@ -114,6 +165,48 @@
     ]
   },
   "docs": {
+    "alabbaad/أدب": {
+      "id": "alabbaad/أدب",
+      "title": "الآداب الإسلامية",
+      "description": "الإصلاح بين الإخوة 📃",
+      "sidebar": "fatawaSidebar"
+    },
+    "alabbaad/الصلاة": {
+      "id": "alabbaad/الصلاة",
+      "title": "الصلاة",
+      "description": "التوضيح في قول شيخ الإسلام في الصلاة خلف كل بر وفاجر 📃",
+      "sidebar": "fatawaSidebar"
+    },
+    "alabbaad/الصيام": {
+      "id": "alabbaad/الصيام",
+      "title": "الصيام",
+      "description": "---",
+      "sidebar": "fatawaSidebar"
+    },
+    "alabbaad/القرآن": {
+      "id": "alabbaad/القرآن",
+      "title": "القرآن",
+      "description": "---",
+      "sidebar": "fatawaSidebar"
+    },
+    "alabbaad/المتناوعة": {
+      "id": "alabbaad/المتناوعة",
+      "title": "الفتاوى المتناوعة",
+      "description": "شروط العقيقة 📃",
+      "sidebar": "fatawaSidebar"
+    },
+    "alabbaad/المناسك": {
+      "id": "alabbaad/المناسك",
+      "title": "فتاوى الحج والعمرة",
+      "description": "هل الحج أو العمرة عن نفسه وعن غيره في الأجر سواء 📃",
+      "sidebar": "fatawaSidebar"
+    },
+    "alabbaad/النساء": {
+      "id": "alabbaad/النساء",
+      "title": "فتاوى النساء",
+      "description": "هل يجوز للمرأة أن تعمل في مكان لا يوجد فيه رجال 📃",
+      "sidebar": "fatawaSidebar"
+    },
     "albadr/أدب": {
       "id": "albadr/أدب",
       "title": "الآداب الإسلامية",

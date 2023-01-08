@@ -1,0 +1,27 @@
+{
+  "unversionedId": "alabbaad/المناسك",
+  "id": "alabbaad/المناسك",
+  "title": "فتاوى الحج والعمرة",
+  "description": "هل الحج أو العمرة عن نفسه وعن غيره في الأجر سواء 📃",
+  "source": "@site/docs/alabbaad/المناسك.mdx",
+  "sourceDirName": "alabbaad",
+  "slug": "/alabbaad/المناسك",
+  "permalink": "/alabbaad/المناسك",
+  "draft": false,
+  "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/alabbaad/المناسك.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "fatawaSidebar",
+  "previous": {
+    "title": "فتاوى النساء",
+    "permalink": "/alabbaad/النساء"
+  },
+  "next": {
+    "title": "الآداب الإسلامية",
+    "permalink": "/alabbaad/أدب"
+  }
+}

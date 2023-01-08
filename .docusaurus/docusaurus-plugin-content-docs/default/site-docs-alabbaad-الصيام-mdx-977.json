@@ -1,0 +1,27 @@
+{
+  "unversionedId": "alabbaad/الصيام",
+  "id": "alabbaad/الصيام",
+  "title": "الصيام",
+  "description": "---",
+  "source": "@site/docs/alabbaad/الصيام.mdx",
+  "sourceDirName": "alabbaad",
+  "slug": "/alabbaad/الصيام",
+  "permalink": "/alabbaad/الصيام",
+  "draft": false,
+  "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/alabbaad/الصيام.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "fatawaSidebar",
+  "previous": {
+    "title": "الصلاة",
+    "permalink": "/alabbaad/الصلاة"
+  },
+  "next": {
+    "title": "القرآن",
+    "permalink": "/alabbaad/القرآن"
+  }
+}

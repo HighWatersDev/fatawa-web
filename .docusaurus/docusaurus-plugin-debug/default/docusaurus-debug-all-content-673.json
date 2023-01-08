@@ -20,6 +20,195 @@
           "contentPathLocalized": "/home/luqmaan/projects/fatawa-web/i18n/ar/docusaurus-plugin-content-docs/current",
           "docs": [
             {
+              "unversionedId": "alabbaad/أدب",
+              "id": "alabbaad/أدب",
+              "title": "الآداب الإسلامية",
+              "description": "الإصلاح بين الإخوة 📃",
+              "source": "@site/docs/alabbaad/أدب.mdx",
+              "sourceDirName": "alabbaad",
+              "slug": "/alabbaad/أدب",
+              "permalink": "/alabbaad/أدب",
+              "draft": false,
+              "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/alabbaad/أدب.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "fatawaSidebar",
+              "previous": {
+                "title": "فتاوى الحج والعمرة",
+                "permalink": "/alabbaad/المناسك"
+              },
+              "next": {
+                "title": "الفتاوى المتناوعة",
+                "permalink": "/alabbaad/المتناوعة"
+              }
+            },
+            {
+              "unversionedId": "alabbaad/الصلاة",
+              "id": "alabbaad/الصلاة",
+              "title": "الصلاة",
+              "description": "التوضيح في قول شيخ الإسلام في الصلاة خلف كل بر وفاجر 📃",
+              "source": "@site/docs/alabbaad/الصلاة.mdx",
+              "sourceDirName": "alabbaad",
+              "slug": "/alabbaad/الصلاة",
+              "permalink": "/alabbaad/الصلاة",
+              "draft": false,
+              "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/alabbaad/الصلاة.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "fatawaSidebar",
+              "previous": {
+                "title": "الشيخ عبد المحسن العباد",
+                "permalink": "/category/الشيخ-عبد-المحسن-العباد"
+              },
+              "next": {
+                "title": "الصيام",
+                "permalink": "/alabbaad/الصيام"
+              }
+            },
+            {
+              "unversionedId": "alabbaad/الصيام",
+              "id": "alabbaad/الصيام",
+              "title": "الصيام",
+              "description": "---",
+              "source": "@site/docs/alabbaad/الصيام.mdx",
+              "sourceDirName": "alabbaad",
+              "slug": "/alabbaad/الصيام",
+              "permalink": "/alabbaad/الصيام",
+              "draft": false,
+              "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/alabbaad/الصيام.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "fatawaSidebar",
+              "previous": {
+                "title": "الصلاة",
+                "permalink": "/alabbaad/الصلاة"
+              },
+              "next": {
+                "title": "القرآن",
+                "permalink": "/alabbaad/القرآن"
+              }
+            },
+            {
+              "unversionedId": "alabbaad/القرآن",
+              "id": "alabbaad/القرآن",
+              "title": "القرآن",
+              "description": "---",
+              "source": "@site/docs/alabbaad/القرآن.mdx",
+              "sourceDirName": "alabbaad",
+              "slug": "/alabbaad/القرآن",
+              "permalink": "/alabbaad/القرآن",
+              "draft": false,
+              "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/alabbaad/القرآن.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "fatawaSidebar",
+              "previous": {
+                "title": "الصيام",
+                "permalink": "/alabbaad/الصيام"
+              },
+              "next": {
+                "title": "فتاوى النساء",
+                "permalink": "/alabbaad/النساء"
+              }
+            },
+            {
+              "unversionedId": "alabbaad/المتناوعة",
+              "id": "alabbaad/المتناوعة",
+              "title": "الفتاوى المتناوعة",
+              "description": "شروط العقيقة 📃",
+              "source": "@site/docs/alabbaad/المتناوعة.mdx",
+              "sourceDirName": "alabbaad",
+              "slug": "/alabbaad/المتناوعة",
+              "permalink": "/alabbaad/المتناوعة",
+              "draft": false,
+              "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/alabbaad/المتناوعة.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "fatawaSidebar",
+              "previous": {
+                "title": "الآداب الإسلامية",
+                "permalink": "/alabbaad/أدب"
+              },
+              "next": {
+                "title": "الشيخ عبد الرزاق البدر",
+                "permalink": "/category/الشيخ-عبد-الرزاق-البدر"
+              }
+            },
+            {
+              "unversionedId": "alabbaad/المناسك",
+              "id": "alabbaad/المناسك",
+              "title": "فتاوى الحج والعمرة",
+              "description": "هل الحج أو العمرة عن نفسه وعن غيره في الأجر سواء 📃",
+              "source": "@site/docs/alabbaad/المناسك.mdx",
+              "sourceDirName": "alabbaad",
+              "slug": "/alabbaad/المناسك",
+              "permalink": "/alabbaad/المناسك",
+              "draft": false,
+              "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/alabbaad/المناسك.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "fatawaSidebar",
+              "previous": {
+                "title": "فتاوى النساء",
+                "permalink": "/alabbaad/النساء"
+              },
+              "next": {
+                "title": "الآداب الإسلامية",
+                "permalink": "/alabbaad/أدب"
+              }
+            },
+            {
+              "unversionedId": "alabbaad/النساء",
+              "id": "alabbaad/النساء",
+              "title": "فتاوى النساء",
+              "description": "هل يجوز للمرأة أن تعمل في مكان لا يوجد فيه رجال 📃",
+              "source": "@site/docs/alabbaad/النساء.mdx",
+              "sourceDirName": "alabbaad",
+              "slug": "/alabbaad/النساء",
+              "permalink": "/alabbaad/النساء",
+              "draft": false,
+              "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/alabbaad/النساء.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "fatawaSidebar",
+              "previous": {
+                "title": "القرآن",
+                "permalink": "/alabbaad/القرآن"
+              },
+              "next": {
+                "title": "فتاوى الحج والعمرة",
+                "permalink": "/alabbaad/المناسك"
+              }
+            },
+            {
               "unversionedId": "albadr/أدب",
               "id": "albadr/أدب",
               "title": "الآداب الإسلامية",
@@ -358,8 +547,8 @@
                 "permalink": "/ruhayli/المتنوعة"
               },
               "next": {
-                "title": "الشيخ عبد الرزاق البدر",
-                "permalink": "/category/الشيخ-عبد-الرزاق-البدر"
+                "title": "الشيخ عبد المحسن العباد",
+                "permalink": "/category/الشيخ-عبد-المحسن-العباد"
               }
             },
             {
@@ -437,6 +626,48 @@
                   "description": "فتاوى الشيخ سليمان الرحيلي",
                   "slug": "/category/الشيخ-سليمان-الرحيلي",
                   "permalink": "/category/الشيخ-سليمان-الرحيلي"
+                }
+              },
+              {
+                "type": "category",
+                "label": "الشيخ عبد المحسن العباد",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "alabbaad/الصلاة"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "alabbaad/الصيام"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "alabbaad/القرآن"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "alabbaad/النساء"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "alabbaad/المناسك"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "alabbaad/أدب"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "alabbaad/المتناوعة"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "فتاوى الشيخ عبد المحسن العباد",
+                  "slug": "/category/الشيخ-عبد-المحسن-العباد",
+                  "permalink": "/category/الشيخ-عبد-المحسن-العباد"
                 }
               },
               {

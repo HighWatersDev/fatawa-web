@@ -11,6 +11,41 @@
           "mainDocId": "intro",
           "docs": [
             {
+              "id": "alabbaad/أدب",
+              "path": "/alabbaad/أدب",
+              "sidebar": "fatawaSidebar"
+            },
+            {
+              "id": "alabbaad/الصلاة",
+              "path": "/alabbaad/الصلاة",
+              "sidebar": "fatawaSidebar"
+            },
+            {
+              "id": "alabbaad/الصيام",
+              "path": "/alabbaad/الصيام",
+              "sidebar": "fatawaSidebar"
+            },
+            {
+              "id": "alabbaad/القرآن",
+              "path": "/alabbaad/القرآن",
+              "sidebar": "fatawaSidebar"
+            },
+            {
+              "id": "alabbaad/المتناوعة",
+              "path": "/alabbaad/المتناوعة",
+              "sidebar": "fatawaSidebar"
+            },
+            {
+              "id": "alabbaad/المناسك",
+              "path": "/alabbaad/المناسك",
+              "sidebar": "fatawaSidebar"
+            },
+            {
+              "id": "alabbaad/النساء",
+              "path": "/alabbaad/النساء",
+              "sidebar": "fatawaSidebar"
+            },
+            {
               "id": "albadr/أدب",
               "path": "/albadr/أدب",
               "sidebar": "fatawaSidebar"
@@ -83,6 +118,11 @@
             {
               "id": "/category/الشيخ-سليمان-الرحيلي",
               "path": "/category/الشيخ-سليمان-الرحيلي",
+              "sidebar": "fatawaSidebar"
+            },
+            {
+              "id": "/category/الشيخ-عبد-المحسن-العباد",
+              "path": "/category/الشيخ-عبد-المحسن-العباد",
               "sidebar": "fatawaSidebar"
             },
             {

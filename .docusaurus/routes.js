@@ -54,8 +54,50 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '062'),
+    component: ComponentCreator('/', '89e'),
     routes: [
+      {
+        path: '/alabbaad/أدب',
+        component: ComponentCreator('/alabbaad/أدب', '24a'),
+        exact: true,
+        sidebar: "fatawaSidebar"
+      },
+      {
+        path: '/alabbaad/الصلاة',
+        component: ComponentCreator('/alabbaad/الصلاة', 'e27'),
+        exact: true,
+        sidebar: "fatawaSidebar"
+      },
+      {
+        path: '/alabbaad/الصيام',
+        component: ComponentCreator('/alabbaad/الصيام', '9e1'),
+        exact: true,
+        sidebar: "fatawaSidebar"
+      },
+      {
+        path: '/alabbaad/القرآن',
+        component: ComponentCreator('/alabbaad/القرآن', '50c'),
+        exact: true,
+        sidebar: "fatawaSidebar"
+      },
+      {
+        path: '/alabbaad/المتناوعة',
+        component: ComponentCreator('/alabbaad/المتناوعة', 'db5'),
+        exact: true,
+        sidebar: "fatawaSidebar"
+      },
+      {
+        path: '/alabbaad/المناسك',
+        component: ComponentCreator('/alabbaad/المناسك', '286'),
+        exact: true,
+        sidebar: "fatawaSidebar"
+      },
+      {
+        path: '/alabbaad/النساء',
+        component: ComponentCreator('/alabbaad/النساء', '71b'),
+        exact: true,
+        sidebar: "fatawaSidebar"
+      },
       {
         path: '/albadr/أدب',
         component: ComponentCreator('/albadr/أدب', '223'),
@@ -101,6 +143,12 @@ export default [
       {
         path: '/category/الشيخ-عبد-الرزاق-البدر',
         component: ComponentCreator('/category/الشيخ-عبد-الرزاق-البدر', 'a5e'),
+        exact: true,
+        sidebar: "fatawaSidebar"
+      },
+      {
+        path: '/category/الشيخ-عبد-المحسن-العباد',
+        component: ComponentCreator('/category/الشيخ-عبد-المحسن-العباد', '6e8'),
         exact: true,
         sidebar: "fatawaSidebar"
       },

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "alabbaad/الصلاة",
+  "id": "alabbaad/الصلاة",
+  "title": "الصلاة",
+  "description": "التوضيح في قول شيخ الإسلام في الصلاة خلف كل بر وفاجر 📃",
+  "source": "@site/docs/alabbaad/الصلاة.mdx",
+  "sourceDirName": "alabbaad",
+  "slug": "/alabbaad/الصلاة",
+  "permalink": "/alabbaad/الصلاة",
+  "draft": false,
+  "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/alabbaad/الصلاة.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "fatawaSidebar",
+  "previous": {
+    "title": "الشيخ عبد المحسن العباد",
+    "permalink": "/category/الشيخ-عبد-المحسن-العباد"
+  },
+  "next": {
+    "title": "الصيام",
+    "permalink": "/alabbaad/الصيام"
+  }
+}

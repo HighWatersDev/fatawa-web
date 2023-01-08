@@ -122,15 +122,15 @@ const config = {
                 href: 'https://al-badr.net/',
               },
               {
-                label: '⚪ الشيخ عبد العزيز ابن باز',
+                label: '⚪ فتاوى الشيخ عبد العزيز ابن باز',
                 href: 'https://binbaz.org.sa/fatwas/kind/1',
               },
               {
-                label: '⚪ الشيخ صالح الفوزان',
+                label: '⚪ فتاوى الشيخ صالح الفوزان',
                 href: 'https://alfawzan.af.org.sa/ar/ftawa/all',
               },
               {
-                label: '⚪ الشيخ محمد بن صالح العثيمين',
+                label: '⚪ فتاوى الشيخ محمد بن صالح العثيمين',
                 href: 'https://binothaimeen.net/content/Menu/ftawa',
               },
               {

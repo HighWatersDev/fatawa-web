@@ -1,0 +1,27 @@
+{
+  "unversionedId": "alabbaad/القرآن",
+  "id": "alabbaad/القرآن",
+  "title": "القرآن",
+  "description": "---",
+  "source": "@site/docs/alabbaad/القرآن.mdx",
+  "sourceDirName": "alabbaad",
+  "slug": "/alabbaad/القرآن",
+  "permalink": "/alabbaad/القرآن",
+  "draft": false,
+  "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/alabbaad/القرآن.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "fatawaSidebar",
+  "previous": {
+    "title": "الصيام",
+    "permalink": "/alabbaad/الصيام"
+  },
+  "next": {
+    "title": "فتاوى النساء",
+    "permalink": "/alabbaad/النساء"
+  }
+}

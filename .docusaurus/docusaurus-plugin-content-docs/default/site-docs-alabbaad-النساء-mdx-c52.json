@@ -1,0 +1,27 @@
+{
+  "unversionedId": "alabbaad/النساء",
+  "id": "alabbaad/النساء",
+  "title": "فتاوى النساء",
+  "description": "هل يجوز للمرأة أن تعمل في مكان لا يوجد فيه رجال 📃",
+  "source": "@site/docs/alabbaad/النساء.mdx",
+  "sourceDirName": "alabbaad",
+  "slug": "/alabbaad/النساء",
+  "permalink": "/alabbaad/النساء",
+  "draft": false,
+  "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/alabbaad/النساء.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "fatawaSidebar",
+  "previous": {
+    "title": "القرآن",
+    "permalink": "/alabbaad/القرآن"
+  },
+  "next": {
+    "title": "فتاوى الحج والعمرة",
+    "permalink": "/alabbaad/المناسك"
+  }
+}
