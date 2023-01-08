@@ -61,7 +61,7 @@ export default {
       "searchPagePath": "search"
     },
     "navbar": {
-      "title": "الرئيسية",
+      "title": "الرئيسة",
       "logo": {
         "alt": "My Site Logo",
         "src": "img/logo2.jpeg"
