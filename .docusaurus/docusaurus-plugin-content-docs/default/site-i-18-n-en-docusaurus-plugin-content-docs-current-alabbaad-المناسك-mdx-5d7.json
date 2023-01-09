@@ -1,0 +1,27 @@
+{
+  "unversionedId": "alabbaad/المناسك",
+  "id": "alabbaad/المناسك",
+  "title": "Rulings related to Hajj and Umrah",
+  "description": "---",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/alabbaad/المناسك.mdx",
+  "sourceDirName": "alabbaad",
+  "slug": "/alabbaad/المناسك",
+  "permalink": "/en/alabbaad/المناسك",
+  "draft": false,
+  "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/alabbaad/المناسك.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "fatawaSidebar",
+  "previous": {
+    "title": "Fasting",
+    "permalink": "/en/alabbaad/الصيام"
+  },
+  "next": {
+    "title": "Qur'an",
+    "permalink": "/en/alabbaad/القرآن"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "alabbaad/الصيام",
+  "id": "alabbaad/الصيام",
+  "title": "Fasting",
+  "description": "---",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/alabbaad/الصيام.mdx",
+  "sourceDirName": "alabbaad",
+  "slug": "/alabbaad/الصيام",
+  "permalink": "/en/alabbaad/الصيام",
+  "draft": false,
+  "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/alabbaad/الصيام.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "fatawaSidebar",
+  "previous": {
+    "title": "Prayer",
+    "permalink": "/en/alabbaad/الصلاة"
+  },
+  "next": {
+    "title": "Rulings related to Hajj and Umrah",
+    "permalink": "/en/alabbaad/المناسك"
+  }
+}

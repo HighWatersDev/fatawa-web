@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfatawa_docusaurus=self.webpackChunkfatawa_docusaurus||[]).push([[894],{8894:(a,u,s)=>{s.r(u)}}]);

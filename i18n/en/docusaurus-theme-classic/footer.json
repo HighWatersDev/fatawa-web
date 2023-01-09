@@ -66,5 +66,37 @@
   "link.item.label.Source code": {
     "message": "Source code",
     "description": "The label of footer link with label=Source code linking to https://github.com/HighWatersDev/fatawa-web"
+  },
+  "link.title.حول الموقع": {
+    "message": "حول الموقع",
+    "description": "The title of the footer links column with title=حول الموقع in the footer"
+  },
+  "link.item.label.⚪ الشيخ سليمان الرحيلي": {
+    "message": "⚪ الشيخ سليمان الرحيلي",
+    "description": "The label of footer link with label=⚪ الشيخ سليمان الرحيلي linking to https://www.sualruhaily.com/index.php"
+  },
+  "link.item.label.⚪ الشيخ عبد الرزاق البدر": {
+    "message": "⚪ الشيخ عبد الرزاق البدر",
+    "description": "The label of footer link with label=⚪ الشيخ عبد الرزاق البدر linking to https://al-badr.net/"
+  },
+  "link.item.label.⚪ فتاوى الشيخ عبد العزيز ابن باز": {
+    "message": "⚪ فتاوى الشيخ عبد العزيز ابن باز",
+    "description": "The label of footer link with label=⚪ فتاوى الشيخ عبد العزيز ابن باز linking to https://binbaz.org.sa/fatwas/kind/1"
+  },
+  "link.item.label.⚪ فتاوى الشيخ صالح الفوزان": {
+    "message": "⚪ فتاوى الشيخ صالح الفوزان",
+    "description": "The label of footer link with label=⚪ فتاوى الشيخ صالح الفوزان linking to https://alfawzan.af.org.sa/ar/ftawa/all"
+  },
+  "link.item.label.⚪ فتاوى الشيخ محمد بن صالح العثيمين": {
+    "message": "⚪ فتاوى الشيخ محمد بن صالح العثيمين",
+    "description": "The label of footer link with label=⚪ فتاوى الشيخ محمد بن صالح العثيمين linking to https://binothaimeen.net/content/Menu/ftawa"
+  },
+  "link.item.label.⚪ الشيخ عبد المحسن العباد": {
+    "message": "⚪ الشيخ عبد المحسن العباد",
+    "description": "The label of footer link with label=⚪ الشيخ عبد المحسن العباد linking to https://al-abbaad.com/"
+  },
+  "link.item.label.مصدر الكود": {
+    "message": "مصدر الكود",
+    "description": "The label of footer link with label=مصدر الكود linking to https://github.com/HighWatersDev/fatawa-web"
   }
 }

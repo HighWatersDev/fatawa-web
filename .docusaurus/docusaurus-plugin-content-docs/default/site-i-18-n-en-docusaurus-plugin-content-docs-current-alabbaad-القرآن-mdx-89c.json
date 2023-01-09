@@ -1,0 +1,27 @@
+{
+  "unversionedId": "alabbaad/القرآن",
+  "id": "alabbaad/القرآن",
+  "title": "Qur'an",
+  "description": "---",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/alabbaad/القرآن.mdx",
+  "sourceDirName": "alabbaad",
+  "slug": "/alabbaad/القرآن",
+  "permalink": "/en/alabbaad/القرآن",
+  "draft": false,
+  "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/alabbaad/القرآن.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "fatawaSidebar",
+  "previous": {
+    "title": "Rulings related to Hajj and Umrah",
+    "permalink": "/en/alabbaad/المناسك"
+  },
+  "next": {
+    "title": "Islamic manners and etiquette",
+    "permalink": "/en/alabbaad/أدب"
+  }
+}

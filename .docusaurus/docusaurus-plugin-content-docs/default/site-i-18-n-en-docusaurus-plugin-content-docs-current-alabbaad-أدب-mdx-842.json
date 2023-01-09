@@ -1,0 +1,27 @@
+{
+  "unversionedId": "alabbaad/أدب",
+  "id": "alabbaad/أدب",
+  "title": "Islamic manners and etiquette",
+  "description": "---",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/alabbaad/أدب.mdx",
+  "sourceDirName": "alabbaad",
+  "slug": "/alabbaad/أدب",
+  "permalink": "/en/alabbaad/أدب",
+  "draft": false,
+  "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/alabbaad/أدب.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "fatawaSidebar",
+  "previous": {
+    "title": "Qur'an",
+    "permalink": "/en/alabbaad/القرآن"
+  },
+  "next": {
+    "title": "Fatawa on various topics",
+    "permalink": "/en/alabbaad/المتناوعة"
+  }
+}

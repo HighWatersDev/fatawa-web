@@ -1,0 +1,27 @@
+{
+  "unversionedId": "ruhayli/الزكاة",
+  "id": "ruhayli/الزكاة",
+  "title": "Zakaah",
+  "description": "Ruling on making stipulations in how zakaah is spent - 1 📃",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/ruhayli/الزكاة.mdx",
+  "sourceDirName": "ruhayli",
+  "slug": "/ruhayli/الزكاة",
+  "permalink": "/en/ruhayli/الزكاة",
+  "draft": false,
+  "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/ruhayli/الزكاة.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "fatawaSidebar",
+  "previous": {
+    "title": "Fasting",
+    "permalink": "/en/ruhayli/الصيام"
+  },
+  "next": {
+    "title": "Qur'an",
+    "permalink": "/en/ruhayli/القرآن"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "alabbaad/المتناوعة",
+  "id": "alabbaad/المتناوعة",
+  "title": "Fatawa on various topics",
+  "description": "---",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/alabbaad/المتناوعة.mdx",
+  "sourceDirName": "alabbaad",
+  "slug": "/alabbaad/المتناوعة",
+  "permalink": "/en/alabbaad/المتناوعة",
+  "draft": false,
+  "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/alabbaad/المتناوعة.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "fatawaSidebar",
+  "previous": {
+    "title": "Islamic manners and etiquette",
+    "permalink": "/en/alabbaad/أدب"
+  },
+  "next": {
+    "title": "Rulings related to women",
+    "permalink": "/en/alabbaad/النساء"
+  }
+}

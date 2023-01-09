@@ -1,0 +1,27 @@
+{
+  "unversionedId": "alabbaad/الصلاة",
+  "id": "alabbaad/الصلاة",
+  "title": "Prayer",
+  "description": "---",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/alabbaad/الصلاة.mdx",
+  "sourceDirName": "alabbaad",
+  "slug": "/alabbaad/الصلاة",
+  "permalink": "/en/alabbaad/الصلاة",
+  "draft": false,
+  "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/alabbaad/الصلاة.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "fatawaSidebar",
+  "previous": {
+    "title": "الشيخ عبد المحسن العباد",
+    "permalink": "/en/category/الشيخ-عبد-المحسن-العباد"
+  },
+  "next": {
+    "title": "Fasting",
+    "permalink": "/en/alabbaad/الصيام"
+  }
+}

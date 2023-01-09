@@ -2,7 +2,7 @@
   "unversionedId": "ruhayli/القرآن",
   "id": "ruhayli/القرآن",
   "title": "Qur'an",
-  "description": "---",
+  "description": "Ruling on swaying while reciting Qur'an 📃",
   "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/ruhayli/القرآن.mdx",
   "sourceDirName": "ruhayli",
   "slug": "/ruhayli/القرآن",
@@ -17,8 +17,8 @@
   },
   "sidebar": "fatawaSidebar",
   "previous": {
-    "title": "Fasting",
-    "permalink": "/en/ruhayli/الصيام"
+    "title": "Zakaah",
+    "permalink": "/en/ruhayli/الزكاة"
   },
   "next": {
     "title": "Fatawa for Women",

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "alabbaad/النساء",
+  "id": "alabbaad/النساء",
+  "title": "Rulings related to women",
+  "description": "---",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/alabbaad/النساء.mdx",
+  "sourceDirName": "alabbaad",
+  "slug": "/alabbaad/النساء",
+  "permalink": "/en/alabbaad/النساء",
+  "draft": false,
+  "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/alabbaad/النساء.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "fatawaSidebar",
+  "previous": {
+    "title": "Fatawa on various topics",
+    "permalink": "/en/alabbaad/المتناوعة"
+  },
+  "next": {
+    "title": "الشيخ عبد الرزاق البدر",
+    "permalink": "/en/category/الشيخ-عبد-الرزاق-البدر"
+  }
+}
