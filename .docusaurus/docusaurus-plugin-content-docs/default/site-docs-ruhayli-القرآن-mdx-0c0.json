@@ -2,7 +2,7 @@
   "unversionedId": "ruhayli/القرآن",
   "id": "ruhayli/القرآن",
   "title": "القرآن",
-  "description": "حكم الاهتزاز عند قراءة القرآن 📃",
+  "description": "حكم وضع المصحف في الجيب المحاذي للعورة من الثوب 📃",
   "source": "@site/docs/ruhayli/القرآن.mdx",
   "sourceDirName": "ruhayli",
   "slug": "/ruhayli/القرآن",
@@ -17,8 +17,8 @@
   },
   "sidebar": "fatawaSidebar",
   "previous": {
-    "title": "الزكاة",
-    "permalink": "/ruhayli/الزكاة"
+    "title": "الطهارة",
+    "permalink": "/ruhayli/الطهارة"
   },
   "next": {
     "title": "فتاوى النساء",

@@ -47,6 +47,12 @@
           },
           {
             "type": "link",
+            "label": "Purification",
+            "href": "/en/ruhayli/الطهارة",
+            "docId": "ruhayli/الطهارة"
+          },
+          {
+            "type": "link",
             "label": "Qur'an",
             "href": "/en/ruhayli/القرآن",
             "docId": "ruhayli/القرآن"
@@ -68,7 +74,7 @@
       },
       {
         "type": "category",
-        "label": "الشيخ عبد المحسن العباد",
+        "label": "Sheykh Abdul Al-Muhsin Al-Abbaad",
         "collapsible": true,
         "collapsed": true,
         "items": [
@@ -267,10 +273,16 @@
       "description": "Ruling on breaking fast in daytime of Ramadan when traveling 📃",
       "sidebar": "fatawaSidebar"
     },
+    "ruhayli/الطهارة": {
+      "id": "ruhayli/الطهارة",
+      "title": "Purification",
+      "description": "Ruling on taking bath (ghusl) after wet dream for who doesn't see water. 📃",
+      "sidebar": "fatawaSidebar"
+    },
     "ruhayli/القرآن": {
       "id": "ruhayli/القرآن",
       "title": "Qur'an",
-      "description": "Ruling on swaying while reciting Qur'an 📃",
+      "description": "Ruling on putting mushaf in one's pocket next to awrah 📃",
       "sidebar": "fatawaSidebar"
     },
     "ruhayli/المتنوعة": {
@@ -282,7 +294,7 @@
     "ruhayli/المناسك": {
       "id": "ruhayli/المناسك",
       "title": "Ruling of Hajj and Umrah",
-      "description": "Ruling on selling Hajj lottery 📃",
+      "description": "Is it permissible to perform Umrah for a person who is in debt? 📃",
       "sidebar": "fatawaSidebar"
     },
     "ruhayli/النساء": {

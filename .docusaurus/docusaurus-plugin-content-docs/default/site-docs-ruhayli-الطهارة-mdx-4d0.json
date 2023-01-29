@@ -1,0 +1,27 @@
+{
+  "unversionedId": "ruhayli/الطهارة",
+  "id": "ruhayli/الطهارة",
+  "title": "الطهارة",
+  "description": "حكم الاغتسال من الاحتلام لمن لا ير ماء 📃",
+  "source": "@site/docs/ruhayli/الطهارة.mdx",
+  "sourceDirName": "ruhayli",
+  "slug": "/ruhayli/الطهارة",
+  "permalink": "/ruhayli/الطهارة",
+  "draft": false,
+  "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/ruhayli/الطهارة.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "fatawaSidebar",
+  "previous": {
+    "title": "الزكاة",
+    "permalink": "/ruhayli/الزكاة"
+  },
+  "next": {
+    "title": "القرآن",
+    "permalink": "/ruhayli/القرآن"
+  }
+}

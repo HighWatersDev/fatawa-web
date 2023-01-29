@@ -4,22 +4,22 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/en/markdown-page',
-    component: ComponentCreator('/en/markdown-page', '334'),
+    component: ComponentCreator('/en/markdown-page', '645'),
     exact: true
   },
   {
     path: '/en/search',
-    component: ComponentCreator('/en/search', 'dc6'),
+    component: ComponentCreator('/en/search', '106'),
     exact: true
   },
   {
     path: '/en/',
-    component: ComponentCreator('/en/', 'eb1'),
+    component: ComponentCreator('/en/', 'c11'),
     exact: true
   },
   {
     path: '/en/',
-    component: ComponentCreator('/en/', '8e2'),
+    component: ComponentCreator('/en/', '8b4'),
     routes: [
       {
         path: '/en/alabbaad/أدب',
@@ -113,7 +113,7 @@ export default [
       },
       {
         path: '/en/category/الشيخ-عبد-المحسن-العباد',
-        component: ComponentCreator('/en/category/الشيخ-عبد-المحسن-العباد', 'a6f'),
+        component: ComponentCreator('/en/category/الشيخ-عبد-المحسن-العباد', 'c10'),
         exact: true,
         sidebar: "fatawaSidebar"
       },
@@ -138,6 +138,12 @@ export default [
       {
         path: '/en/ruhayli/الصيام',
         component: ComponentCreator('/en/ruhayli/الصيام', 'aa4'),
+        exact: true,
+        sidebar: "fatawaSidebar"
+      },
+      {
+        path: '/en/ruhayli/الطهارة',
+        component: ComponentCreator('/en/ruhayli/الطهارة', '96f'),
         exact: true,
         sidebar: "fatawaSidebar"
       },

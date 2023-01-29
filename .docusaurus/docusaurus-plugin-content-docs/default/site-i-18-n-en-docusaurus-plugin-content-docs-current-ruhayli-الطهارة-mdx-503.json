@@ -1,0 +1,27 @@
+{
+  "unversionedId": "ruhayli/الطهارة",
+  "id": "ruhayli/الطهارة",
+  "title": "Purification",
+  "description": "Ruling on taking bath (ghusl) after wet dream for who doesn't see water. 📃",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/ruhayli/الطهارة.mdx",
+  "sourceDirName": "ruhayli",
+  "slug": "/ruhayli/الطهارة",
+  "permalink": "/en/ruhayli/الطهارة",
+  "draft": false,
+  "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/ruhayli/الطهارة.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "fatawaSidebar",
+  "previous": {
+    "title": "Zakaah",
+    "permalink": "/en/ruhayli/الزكاة"
+  },
+  "next": {
+    "title": "Qur'an",
+    "permalink": "/en/ruhayli/القرآن"
+  }
+}

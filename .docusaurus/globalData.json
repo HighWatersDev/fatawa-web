@@ -96,6 +96,11 @@
               "sidebar": "fatawaSidebar"
             },
             {
+              "id": "ruhayli/الطهارة",
+              "path": "/en/ruhayli/الطهارة",
+              "sidebar": "fatawaSidebar"
+            },
+            {
               "id": "ruhayli/القرآن",
               "path": "/en/ruhayli/القرآن",
               "sidebar": "fatawaSidebar"

@@ -40,13 +40,13 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/home/luqmaan/projects/fatawa-web/sidebars.js",
+          "sidebarPath": "/Users/luqmaan/Projects/fatawa-web/sidebars.js",
           "routeBasePath": "/",
           "editUrl": "https://github.com/HighWatersDev/fatawa-web"
         },
         "blog": false,
         "theme": {
-          "customCss": "/home/luqmaan/projects/fatawa-web/src/css/custom.css"
+          "customCss": "/Users/luqmaan/Projects/fatawa-web/src/css/custom.css"
         }
       }
     ]
