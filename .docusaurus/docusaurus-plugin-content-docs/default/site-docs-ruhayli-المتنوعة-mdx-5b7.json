@@ -1,7 +1,7 @@
 {
   "unversionedId": "ruhayli/المتنوعة",
   "id": "ruhayli/المتنوعة",
-  "title": "الفتاوى المتنوعة",
+  "title": "المتنوعة",
   "description": "توضيح الإجماع السكوتي في وقت الصحابة 📃",
   "source": "@site/docs/ruhayli/المتنوعة.mdx",
   "sourceDirName": "ruhayli",
@@ -17,11 +17,11 @@
   },
   "sidebar": "fatawaSidebar",
   "previous": {
-    "title": "فتاوى النساء",
+    "title": "النساء",
     "permalink": "/ruhayli/النساء"
   },
   "next": {
-    "title": "أحكام الحج والعمرة",
+    "title": "الحج والعمرة",
     "permalink": "/ruhayli/المناسك"
   }
 }

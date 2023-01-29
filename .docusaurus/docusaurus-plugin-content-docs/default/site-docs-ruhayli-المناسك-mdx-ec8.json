@@ -1,7 +1,7 @@
 {
   "unversionedId": "ruhayli/المناسك",
   "id": "ruhayli/المناسك",
-  "title": "أحكام الحج والعمرة",
+  "title": "الحج والعمرة",
   "description": "هل تشرع العمرة لشخص عليه دين؟ 📃",
   "source": "@site/docs/ruhayli/المناسك.mdx",
   "sourceDirName": "ruhayli",
@@ -17,7 +17,7 @@
   },
   "sidebar": "fatawaSidebar",
   "previous": {
-    "title": "الفتاوى المتنوعة",
+    "title": "المتنوعة",
     "permalink": "/ruhayli/المتنوعة"
   },
   "next": {

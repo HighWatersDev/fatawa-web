@@ -1,7 +1,7 @@
 {
   "unversionedId": "albadr/المناسك",
   "id": "albadr/المناسك",
-  "title": "فتاوى الحج والعمرة",
+  "title": "الحج والعمرة",
   "description": "أداء مناسك العمرة عند الحيض 📃",
   "source": "@site/docs/albadr/المناسك.mdx",
   "sourceDirName": "albadr",
@@ -17,7 +17,7 @@
   },
   "sidebar": "fatawaSidebar",
   "previous": {
-    "title": "فتاوى النساء",
+    "title": "النساء",
     "permalink": "/albadr/النساء"
   },
   "next": {
