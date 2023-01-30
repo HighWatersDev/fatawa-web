@@ -15,9 +15,9 @@
           "editUrlLocalized": "https://github.com/HighWatersDev/fatawa-web/i18n/ar/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/home/luqmaan/projects/fatawa-web/sidebars.js",
-          "contentPath": "/home/luqmaan/projects/fatawa-web/docs",
-          "contentPathLocalized": "/home/luqmaan/projects/fatawa-web/i18n/ar/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/Users/luqmaan/Projects/fatawa-web/sidebars.js",
+          "contentPath": "/Users/luqmaan/Projects/fatawa-web/docs",
+          "contentPathLocalized": "/Users/luqmaan/Projects/fatawa-web/i18n/ar/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "unversionedId": "alabbaad/أدب",
@@ -38,11 +38,11 @@
               },
               "sidebar": "fatawaSidebar",
               "previous": {
-                "title": "فتاوى الحج والعمرة",
+                "title": "الحج والعمرة",
                 "permalink": "/alabbaad/المناسك"
               },
               "next": {
-                "title": "الفتاوى المتناوعة",
+                "title": "المتناوعة",
                 "permalink": "/alabbaad/المتناوعة"
               }
             },
@@ -123,14 +123,14 @@
                 "permalink": "/alabbaad/الصيام"
               },
               "next": {
-                "title": "فتاوى النساء",
+                "title": "النساء",
                 "permalink": "/alabbaad/النساء"
               }
             },
             {
               "unversionedId": "alabbaad/المتناوعة",
               "id": "alabbaad/المتناوعة",
-              "title": "الفتاوى المتناوعة",
+              "title": "المتناوعة",
               "description": "شروط العقيقة 📃",
               "source": "@site/docs/alabbaad/المتناوعة.mdx",
               "sourceDirName": "alabbaad",
@@ -157,7 +157,7 @@
             {
               "unversionedId": "alabbaad/المناسك",
               "id": "alabbaad/المناسك",
-              "title": "فتاوى الحج والعمرة",
+              "title": "الحج والعمرة",
               "description": "هل الحج أو العمرة عن نفسه وعن غيره في الأجر سواء 📃",
               "source": "@site/docs/alabbaad/المناسك.mdx",
               "sourceDirName": "alabbaad",
@@ -173,7 +173,7 @@
               },
               "sidebar": "fatawaSidebar",
               "previous": {
-                "title": "فتاوى النساء",
+                "title": "النساء",
                 "permalink": "/alabbaad/النساء"
               },
               "next": {
@@ -184,7 +184,7 @@
             {
               "unversionedId": "alabbaad/النساء",
               "id": "alabbaad/النساء",
-              "title": "فتاوى النساء",
+              "title": "النساء",
               "description": "هل يجوز للمرأة أن تعمل في مكان لا يوجد فيه رجال 📃",
               "source": "@site/docs/alabbaad/النساء.mdx",
               "sourceDirName": "alabbaad",
@@ -204,7 +204,7 @@
                 "permalink": "/alabbaad/القرآن"
               },
               "next": {
-                "title": "فتاوى الحج والعمرة",
+                "title": "الحج والعمرة",
                 "permalink": "/alabbaad/المناسك"
               }
             },
@@ -227,7 +227,7 @@
               },
               "sidebar": "fatawaSidebar",
               "previous": {
-                "title": "فتاوى الحج والعمرة",
+                "title": "الحج والعمرة",
                 "permalink": "/albadr/المناسك"
               }
             },
@@ -308,14 +308,14 @@
                 "permalink": "/albadr/الصيام"
               },
               "next": {
-                "title": "فتاوى النساء",
+                "title": "النساء",
                 "permalink": "/albadr/النساء"
               }
             },
             {
               "unversionedId": "albadr/المناسك",
               "id": "albadr/المناسك",
-              "title": "فتاوى الحج والعمرة",
+              "title": "الحج والعمرة",
               "description": "أداء مناسك العمرة عند الحيض 📃",
               "source": "@site/docs/albadr/المناسك.mdx",
               "sourceDirName": "albadr",
@@ -331,7 +331,7 @@
               },
               "sidebar": "fatawaSidebar",
               "previous": {
-                "title": "فتاوى النساء",
+                "title": "النساء",
                 "permalink": "/albadr/النساء"
               },
               "next": {
@@ -342,7 +342,7 @@
             {
               "unversionedId": "albadr/النساء",
               "id": "albadr/النساء",
-              "title": "فتاوى النساء",
+              "title": "النساء",
               "description": "هل يقبل رأس العجوز من غير المحارم 📃",
               "source": "@site/docs/albadr/النساء.mdx",
               "sourceDirName": "albadr",
@@ -362,7 +362,7 @@
                 "permalink": "/albadr/القرآن"
               },
               "next": {
-                "title": "فتاوى الحج والعمرة",
+                "title": "الحج والعمرة",
                 "permalink": "/albadr/المناسك"
               }
             },
@@ -412,8 +412,8 @@
                 "permalink": "/ruhayli/الصيام"
               },
               "next": {
-                "title": "القرآن",
-                "permalink": "/ruhayli/القرآن"
+                "title": "الطهارة",
+                "permalink": "/ruhayli/الطهارة"
               }
             },
             {
@@ -447,7 +447,7 @@
               "unversionedId": "ruhayli/الصيام",
               "id": "ruhayli/الصيام",
               "title": "الصيام",
-              "description": "حكم الفطر في نهار رمضان اذا أراد السفر 📃",
+              "description": "حكم صيام من سافر من بلد إلى بلد آخر 📃",
               "source": "@site/docs/ruhayli/الصيام.mdx",
               "sourceDirName": "ruhayli",
               "slug": "/ruhayli/الصيام",
@@ -471,10 +471,37 @@
               }
             },
             {
+              "unversionedId": "ruhayli/الطهارة",
+              "id": "ruhayli/الطهارة",
+              "title": "الطهارة",
+              "description": "حكم الاغتسال من الاحتلام لمن لا ير ماء 📃",
+              "source": "@site/docs/ruhayli/الطهارة.mdx",
+              "sourceDirName": "ruhayli",
+              "slug": "/ruhayli/الطهارة",
+              "permalink": "/ruhayli/الطهارة",
+              "draft": false,
+              "editUrl": "https://github.com/HighWatersDev/fatawa-web/docs/ruhayli/الطهارة.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "fatawaSidebar",
+              "previous": {
+                "title": "الزكاة",
+                "permalink": "/ruhayli/الزكاة"
+              },
+              "next": {
+                "title": "القرآن",
+                "permalink": "/ruhayli/القرآن"
+              }
+            },
+            {
               "unversionedId": "ruhayli/القرآن",
               "id": "ruhayli/القرآن",
               "title": "القرآن",
-              "description": "حكم الاهتزاز عند قراءة القرآن 📃",
+              "description": "حكم وضع المصحف في الجيب المحاذي للعورة من الثوب 📃",
               "source": "@site/docs/ruhayli/القرآن.mdx",
               "sourceDirName": "ruhayli",
               "slug": "/ruhayli/القرآن",
@@ -489,19 +516,19 @@
               },
               "sidebar": "fatawaSidebar",
               "previous": {
-                "title": "الزكاة",
-                "permalink": "/ruhayli/الزكاة"
+                "title": "الطهارة",
+                "permalink": "/ruhayli/الطهارة"
               },
               "next": {
-                "title": "فتاوى النساء",
+                "title": "النساء",
                 "permalink": "/ruhayli/النساء"
               }
             },
             {
               "unversionedId": "ruhayli/المتنوعة",
               "id": "ruhayli/المتنوعة",
-              "title": "الفتاوى المتنوعة",
-              "description": "📃 حكم وضع اليدين على الصدر والانحناء عند السلام على رسول الله ﷺ",
+              "title": "المتنوعة",
+              "description": "توضيح الإجماع السكوتي في وقت الصحابة 📃",
               "source": "@site/docs/ruhayli/المتنوعة.mdx",
               "sourceDirName": "ruhayli",
               "slug": "/ruhayli/المتنوعة",
@@ -516,19 +543,19 @@
               },
               "sidebar": "fatawaSidebar",
               "previous": {
-                "title": "فتاوى النساء",
+                "title": "النساء",
                 "permalink": "/ruhayli/النساء"
               },
               "next": {
-                "title": "أحكام الحج والعمرة",
+                "title": "الحج والعمرة",
                 "permalink": "/ruhayli/المناسك"
               }
             },
             {
               "unversionedId": "ruhayli/المناسك",
               "id": "ruhayli/المناسك",
-              "title": "أحكام الحج والعمرة",
-              "description": "حكم بيع قرعة الحج 📃",
+              "title": "الحج والعمرة",
+              "description": "حكم الاعتمار عن الميت الذي اعتمر من قبل 📃",
               "source": "@site/docs/ruhayli/المناسك.mdx",
               "sourceDirName": "ruhayli",
               "slug": "/ruhayli/المناسك",
@@ -543,7 +570,7 @@
               },
               "sidebar": "fatawaSidebar",
               "previous": {
-                "title": "الفتاوى المتنوعة",
+                "title": "المتنوعة",
                 "permalink": "/ruhayli/المتنوعة"
               },
               "next": {
@@ -554,8 +581,8 @@
             {
               "unversionedId": "ruhayli/النساء",
               "id": "ruhayli/النساء",
-              "title": "فتاوى النساء",
-              "description": "حكم حبوب منع الحمل والدم عند التناول 📃",
+              "title": "النساء",
+              "description": "حكم دم امرأة التي سقط حملها وكيف تؤدي العمرة في هذا الحال 📃",
               "source": "@site/docs/ruhayli/النساء.mdx",
               "sourceDirName": "ruhayli",
               "slug": "/ruhayli/النساء",
@@ -574,7 +601,7 @@
                 "permalink": "/ruhayli/القرآن"
               },
               "next": {
-                "title": "الفتاوى المتنوعة",
+                "title": "المتنوعة",
                 "permalink": "/ruhayli/المتنوعة"
               }
             }
@@ -603,6 +630,10 @@
                   {
                     "type": "doc",
                     "id": "ruhayli/الزكاة"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "ruhayli/الطهارة"
                   },
                   {
                     "type": "doc",

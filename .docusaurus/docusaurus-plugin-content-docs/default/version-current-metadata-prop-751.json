@@ -11,296 +11,296 @@
     "fatawaSidebar": [
       {
         "type": "link",
-        "label": "Islamic verdicts of the scholars",
-        "href": "/en/intro",
+        "label": "فتاوى العلماء",
+        "href": "/intro",
         "docId": "intro"
       },
       {
         "type": "category",
-        "label": "Sheykh Sulayman Ar-Ruhayli",
+        "label": "الشيخ سليمان الرحيلي",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "link",
-            "label": "Prayer",
-            "href": "/en/ruhayli/الصلاة",
+            "label": "الصلاة",
+            "href": "/ruhayli/الصلاة",
             "docId": "ruhayli/الصلاة"
           },
           {
             "type": "link",
-            "label": "Various topics",
-            "href": "/en/ruhayli/المتنوعة",
-            "docId": "ruhayli/المتنوعة"
-          },
-          {
-            "type": "link",
-            "label": "Fasting",
-            "href": "/en/ruhayli/الصيام",
+            "label": "الصيام",
+            "href": "/ruhayli/الصيام",
             "docId": "ruhayli/الصيام"
           },
           {
             "type": "link",
-            "label": "Zakaah",
-            "href": "/en/ruhayli/الزكاة",
+            "label": "الزكاة",
+            "href": "/ruhayli/الزكاة",
             "docId": "ruhayli/الزكاة"
           },
           {
             "type": "link",
-            "label": "Purification",
-            "href": "/en/ruhayli/الطهارة",
+            "label": "الطهارة",
+            "href": "/ruhayli/الطهارة",
             "docId": "ruhayli/الطهارة"
           },
           {
             "type": "link",
-            "label": "Qur'an",
-            "href": "/en/ruhayli/القرآن",
+            "label": "القرآن",
+            "href": "/ruhayli/القرآن",
             "docId": "ruhayli/القرآن"
           },
           {
             "type": "link",
-            "label": "Fatawa for Women",
-            "href": "/en/ruhayli/النساء",
+            "label": "النساء",
+            "href": "/ruhayli/النساء",
             "docId": "ruhayli/النساء"
           },
           {
             "type": "link",
-            "label": "Ruling of Hajj and Umrah",
-            "href": "/en/ruhayli/المناسك",
+            "label": "المتنوعة",
+            "href": "/ruhayli/المتنوعة",
+            "docId": "ruhayli/المتنوعة"
+          },
+          {
+            "type": "link",
+            "label": "الحج والعمرة",
+            "href": "/ruhayli/المناسك",
             "docId": "ruhayli/المناسك"
           }
         ],
-        "href": "/en/category/الشيخ-سليمان-الرحيلي"
+        "href": "/category/الشيخ-سليمان-الرحيلي"
       },
       {
         "type": "category",
-        "label": "Sheykh Abdul Al-Muhsin Al-Abbaad",
+        "label": "الشيخ عبد المحسن العباد",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "link",
-            "label": "Prayer",
-            "href": "/en/alabbaad/الصلاة",
+            "label": "الصلاة",
+            "href": "/alabbaad/الصلاة",
             "docId": "alabbaad/الصلاة"
           },
           {
             "type": "link",
-            "label": "Fasting",
-            "href": "/en/alabbaad/الصيام",
+            "label": "الصيام",
+            "href": "/alabbaad/الصيام",
             "docId": "alabbaad/الصيام"
           },
           {
             "type": "link",
-            "label": "Rulings related to Hajj and Umrah",
-            "href": "/en/alabbaad/المناسك",
-            "docId": "alabbaad/المناسك"
-          },
-          {
-            "type": "link",
-            "label": "Qur'an",
-            "href": "/en/alabbaad/القرآن",
+            "label": "القرآن",
+            "href": "/alabbaad/القرآن",
             "docId": "alabbaad/القرآن"
           },
           {
             "type": "link",
-            "label": "Islamic manners and etiquette",
-            "href": "/en/alabbaad/أدب",
+            "label": "النساء",
+            "href": "/alabbaad/النساء",
+            "docId": "alabbaad/النساء"
+          },
+          {
+            "type": "link",
+            "label": "الحج والعمرة",
+            "href": "/alabbaad/المناسك",
+            "docId": "alabbaad/المناسك"
+          },
+          {
+            "type": "link",
+            "label": "الآداب الإسلامية",
+            "href": "/alabbaad/أدب",
             "docId": "alabbaad/أدب"
           },
           {
             "type": "link",
-            "label": "Fatawa on various topics",
-            "href": "/en/alabbaad/المتناوعة",
+            "label": "المتناوعة",
+            "href": "/alabbaad/المتناوعة",
             "docId": "alabbaad/المتناوعة"
-          },
-          {
-            "type": "link",
-            "label": "Rulings related to women",
-            "href": "/en/alabbaad/النساء",
-            "docId": "alabbaad/النساء"
           }
         ],
-        "href": "/en/category/الشيخ-عبد-المحسن-العباد"
+        "href": "/category/الشيخ-عبد-المحسن-العباد"
       },
       {
         "type": "category",
-        "label": "Sheykh Abdur Ar-Razzaaq Al-Badr",
+        "label": "الشيخ عبد الرزاق البدر",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "link",
-            "label": "Prayer",
-            "href": "/en/albadr/الصلاة",
+            "label": "الصلاة",
+            "href": "/albadr/الصلاة",
             "docId": "albadr/الصلاة"
           },
           {
             "type": "link",
-            "label": "Fasting",
-            "href": "/en/albadr/الصيام",
+            "label": "الصيام",
+            "href": "/albadr/الصيام",
             "docId": "albadr/الصيام"
           },
           {
             "type": "link",
-            "label": "Rulings related to Hajj and Umrah",
-            "href": "/en/albadr/المناسك",
-            "docId": "albadr/المناسك"
-          },
-          {
-            "type": "link",
-            "label": "Qur'an",
-            "href": "/en/albadr/القرآن",
+            "label": "القرآن",
+            "href": "/albadr/القرآن",
             "docId": "albadr/القرآن"
           },
           {
             "type": "link",
-            "label": "Islamic manners and etiquette",
-            "href": "/en/albadr/أدب",
-            "docId": "albadr/أدب"
+            "label": "النساء",
+            "href": "/albadr/النساء",
+            "docId": "albadr/النساء"
           },
           {
             "type": "link",
-            "label": "Rulings related to women",
-            "href": "/en/albadr/النساء",
-            "docId": "albadr/النساء"
+            "label": "الحج والعمرة",
+            "href": "/albadr/المناسك",
+            "docId": "albadr/المناسك"
+          },
+          {
+            "type": "link",
+            "label": "الآداب الإسلامية",
+            "href": "/albadr/أدب",
+            "docId": "albadr/أدب"
           }
         ],
-        "href": "/en/category/الشيخ-عبد-الرزاق-البدر"
+        "href": "/category/الشيخ-عبد-الرزاق-البدر"
       }
     ]
   },
   "docs": {
     "alabbaad/أدب": {
       "id": "alabbaad/أدب",
-      "title": "Islamic manners and etiquette",
-      "description": "---",
+      "title": "الآداب الإسلامية",
+      "description": "الإصلاح بين الإخوة 📃",
       "sidebar": "fatawaSidebar"
     },
     "alabbaad/الصلاة": {
       "id": "alabbaad/الصلاة",
-      "title": "Prayer",
-      "description": "---",
+      "title": "الصلاة",
+      "description": "التوضيح في قول شيخ الإسلام في الصلاة خلف كل بر وفاجر 📃",
       "sidebar": "fatawaSidebar"
     },
     "alabbaad/الصيام": {
       "id": "alabbaad/الصيام",
-      "title": "Fasting",
+      "title": "الصيام",
       "description": "---",
       "sidebar": "fatawaSidebar"
     },
     "alabbaad/القرآن": {
       "id": "alabbaad/القرآن",
-      "title": "Qur'an",
+      "title": "القرآن",
       "description": "---",
       "sidebar": "fatawaSidebar"
     },
     "alabbaad/المتناوعة": {
       "id": "alabbaad/المتناوعة",
-      "title": "Fatawa on various topics",
-      "description": "---",
+      "title": "المتناوعة",
+      "description": "شروط العقيقة 📃",
       "sidebar": "fatawaSidebar"
     },
     "alabbaad/المناسك": {
       "id": "alabbaad/المناسك",
-      "title": "Rulings related to Hajj and Umrah",
-      "description": "---",
+      "title": "الحج والعمرة",
+      "description": "هل الحج أو العمرة عن نفسه وعن غيره في الأجر سواء 📃",
       "sidebar": "fatawaSidebar"
     },
     "alabbaad/النساء": {
       "id": "alabbaad/النساء",
-      "title": "Rulings related to women",
-      "description": "---",
+      "title": "النساء",
+      "description": "هل يجوز للمرأة أن تعمل في مكان لا يوجد فيه رجال 📃",
       "sidebar": "fatawaSidebar"
     },
     "albadr/أدب": {
       "id": "albadr/أدب",
-      "title": "Islamic manners and etiquette",
-      "description": "Ruling on students standing when the teacher enters the classroom 📃",
+      "title": "الآداب الإسلامية",
+      "description": "هل يقوم الطلاب للمدرس 📃",
       "sidebar": "fatawaSidebar"
     },
     "albadr/الصلاة": {
       "id": "albadr/الصلاة",
-      "title": "Prayer",
-      "description": "---",
+      "title": "الصلاة",
+      "description": "قصر الصلاة للمسافر",
       "sidebar": "fatawaSidebar"
     },
     "albadr/الصيام": {
       "id": "albadr/الصيام",
-      "title": "Fasting",
-      "description": "Ruling on fasting while traveling 📃",
+      "title": "الصيام",
+      "description": "حكم صيام في السفر 📃",
       "sidebar": "fatawaSidebar"
     },
     "albadr/القرآن": {
       "id": "albadr/القرآن",
-      "title": "Qur'an",
+      "title": "القرآن",
       "description": "---",
       "sidebar": "fatawaSidebar"
     },
     "albadr/المناسك": {
       "id": "albadr/المناسك",
-      "title": "Rulings related to Hajj and Umrah",
-      "description": "Completing rituals of Umrah while on menses 📃",
+      "title": "الحج والعمرة",
+      "description": "أداء مناسك العمرة عند الحيض 📃",
       "sidebar": "fatawaSidebar"
     },
     "albadr/النساء": {
       "id": "albadr/النساء",
-      "title": "Rulings related to women",
-      "description": "Kissing elderly woman who is not mahram (forbidden for marriage) 📃",
+      "title": "النساء",
+      "description": "هل يقبل رأس العجوز من غير المحارم 📃",
       "sidebar": "fatawaSidebar"
     },
     "intro": {
       "id": "intro",
-      "title": "Islamic verdicts of the scholars",
-      "description": "Welcome",
+      "title": "فتاوى العلماء",
+      "description": "مرحبا بكم",
       "sidebar": "fatawaSidebar"
     },
     "ruhayli/الزكاة": {
       "id": "ruhayli/الزكاة",
-      "title": "Zakaah",
-      "description": "Ruling on making stipulations in how zakaah is spent - 1 📃",
+      "title": "الزكاة",
+      "description": "هل يجوز أن أشترط على من أعطيهم الزكاة أن يصرفوها في سداد ديونهم - ١؟ 📃",
       "sidebar": "fatawaSidebar"
     },
     "ruhayli/الصلاة": {
       "id": "ruhayli/الصلاة",
-      "title": "Prayer",
-      "description": "Shortening the prayer for the traveler 📃",
+      "title": "الصلاة",
+      "description": "قصر الصلاة للمسافر 📃",
       "sidebar": "fatawaSidebar"
     },
     "ruhayli/الصيام": {
       "id": "ruhayli/الصيام",
-      "title": "Fasting",
-      "description": "Ruling on breaking fast in daytime of Ramadan when traveling 📃",
+      "title": "الصيام",
+      "description": "حكم صيام من سافر من بلد إلى بلد آخر 📃",
       "sidebar": "fatawaSidebar"
     },
     "ruhayli/الطهارة": {
       "id": "ruhayli/الطهارة",
-      "title": "Purification",
-      "description": "Ruling on taking bath (ghusl) after wet dream for who doesn't see water. 📃",
+      "title": "الطهارة",
+      "description": "حكم الاغتسال من الاحتلام لمن لا ير ماء 📃",
       "sidebar": "fatawaSidebar"
     },
     "ruhayli/القرآن": {
       "id": "ruhayli/القرآن",
-      "title": "Qur'an",
-      "description": "Ruling on putting mushaf in one's pocket next to awrah 📃",
+      "title": "القرآن",
+      "description": "حكم وضع المصحف في الجيب المحاذي للعورة من الثوب 📃",
       "sidebar": "fatawaSidebar"
     },
     "ruhayli/المتنوعة": {
       "id": "ruhayli/المتنوعة",
-      "title": "Various topics",
-      "description": "Placing hands on the chest when greeting the Messenger of Allaah ﷺ 📃",
+      "title": "المتنوعة",
+      "description": "توضيح الإجماع السكوتي في وقت الصحابة 📃",
       "sidebar": "fatawaSidebar"
     },
     "ruhayli/المناسك": {
       "id": "ruhayli/المناسك",
-      "title": "Ruling of Hajj and Umrah",
-      "description": "Is it permissible to perform Umrah for a person who is in debt? 📃",
+      "title": "الحج والعمرة",
+      "description": "حكم الاعتمار عن الميت الذي اعتمر من قبل 📃",
       "sidebar": "fatawaSidebar"
     },
     "ruhayli/النساء": {
       "id": "ruhayli/النساء",
-      "title": "Fatawa for Women",
-      "description": "Ruling on menses when taking birth control pills 📃",
+      "title": "النساء",
+      "description": "حكم دم امرأة التي سقط حملها وكيف تؤدي العمرة في هذا الحال 📃",
       "sidebar": "fatawaSidebar"
     }
   }

@@ -1,138 +1,138 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/en/",
+      "path": "/",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/en/",
+          "path": "/",
           "mainDocId": "intro",
           "docs": [
             {
               "id": "alabbaad/أدب",
-              "path": "/en/alabbaad/أدب",
+              "path": "/alabbaad/أدب",
               "sidebar": "fatawaSidebar"
             },
             {
               "id": "alabbaad/الصلاة",
-              "path": "/en/alabbaad/الصلاة",
+              "path": "/alabbaad/الصلاة",
               "sidebar": "fatawaSidebar"
             },
             {
               "id": "alabbaad/الصيام",
-              "path": "/en/alabbaad/الصيام",
+              "path": "/alabbaad/الصيام",
               "sidebar": "fatawaSidebar"
             },
             {
               "id": "alabbaad/القرآن",
-              "path": "/en/alabbaad/القرآن",
+              "path": "/alabbaad/القرآن",
               "sidebar": "fatawaSidebar"
             },
             {
               "id": "alabbaad/المتناوعة",
-              "path": "/en/alabbaad/المتناوعة",
+              "path": "/alabbaad/المتناوعة",
               "sidebar": "fatawaSidebar"
             },
             {
               "id": "alabbaad/المناسك",
-              "path": "/en/alabbaad/المناسك",
+              "path": "/alabbaad/المناسك",
               "sidebar": "fatawaSidebar"
             },
             {
               "id": "alabbaad/النساء",
-              "path": "/en/alabbaad/النساء",
+              "path": "/alabbaad/النساء",
               "sidebar": "fatawaSidebar"
             },
             {
               "id": "albadr/أدب",
-              "path": "/en/albadr/أدب",
+              "path": "/albadr/أدب",
               "sidebar": "fatawaSidebar"
             },
             {
               "id": "albadr/الصلاة",
-              "path": "/en/albadr/الصلاة",
+              "path": "/albadr/الصلاة",
               "sidebar": "fatawaSidebar"
             },
             {
               "id": "albadr/الصيام",
-              "path": "/en/albadr/الصيام",
+              "path": "/albadr/الصيام",
               "sidebar": "fatawaSidebar"
             },
             {
               "id": "albadr/القرآن",
-              "path": "/en/albadr/القرآن",
+              "path": "/albadr/القرآن",
               "sidebar": "fatawaSidebar"
             },
             {
               "id": "albadr/المناسك",
-              "path": "/en/albadr/المناسك",
+              "path": "/albadr/المناسك",
               "sidebar": "fatawaSidebar"
             },
             {
               "id": "albadr/النساء",
-              "path": "/en/albadr/النساء",
+              "path": "/albadr/النساء",
               "sidebar": "fatawaSidebar"
             },
             {
               "id": "intro",
-              "path": "/en/intro",
+              "path": "/intro",
               "sidebar": "fatawaSidebar"
             },
             {
               "id": "ruhayli/الزكاة",
-              "path": "/en/ruhayli/الزكاة",
+              "path": "/ruhayli/الزكاة",
               "sidebar": "fatawaSidebar"
             },
             {
               "id": "ruhayli/الصلاة",
-              "path": "/en/ruhayli/الصلاة",
+              "path": "/ruhayli/الصلاة",
               "sidebar": "fatawaSidebar"
             },
             {
               "id": "ruhayli/الصيام",
-              "path": "/en/ruhayli/الصيام",
+              "path": "/ruhayli/الصيام",
               "sidebar": "fatawaSidebar"
             },
             {
               "id": "ruhayli/الطهارة",
-              "path": "/en/ruhayli/الطهارة",
+              "path": "/ruhayli/الطهارة",
               "sidebar": "fatawaSidebar"
             },
             {
               "id": "ruhayli/القرآن",
-              "path": "/en/ruhayli/القرآن",
+              "path": "/ruhayli/القرآن",
               "sidebar": "fatawaSidebar"
             },
             {
               "id": "ruhayli/المتنوعة",
-              "path": "/en/ruhayli/المتنوعة",
+              "path": "/ruhayli/المتنوعة",
               "sidebar": "fatawaSidebar"
             },
             {
               "id": "ruhayli/المناسك",
-              "path": "/en/ruhayli/المناسك",
+              "path": "/ruhayli/المناسك",
               "sidebar": "fatawaSidebar"
             },
             {
               "id": "ruhayli/النساء",
-              "path": "/en/ruhayli/النساء",
+              "path": "/ruhayli/النساء",
               "sidebar": "fatawaSidebar"
             },
             {
               "id": "/category/الشيخ-سليمان-الرحيلي",
-              "path": "/en/category/الشيخ-سليمان-الرحيلي",
+              "path": "/category/الشيخ-سليمان-الرحيلي",
               "sidebar": "fatawaSidebar"
             },
             {
               "id": "/category/الشيخ-عبد-المحسن-العباد",
-              "path": "/en/category/الشيخ-عبد-المحسن-العباد",
+              "path": "/category/الشيخ-عبد-المحسن-العباد",
               "sidebar": "fatawaSidebar"
             },
             {
               "id": "/category/الشيخ-عبد-الرزاق-البدر",
-              "path": "/en/category/الشيخ-عبد-الرزاق-البدر",
+              "path": "/category/الشيخ-عبد-الرزاق-البدر",
               "sidebar": "fatawaSidebar"
             }
           ],
@@ -140,7 +140,7 @@
           "sidebars": {
             "fatawaSidebar": {
               "link": {
-                "path": "/en/intro",
+                "path": "/intro",
                 "label": "intro"
               }
             }

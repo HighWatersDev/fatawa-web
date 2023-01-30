@@ -7,7 +7,7 @@ export default {
   "title": "فتاوى علماء أهل السنة",
   "tagline": "",
   "url": "https://salafifatawa.azurewebsites.net",
-  "baseUrl": "/en/",
+  "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/fav2.ico",
@@ -61,7 +61,7 @@ export default {
       "searchPagePath": "search"
     },
     "navbar": {
-      "title": "Homepage",
+      "title": "الرئيسة",
       "logo": {
         "alt": "My Site Logo",
         "src": "img/logo2.jpeg"
@@ -71,7 +71,7 @@ export default {
           "type": "doc",
           "docId": "intro",
           "position": "left",
-          "label": "Fatawa"
+          "label": "الفتاوى"
         },
         {
           "type": "localeDropdown",
@@ -135,7 +135,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2022 Salafi Fatawa"
+      "copyright": "Copyright © 2023 Salafi Fatawa"
     },
     "prism": {
       "theme": {
