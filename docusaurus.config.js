@@ -89,7 +89,7 @@ const config = {
         title: 'الرئيسة',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo2.jpeg',
+          src: 'img/salafifatawa_logo.jpg',
         },
         items: [
           {
